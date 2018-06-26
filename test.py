@@ -5,17 +5,18 @@ import glob
 
 extensions = ['*.xls','*.xlsx','*.xlsm']
 filenames = []
+folder = input('(Example) /Users/sunny/Documents/UROP/PDS/worldbank/**/\nSearch Directory: ')
 for extension in extensions:
-    filenames.extend(glob.iglob('/Users/sunny/Documents/UROP/PDS/worldbank/**/' + extension, recursive=True))
+    filenames.extend(glob.iglob(folder + extension, recursive=True))
 
 result = open('result.txt', 'w+', encoding='utf-8')
 
 for filename in filenames:
 
     #result = open('result.txt', 'w+', encoding='utf-8')
-    result.write(filename)
+    result.write(filename + '\n')
     print(filename)
-    
+
     workbook = pd.ExcelFile(filename)
     for sheet in workbook.sheet_names:
 
@@ -38,11 +39,11 @@ for filename in filenames:
                 else:
                     numberCount += 1
                     count += 1
-                            
-        if stringCount > numberCount:
-            line = 'Useless ' + sheet
+
+        if stringCount >= numberCount or count == 0:
+            line = 'Useless ' + sheet + '\n'
         else:
-            line = 'Useful ' + sheet
+            line = 'Useful ' + sheet + '\n'
         result.write(line)
     #result.close()
 
