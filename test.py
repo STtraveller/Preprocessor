@@ -29,19 +29,29 @@ for filename in filenames:
         numberCount = 0
         count = 0
         for column in data:
+
+            if count >= 100:
+                break
+
+            columnSearch = 0
+
             for item in data[column]:
-                if count >= 100:
+
+                if count >= 100 or columnSearch >= 10:
                     break
                 elif type(item) == str:
                     stringCount += 1
                     count += 1
+                    columnSearch += 1
                 elif type(item) == float or type(item) == int:
                     if not math.isnan(item):
                         numberCount += 1
                         count += 1
+                        columnSearch += 1
                 else:
                     numberCount += 1
                     count += 1
+                    columnSearch += 1
 
         if stringCount >= numberCount or count == 0:
             line = 'Useless ' + sheet + '\n'
