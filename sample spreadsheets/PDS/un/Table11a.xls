@@ -1,0 +1,541 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<ss:Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:dyb="http://unstats.un.org/demography/DYB" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:x2="http://schemas.microsoft.com/office/excel/2003/xml" xmlns:html="http://www.w3.org/TR/REC-html40">
+  <o:OfficeDocumentSettings>
+    <o:Colors>
+      <o:Color>
+        <o:Index>55</o:Index>
+        <o:RGB>#EAEAEA</o:RGB>
+      </o:Color>
+    </o:Colors>
+  </o:OfficeDocumentSettings>
+  <ss:Styles>
+    <ss:Style ss:ID="Default" ss:Name="Normal">
+      <ss:Alignment ss:Vertical="Bottom" />
+      <ss:Borders />
+      <ss:Font ss:FontName="Arial" ss:Size="8" />
+      <ss:Interior />
+      <ss:NumberFormat />
+      <ss:Protection />
+    </ss:Style>
+    <ss:Style ss:ID="sCountryName">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Left" ss:Indent="1" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" />
+    </ss:Style>
+    <ss:Style ss:ID="sRefDate">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Left" ss:Indent="2" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" />
+    </ss:Style>
+    <ss:Style ss:ID="sAgeGroup">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Left" ss:Indent="3" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" />
+    </ss:Style>
+    <ss:Style ss:ID="sDataIntegerRoman">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Right" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" />
+      <ss:NumberFormat ss:Format="#,##0" />
+    </ss:Style>
+    <ss:Style ss:ID="sDataFloatRoman">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Right" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" />
+      <ss:NumberFormat ss:Format="#0.0" />
+    </ss:Style>
+    <ss:Style ss:ID="sDataIntegerItalic">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Right" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" ss:Italic="1" />
+      <ss:NumberFormat ss:Format="#,##0" />
+    </ss:Style>
+    <ss:Style ss:ID="sDataFloatItalic">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Right" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" ss:Italic="1" />
+      <ss:NumberFormat ss:Format="#0.0" />
+    </ss:Style>
+    <ss:Style ss:ID="sFootnoteReference">
+      <ss:Alignment ss:Horizontal="Left" ss:Vertical="Bottom" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" ss:VerticalAlign="Superscript" />
+      <ss:NumberFormat ss:Format="0" />
+    </ss:Style>
+    <ss:Style ss:ID="sFootnoteText">
+      <ss:Alignment ss:Vertical="Top" ss:Horizontal="Left" ss:WrapText="1" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" />
+    </ss:Style>
+    <ss:Style ss:ID="sLeft">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Left" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" />
+    </ss:Style>
+    <ss:Style ss:ID="sRight">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Right" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" />
+    </ss:Style>
+    <ss:Style ss:ID="sCenter">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Center" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" />
+    </ss:Style>
+    <ss:Style ss:ID="sLeftBold">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Left" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" ss:Bold="1" />
+    </ss:Style>
+    <ss:Style ss:ID="sRightBold">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Right" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" ss:Bold="1" />
+    </ss:Style>
+    <ss:Style ss:ID="sLeftBoldWrap">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Left" ss:WrapText="1" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" ss:Bold="1" />
+    </ss:Style>
+    <ss:Style ss:ID="sLeftBoldBorder">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Left" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" ss:Bold="1" />
+      <ss:Borders>
+        <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+      </ss:Borders>
+    </ss:Style>
+    <ss:Style ss:ID="sLeftBoldBorderWrap">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Left" ss:WrapText="1" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" ss:Bold="1" />
+      <ss:Borders>
+        <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+      </ss:Borders>
+    </ss:Style>
+    <ss:Style ss:ID="sRightBoldBorder">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Right" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" ss:Bold="1" />
+      <ss:Borders>
+        <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+      </ss:Borders>
+    </ss:Style>
+    <ss:Style ss:ID="sRightBoldBorderWrap">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Right" ss:WrapText="1" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" ss:Bold="1" />
+      <ss:Borders>
+        <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+      </ss:Borders>
+    </ss:Style>
+    <ss:Style ss:ID="sCenterBold">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Center" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" ss:Bold="1" />
+    </ss:Style>
+    <ss:Style ss:ID="sCenterBoldWrap">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Center" ss:WrapText="1" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" ss:Bold="1" />
+    </ss:Style>
+    <ss:Style ss:ID="sCenterBoldBorder">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Center" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" ss:Bold="1" />
+      <ss:Borders>
+        <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+      </ss:Borders>
+    </ss:Style>
+    <ss:Style ss:ID="sCenterBoldBorderWrap">
+      <ss:Alignment ss:Vertical="Center" ss:Horizontal="Center" ss:WrapText="1" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" ss:Bold="1" />
+      <ss:Borders>
+        <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+      </ss:Borders>
+    </ss:Style>
+    <ss:Style ss:ID="sCenterBottomBoldBorderWrap">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Center" ss:WrapText="1" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" ss:Bold="1" />
+      <ss:Borders>
+        <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+      </ss:Borders>
+    </ss:Style>
+    <ss:Style ss:ID="sLeftTopWrap">
+      <ss:Alignment ss:Vertical="Top" ss:Horizontal="Left" ss:WrapText="1" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" />
+    </ss:Style>
+  </ss:Styles>
+  <ss:Worksheet ss:Name="Data">
+    <ss:Names>
+      <ss:NamedRange ss:Name="Print_Titles" ss:RefersTo="=Data!R1:R6" />
+    </ss:Names>
+    <ss:Table ss:ExpandedColumnCount="5">
+      <ss:Column ss:Width="200" />
+      <ss:Column ss:Width="70" />
+      <ss:Column ss:Width="12" />
+      <ss:Column ss:Width="70" />
+      <ss:Column ss:Width="12" />
+      <ss:Row />
+      <ss:Row ss:Height="25">
+        <ss:Cell ss:MergeAcross="4" ss:StyleID="sCenterBoldWrap">
+          <ss:Data ss:Type="String">11a. Live births and live birth rates by age of father:  2010</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row ss:Height="25">
+        <ss:Cell ss:MergeAcross="4" ss:StyleID="sCenterBoldWrap">
+          <ss:Data ss:Type="String">Naissances vivantes et taux de natalité selon l’âge du père :  2010</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row ss:Height="26">
+        <ss:Cell ss:StyleID="sLeftBoldBorderWrap" ss:MergeDown="1">
+          <ss:Data ss:Type="String">Continent, country or area, year, code and age of father (in years)&#10;Continent, pays ou zone, année, code et âge du père (en années)</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sCenterBoldBorderWrap" ss:MergeAcross="1">
+          <ss:Data ss:Type="String">Number&#10;Nombre</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sCenterBoldBorderWrap" ss:MergeAcross="1" ss:MergeDown="1">
+          <ss:Data ss:Type="String">Rate&#10;Taux</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row ss:Height="26">
+        <ss:Cell ss:StyleID="sCenterBoldBorderWrap" ss:MergeAcross="1" ss:Index="2">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row />
+      <ss:Row>
+        <ss:Cell ss:StyleID="sLeftBold">
+          <ss:Data ss:Type="String">AMERICA, NORTH - AMÉRIQUE DU NORD</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell ss:StyleID="sCountryName">
+          <ss:Data ss:Type="String">Costa Rica</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell ss:StyleID="sRefDate">
+          <ss:Data ss:Type="String">2010*
+(C)</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell ss:StyleID="sAgeGroup">
+          <ss:Data ss:Type="String">Total</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">70922</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataFloatRoman">
+          <ss:Data ss:Type="Number">49.4110139</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell ss:StyleID="sAgeGroup">
+          <ss:Data ss:Type="String">0 - 19</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">1593</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataFloatRoman">
+          <ss:Data ss:Type="Number">10.1926463</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell ss:StyleID="sAgeGroup">
+          <ss:Data ss:Type="String">20 - 24</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">9156</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataFloatRoman">
+          <ss:Data ss:Type="Number">57.815692299999995</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell ss:StyleID="sAgeGroup">
+          <ss:Data ss:Type="String">25 - 29</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">11340</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataFloatRoman">
+          <ss:Data ss:Type="Number">86.866307</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell ss:StyleID="sAgeGroup">
+          <ss:Data ss:Type="String">30 - 34</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">10082</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataFloatRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell ss:StyleID="sAgeGroup">
+          <ss:Data ss:Type="String">35 - 39</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">5970</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataFloatRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell ss:StyleID="sAgeGroup">
+          <ss:Data ss:Type="String">40 - 44</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">3149</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataFloatRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell ss:StyleID="sAgeGroup">
+          <ss:Data ss:Type="String">45 - 49</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">1393</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataFloatRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell ss:StyleID="sAgeGroup">
+          <ss:Data ss:Type="String">50 - 54</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">550</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataFloatRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell ss:StyleID="sAgeGroup">
+          <ss:Data ss:Type="String">55 - 59</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">177</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataFloatRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell ss:StyleID="sAgeGroup">
+          <ss:Data ss:Type="String">60 - 64</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">67</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataFloatRoman">
+          <ss:Data ss:Type="String">..</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell ss:StyleID="sAgeGroup">
+          <ss:Data ss:Type="String">65 +</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">5769</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataFloatRoman">
+          <ss:Data ss:Type="String">..</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell ss:StyleID="sAgeGroup">
+          <ss:Data ss:Type="String">Unknown - Inconnu</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">21676</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataFloatRoman">
+          <ss:Data ss:Type="String">..</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+      </ss:Row>
+    </ss:Table>
+    <x:WorksheetOptions>
+      <x:PageSetup>
+        <x:Layout x:Orientation="Portrait" />
+        <x:Footer x:Data="Page &amp;P of &amp;N" />
+      </x:PageSetup>
+      <x:FitToPage />
+      <x:Print>
+        <x:FitHeight>0</x:FitHeight>
+        <x:FitWidth>1</x:FitWidth>
+      </x:Print>
+      <x:FreezePanes />
+      <x:FrozenNoSplit />
+      <x:SplitHorizontal>6</x:SplitHorizontal>
+      <x:TopRowBottomPane>6</x:TopRowBottomPane>
+      <x:ActivePane>2</x:ActivePane>
+      <x:Panes>
+        <x:Pane>
+          <x:Number>3</x:Number>
+        </x:Pane>
+        <x:Pane>
+          <x:Number>2</x:Number>
+          <x:ActiveRow>6</x:ActiveRow>
+          <x:ActiveCol>0</x:ActiveCol>
+        </x:Pane>
+      </x:Panes>
+    </x:WorksheetOptions>
+  </ss:Worksheet>
+  <ss:Worksheet ss:Name="Footnotes">
+    <ss:Names>
+      <ss:NamedRange ss:Name="Print_Titles" ss:RefersTo="=Footnotes!R1:R3" />
+    </ss:Names>
+    <ss:Table ss:ExpandedColumnCount="1">
+      <ss:Column ss:Width="800" />
+      <ss:Row />
+      <ss:Row>
+        <ss:Cell ss:StyleID="sLeftBoldWrap">
+          <ss:Data ss:Type="String">FOOTNOTES&#10;NOTES</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row />
+      <ss:Row>
+        <ss:Cell ss:StyleID="sFootnoteText">
+          <ss:Data ss:Type="String">♦
+Rates based on 30 or fewer births. -  Taux basés sur 30 naissances ou moins.
+      </ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell ss:StyleID="sFootnoteText">
+          <ss:Data ss:Type="String">*
+Provisional. -  Données provisoires.
+
+      </ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell ss:StyleID="sFootnoteText">
+          <ss:Data ss:Type="String">
+
+
+     'Code' indicates the source of data, as follows:
+
+     C - Civil registration, estimated over 90% complete
+     U - Civil registration, estimated less than 90% complete
+     | - Other source, estimated reliable
+     + - Data tabulated by date of registration rather than occurrence.
+     ... Information not available
+
+
+     Le ’Code’ indique la source des données, comme suit:
+
+     C - Registres de l’état civil considérés complets à 90 p. 100 au moins.
+     U - Registres de l’état civil qui ne sont pas considérés complets à 90 p. 100 au moins.
+     | - Autre source, considérée fiable.
+     + - Données exploitées selon la date de l’enregistrement et non la date de l’événement.
+     ... Information non disponible.
+
+      </ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row />
+    </ss:Table>
+    <x:WorksheetOptions>
+      <x:PageSetup>
+        <x:Layout x:Orientation="Landscape" />
+        <x:Footer x:Data="Page &amp;P of &amp;N" />
+      </x:PageSetup>
+      <x:FitToPage />
+      <x:Print>
+        <x:FitHeight>0</x:FitHeight>
+        <x:FitWidth>1</x:FitWidth>
+      </x:Print>
+      <x:FreezePanes />
+      <x:FrozenNoSplit />
+    </x:WorksheetOptions>
+  </ss:Worksheet>
+</ss:Workbook>

@@ -1,0 +1,867 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<ss:Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:dyb="http://unstats.un.org/demography/DYB" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:x2="http://schemas.microsoft.com/office/excel/2003/xml" xmlns:html="http://www.w3.org/TR/REC-html40">
+  <o:OfficeDocumentSettings>
+    <o:Colors>
+      <o:Color>
+        <o:Index>55</o:Index>
+        <o:RGB>#EAEAEA</o:RGB>
+      </o:Color>
+    </o:Colors>
+  </o:OfficeDocumentSettings>
+  <ss:Styles>
+    <ss:Style ss:ID="Default" ss:Name="Normal">
+      <ss:Alignment ss:Vertical="Bottom" />
+      <ss:Borders />
+      <ss:Font ss:FontName="Arial" ss:Size="8" />
+      <ss:Interior />
+      <ss:NumberFormat />
+      <ss:Protection />
+    </ss:Style>
+    <ss:Style ss:ID="sCountryName">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Left" ss:Indent="1" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" />
+    </ss:Style>
+    <ss:Style ss:ID="sRefDate">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Left" ss:Indent="2" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" />
+    </ss:Style>
+    <ss:Style ss:ID="sAgeGroup">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Left" ss:Indent="3" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" />
+    </ss:Style>
+    <ss:Style ss:ID="sDataIntegerRoman">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Right" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" />
+      <ss:NumberFormat ss:Format="#,##0" />
+    </ss:Style>
+    <ss:Style ss:ID="sDataFloatRoman">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Right" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" />
+      <ss:NumberFormat ss:Format="#0.0" />
+    </ss:Style>
+    <ss:Style ss:ID="sDataIntegerItalic">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Right" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" ss:Italic="1" />
+      <ss:NumberFormat ss:Format="#,##0" />
+    </ss:Style>
+    <ss:Style ss:ID="sDataFloatItalic">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Right" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" ss:Italic="1" />
+      <ss:NumberFormat ss:Format="#0.0" />
+    </ss:Style>
+    <ss:Style ss:ID="sFertility">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Right" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" />
+      <ss:NumberFormat ss:Format="#0.000" />
+    </ss:Style>
+    <ss:Style ss:ID="sFootnoteReference">
+      <ss:Alignment ss:Horizontal="Left" ss:Vertical="Top" />
+      <ss:Font ss:FontName="Arial" ss:Size="7" />
+      <ss:NumberFormat ss:Format="0" />
+    </ss:Style>
+    <ss:Style ss:ID="sFootnoteText">
+      <ss:Alignment ss:Vertical="Top" ss:Horizontal="Left" ss:WrapText="1" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" />
+    </ss:Style>
+    <ss:Style ss:ID="sLeft">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Left" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" />
+    </ss:Style>
+    <ss:Style ss:ID="sRight">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Right" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" />
+    </ss:Style>
+    <ss:Style ss:ID="sCenter">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Center" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" />
+    </ss:Style>
+    <ss:Style ss:ID="sCode">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Center" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" />
+      <ss:Interior ss:Color="#C0C0C0" ss:Pattern="Solid" />
+    </ss:Style>
+    <ss:Style ss:ID="sLeftBold">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Left" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" ss:Bold="1" />
+    </ss:Style>
+    <ss:Style ss:ID="sRightBold">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Right" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" ss:Bold="1" />
+    </ss:Style>
+    <ss:Style ss:ID="sLeftBoldWrap">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Left" ss:WrapText="1" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" ss:Bold="1" />
+    </ss:Style>
+    <ss:Style ss:ID="sLeftBoldBorder">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Left" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" ss:Bold="1" />
+      <ss:Borders>
+        <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+      </ss:Borders>
+    </ss:Style>
+    <ss:Style ss:ID="sLeftBoldBorderWrap">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Left" ss:WrapText="1" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" ss:Bold="1" />
+      <ss:Borders>
+        <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+      </ss:Borders>
+    </ss:Style>
+    <ss:Style ss:ID="sRightBoldBorder">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Right" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" ss:Bold="1" />
+      <ss:Borders>
+        <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+      </ss:Borders>
+    </ss:Style>
+    <ss:Style ss:ID="sRightBoldBorderWrap">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Right" ss:WrapText="1" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" ss:Bold="1" />
+      <ss:Borders>
+        <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+      </ss:Borders>
+    </ss:Style>
+    <ss:Style ss:ID="sCenterBold">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Center" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" ss:Bold="1" />
+    </ss:Style>
+    <ss:Style ss:ID="sCenterBoldBorder">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Center" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" ss:Bold="1" />
+      <ss:Borders>
+        <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+      </ss:Borders>
+    </ss:Style>
+    <ss:Style ss:ID="sCenterBoldBorderWrap">
+      <ss:Alignment ss:Vertical="Center" ss:Horizontal="Center" ss:WrapText="1" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" ss:Bold="1" />
+      <ss:Borders>
+        <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+      </ss:Borders>
+    </ss:Style>
+    <ss:Style ss:ID="sCenterBottomBoldBorderWrap">
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Center" ss:WrapText="1" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" ss:Bold="1" />
+      <ss:Borders>
+        <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+        <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000080" />
+      </ss:Borders>
+    </ss:Style>
+    <ss:Style ss:ID="sLeftTopWrap">
+      <ss:Alignment ss:Vertical="Top" ss:Horizontal="Left" ss:WrapText="1" />
+      <ss:Font ss:FontName="Arial" ss:Size="8" />
+    </ss:Style>
+  </ss:Styles>
+  <ss:Worksheet ss:Name="Data">
+    <ss:Names>
+      <ss:NamedRange ss:Name="Print_Titles" ss:RefersTo="=Data!R1:R6" />
+    </ss:Names>
+    <ss:Table ss:ExpandedColumnCount="19">
+      <ss:Column ss:Width="150" />
+      <ss:Column ss:Width="45" />
+      <ss:Column ss:Width="12" />
+      <ss:Column ss:Width="45" />
+      <ss:Column ss:Width="12" />
+      <ss:Column ss:Width="45" />
+      <ss:Column ss:Width="12" />
+      <ss:Column ss:Width="45" />
+      <ss:Column ss:Width="12" />
+      <ss:Column ss:Width="45" />
+      <ss:Column ss:Width="12" />
+      <ss:Column ss:Width="45" />
+      <ss:Column ss:Width="12" />
+      <ss:Column ss:Width="45" />
+      <ss:Column ss:Width="12" />
+      <ss:Column ss:Width="45" />
+      <ss:Column ss:Width="12" />
+      <ss:Column ss:Width="45" />
+      <ss:Column ss:Width="12" />
+      <ss:Row />
+      <ss:Row>
+        <ss:Cell ss:MergeAcross="18" ss:StyleID="sCenterBold">
+          <ss:Data ss:Type="String">14a. Legally induced abortions by age and number of previous live births of women:  2010</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell ss:MergeAcross="18" ss:StyleID="sCenterBold">
+          <ss:Data ss:Type="String">Avortments provoqués légalement selon l’âge de la femme et selon le nombre des naissances vivantes précédentes:  2010</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row ss:Height="26">
+        <ss:Cell ss:StyleID="sLeftBoldBorderWrap" ss:MergeDown="1">
+          <ss:Data ss:Type="String">Continent, country or area, year and age&#10;Continent, pays ou zone, année et âge</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sCenterBoldBorderWrap" ss:MergeAcross="17">
+          <ss:Data ss:Type="String">Number of previous live births&#10;Nombre des naissances vivantes précédentes</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row ss:Height="26">
+        <ss:Cell ss:StyleID="sCenterBoldBorderWrap" ss:MergeAcross="1" ss:Index="2">
+          <ss:Data ss:Type="String">Total</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sCenterBoldBorderWrap" ss:MergeAcross="1">
+          <ss:Data ss:Type="String">0</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sCenterBoldBorderWrap" ss:MergeAcross="1">
+          <ss:Data ss:Type="String">1</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sCenterBoldBorderWrap" ss:MergeAcross="1">
+          <ss:Data ss:Type="String">2</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sCenterBoldBorderWrap" ss:MergeAcross="1">
+          <ss:Data ss:Type="String">3</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sCenterBoldBorderWrap" ss:MergeAcross="1">
+          <ss:Data ss:Type="String">4</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sCenterBoldBorderWrap" ss:MergeAcross="1">
+          <ss:Data ss:Type="String">5</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sCenterBoldBorderWrap" ss:MergeAcross="1">
+          <ss:Data ss:Type="String">6+</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sCenterBoldBorderWrap" ss:MergeAcross="1">
+          <ss:Data ss:Type="String">Unknown - Inconnu</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row />
+      <ss:Row>
+        <ss:Cell ss:StyleID="sLeftBold">
+          <ss:Data ss:Type="String">ASIA - ASIE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell ss:StyleID="sCountryName">
+          <ss:Data ss:Type="String">Singapore - Singapour</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell ss:StyleID="sRefDate">
+          <ss:Data ss:Type="String">2010</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell ss:StyleID="sAgeGroup">
+          <ss:Data ss:Type="String">Total</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">12082.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">5885.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">2422.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">2442.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">959.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">374.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String">^</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell ss:StyleID="sAgeGroup">
+          <ss:Data ss:Type="String">0 - 14</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">23.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">22.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">1.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="String">-</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="String">-</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="String">-</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String">^</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell ss:StyleID="sAgeGroup">
+          <ss:Data ss:Type="String">15 - 19</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">1072.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">982.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">81.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">9.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="String">-</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="String">-</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String">^</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell ss:StyleID="sAgeGroup">
+          <ss:Data ss:Type="String">20 - 24</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">2934.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">2296.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">398.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">181.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">41.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">18.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String">^</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell ss:StyleID="sAgeGroup">
+          <ss:Data ss:Type="String">25 - 29</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">3101.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">1665.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">732.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">486.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">159.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">59.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String">^</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell ss:StyleID="sAgeGroup">
+          <ss:Data ss:Type="String">30 - 34</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">2431.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">642.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">657.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">761.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">264.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">107.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String">^</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell ss:StyleID="sAgeGroup">
+          <ss:Data ss:Type="String">35 - 39</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">1832.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">232.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">417.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">734.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">335.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">114.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String">^</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell ss:StyleID="sAgeGroup">
+          <ss:Data ss:Type="String">40 - 44</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">624.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">43.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">128.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">247.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">136.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">70.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String">^</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell ss:StyleID="sAgeGroup">
+          <ss:Data ss:Type="String">45 +</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">65.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">3.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">8.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">24.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">24.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="Number">6.0000000000</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String">^</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sDataIntegerRoman">
+          <ss:Data ss:Type="String">...</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:StyleID="sFootnoteReference">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+      </ss:Row>
+    </ss:Table>
+    <x:WorksheetOptions>
+      <x:PageSetup>
+        <x:Layout x:Orientation="Landscape" />
+        <x:Footer x:Data="Page &amp;P of &amp;N" />
+      </x:PageSetup>
+      <x:FitToPage />
+      <x:Print>
+        <x:FitHeight>0</x:FitHeight>
+        <x:FitWidth>1</x:FitWidth>
+      </x:Print>
+      <x:FreezePanes />
+      <x:FrozenNoSplit />
+      <x:SplitHorizontal>6</x:SplitHorizontal>
+      <x:TopRowBottomPane>6</x:TopRowBottomPane>
+      <x:ActivePane>2</x:ActivePane>
+      <x:Panes>
+        <x:Pane>
+          <x:Number>3</x:Number>
+        </x:Pane>
+        <x:Pane>
+          <x:Number>2</x:Number>
+          <x:ActiveRow>6</x:ActiveRow>
+          <x:ActiveCol>0</x:ActiveCol>
+        </x:Pane>
+      </x:Panes>
+    </x:WorksheetOptions>
+  </ss:Worksheet>
+  <ss:Worksheet ss:Name="Footnotes">
+    <ss:Names>
+      <ss:NamedRange ss:Name="Print_Titles" ss:RefersTo="=Footnotes!R1:R3" />
+    </ss:Names>
+    <ss:Table ss:ExpandedColumnCount="1">
+      <ss:Column ss:Width="800" />
+      <ss:Row />
+      <ss:Row>
+        <ss:Cell ss:StyleID="sLeftBoldWrap">
+          <ss:Data ss:Type="String">FOOTNOTES&#10;NOTES</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row />
+      <ss:Row>
+        <ss:Cell ss:StyleID="sFootnoteText">
+          <ss:Data ss:Type="String">*
+Provisional. -    Données provisoires.
+
+      </ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell ss:StyleID="sFootnoteText">
+          <ss:Data ss:Type="String">^
+Indicates an open-ended group, for example  4+.  -    indique un groupe d'âge ouvert, par exemple 4 ou plus.
+
+        </ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row />
+    </ss:Table>
+    <x:WorksheetOptions>
+      <x:PageSetup>
+        <x:Layout x:Orientation="Landscape" />
+        <x:Footer x:Data="Page &amp;P of &amp;N" />
+      </x:PageSetup>
+      <x:FitToPage />
+      <x:Print>
+        <x:FitHeight>0</x:FitHeight>
+        <x:FitWidth>1</x:FitWidth>
+      </x:Print>
+      <x:FreezePanes />
+      <x:FrozenNoSplit />
+    </x:WorksheetOptions>
+  </ss:Worksheet>
+</ss:Workbook>
