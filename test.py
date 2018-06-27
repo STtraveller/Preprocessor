@@ -54,9 +54,9 @@ for filename in filenames:
                     columnSearch += 1
 
         if stringCount >= numberCount or count == 0:
-            line = 'Useless ' + filename + ' - '+ sheet + '\n'
+            line = 'Useless ' + sheet + '\n'
         else:
-            line = 'Useful ' + filename + ' - ' + sheet + '\n'
+            line = 'Useful ' + sheet + '\n'
         result.write(line)
 
 result.close()
