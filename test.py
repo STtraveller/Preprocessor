@@ -73,4 +73,6 @@ for filename in filenames:
             result.write(line)
         result.close()
     except:
-        print(filename + " has error.")
+        print(filename + " has error.\n")
+        result.write(filename + " has error.\n")
+        result.close()
