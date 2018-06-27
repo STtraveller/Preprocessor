@@ -3,7 +3,7 @@ import pandas as pd
 import math
 import glob
 from distutils.util import strtobool
-import xlrd.compdoc
+
 
 
 extensions = ['*.xls','*.xlsx','*.xlsm']
@@ -71,7 +71,6 @@ for filename in filenames:
             else:
                 line = 'Useful ' + sheet + '\n'
             result.write(line)
-    except xlrd.compdoc.CompDocError:
+        result.close()
+    except:
         print(filename + " has error.")
-
-    result.close()
