@@ -46,7 +46,7 @@ for filename in filenames:
         workbook = pd.ExcelFile(filename)
         for sheet in workbook.sheet_names:
 
-            data = pd.read_excel(filename, sheet)
+            data = pd.read_excel(filename, sheet, header = None)
 
             stringCount = 0
             numberCount = 0
