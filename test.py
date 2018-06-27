@@ -1,10 +1,15 @@
 # -*- coding: utf8 -*-
+
+
+# import the modules
+
 import pandas as pd
 import math
 import glob
 from distutils.util import strtobool
 
 
+# get the file list to be searched
 
 extensions = ['*.xls','*.xlsx','*.xlsm']
 filenames = []
@@ -20,15 +25,23 @@ for extension in extensions:
 filenames.sort()
 
 
+# clean up/ creaste the output text file
+
 result = open('result.txt', 'w+', encoding='utf-8')
 result.close()
 
+
+# start reading files
 
 for filename in filenames:
 
     result = open('result.txt', 'a+', encoding='utf-8')
     result.write(filename + '\n')
     print(filename)
+
+
+# main algorithm
+
     try:
         workbook = pd.ExcelFile(filename)
         for sheet in workbook.sheet_names:
@@ -72,6 +85,9 @@ for filename in filenames:
                 line = 'Useful ' + sheet + '\n'
             result.write(line)
         result.close()
+
+# Error handling
+
     except:
         print(filename + " has error.\n")
         result.write(filename + " has error.\n")
