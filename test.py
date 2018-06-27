@@ -4,6 +4,7 @@
 # import the modules
 
 import pandas as pd
+import numpy as np
 import math
 import glob
 from distutils.util import strtobool
@@ -23,6 +24,8 @@ if bool(strtobool(recur)):
 for extension in extensions:
     filenames.extend(glob.iglob(folder + extension, recursive = bool(strtobool(recur))))
 filenames.sort()
+totalSearch = len(filenames)
+searchCount = 0
 
 
 # clean up/ creaste the output text file
@@ -38,7 +41,7 @@ for filename in filenames:
     result = open('result.txt', 'a+', encoding='utf-8')
     result.write(filename + '\n')
     print(filename)
-
+    searchCount += 1
 
 # main algorithm
 
@@ -92,3 +95,5 @@ for filename in filenames:
         print(filename + " has error.\n")
         result.write(filename + " has error.\n")
         result.close()
+
+    print('Progress: %.2f' % (searchCount / totalSearch * 100) + '%')
