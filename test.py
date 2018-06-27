@@ -3,14 +3,16 @@ import pandas as pd
 import math
 import glob
 from distutils.util import strtobool
+import xlrd.compdoc
 
 
 extensions = ['*.xls','*.xlsx','*.xlsm']
 filenames = []
-folder = input('(Example) /Users/sunny/Documents/UROP/\nSearch Directory:\n')
-if folder[-1] != '/':
-    folder = folder + '/'
-recur = input('Search dirctory recursively? (True/False))\n')
+# folder = input('(Example) /Users/sunny/Documents/UROP/\nSearch Directory:\n')
+# if folder[-1] != '/':
+#     folder = folder + '/'
+folder = './sample spreadsheets/'
+recur = input('Search directory recursively? (True/False))\n')
 if bool(strtobool(recur)):
     folder = folder + '**/'
 for extension in extensions:
@@ -27,47 +29,49 @@ for filename in filenames:
     result = open('result.txt', 'a+', encoding='utf-8')
     result.write(filename + '\n')
     print(filename)
+    try:
+        workbook = pd.ExcelFile(filename)
+        for sheet in workbook.sheet_names:
 
-    workbook = pd.ExcelFile(filename)
-    for sheet in workbook.sheet_names:
+            data = pd.read_excel(filename, sheet)
 
-        data = pd.read_excel(filename, sheet)
+            stringCount = 0
+            numberCount = 0
+            count = 0
 
-        stringCount = 0
-        numberCount = 0
-        count = 0
+            for column in data:
 
-        for column in data:
-
-            if count >= 100:
-                break
-
-            columnSearch = 0
-
-            for item in data[column]:
-
-                if count >= 100 or columnSearch >= 10:
+                if count >= 100:
                     break
-                elif type(item) == str:
-                    stringCount += 1
-                    count += 1
-                    columnSearch += 1
-                elif type(item) == float or type(item) == int:
-                    if not math.isnan(item):
+
+                columnSearch = 0
+
+                for item in data[column]:
+
+                    if count >= 100 or columnSearch >= 10:
+                        break
+                    elif type(item) == str:
+                        stringCount += 1
+                        count += 1
+                        columnSearch += 1
+                    elif type(item) == float or type(item) == int:
+                        if not math.isnan(item):
+                            numberCount += 1
+                            count += 1
+                            columnSearch += 1
+                    else:
                         numberCount += 1
                         count += 1
                         columnSearch += 1
-                else:
-                    numberCount += 1
-                    count += 1
-                    columnSearch += 1
 
-        if count == 0:
-            line = 'Empty ' + sheet + '\n'
-        elif stringCount >= numberCount:
-            line = 'Useless ' + sheet + '\n'
-        else:
-            line = 'Useful ' + sheet + '\n'
-        result.write(line)
+            if count == 0:
+                line = 'Empty ' + sheet + '\n'
+            elif stringCount >= numberCount:
+                line = 'Useless ' + sheet + '\n'
+            else:
+                line = 'Useful ' + sheet + '\n'
+            result.write(line)
+    except xlrd.compdoc.CompDocError:
+        print(filename + " has error.")
 
     result.close()
