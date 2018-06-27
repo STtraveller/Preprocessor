@@ -1,0 +1,1188 @@
+﻿<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40"
+ xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10005</WindowHeight>
+  <WindowWidth>10005</WindowWidth>
+  <WindowTopX>120</WindowTopX>
+  <WindowTopY>135</WindowTopY>
+  <ActiveSheet>1</ActiveSheet>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Table 19">
+  <Table ss:ExpandedColumnCount="13" ss:ExpandedRowCount="101" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="150"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">19</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:MergeAcross="12" ss:StyleID="s62"><Data ss:Type="String">Indicators on fuel imports, developed economies</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="12"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:Index="5" ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">      Region, country or area      </Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2007</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2008</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2009</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2010</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2009Q3</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2009Q4</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2010Q1</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2010Q2</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2010Q3</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2010Q4</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2011Q1</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2011Q2</Data></Cell>
+   </Row>
+   <Row ss:Index="7" ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="12" ss:StyleID="s67"><Data ss:Type="String">Fuel imports as percent of total imports - Importation des produits energetiques en pourcentage des importations totales</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Developed economies</Data></Cell>
+    <Cell><Data ss:Type="Number">14.6</Data></Cell>
+    <Cell><Data ss:Type="Number">18.600000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">14.7</Data></Cell>
+    <Cell><Data ss:Type="Number">15.8</Data></Cell>
+    <Cell><Data ss:Type="Number">15.3</Data></Cell>
+    <Cell><Data ss:Type="Number">15.3</Data></Cell>
+    <Cell><Data ss:Type="Number">16.2</Data></Cell>
+    <Cell><Data ss:Type="Number">15.9</Data></Cell>
+    <Cell><Data ss:Type="Number">15.7</Data></Cell>
+    <Cell><Data ss:Type="Number">15.5</Data></Cell>
+    <Cell><Data ss:Type="Number">17.5</Data></Cell>
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String"> America</Data></Cell>
+    <Cell><Data ss:Type="Number">16.600000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">20.9</Data></Cell>
+    <Cell><Data ss:Type="Number">15.6</Data></Cell>
+    <Cell><Data ss:Type="Number">16.600000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">16.8</Data></Cell>
+    <Cell><Data ss:Type="Number">15.9</Data></Cell>
+    <Cell><Data ss:Type="Number">17.600000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">17.3</Data></Cell>
+    <Cell><Data ss:Type="Number">16.5</Data></Cell>
+    <Cell><Data ss:Type="Number">15.3</Data></Cell>
+    <Cell><Data ss:Type="Number">18.3</Data></Cell>
+    <Cell><Data ss:Type="Number">19.8</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Canada</Data></Cell>
+    <Cell><Data ss:Type="Number">9.3000000000000007</Data></Cell>
+    <Cell><Data ss:Type="Number">12.4</Data></Cell>
+    <Cell><Data ss:Type="Number">9.4</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  United States</Data></Cell>
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell><Data ss:Type="Number">22.5</Data></Cell>
+    <Cell><Data ss:Type="Number">16.899999999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell><Data ss:Type="Number">18.2</Data></Cell>
+    <Cell><Data ss:Type="Number">17.2</Data></Cell>
+    <Cell><Data ss:Type="Number">19.2</Data></Cell>
+    <Cell><Data ss:Type="Number">18.8</Data></Cell>
+    <Cell><Data ss:Type="Number">17.7</Data></Cell>
+    <Cell><Data ss:Type="Number">16.399999999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">19.7</Data></Cell>
+    <Cell><Data ss:Type="Number">21.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String"> Europe</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="Number">15.3</Data></Cell>
+    <Cell><Data ss:Type="Number">12.6</Data></Cell>
+    <Cell><Data ss:Type="Number">13.6</Data></Cell>
+    <Cell><Data ss:Type="Number">12.7</Data></Cell>
+    <Cell><Data ss:Type="Number">13.1</Data></Cell>
+    <Cell><Data ss:Type="Number">13.6</Data></Cell>
+    <Cell><Data ss:Type="Number">13.4</Data></Cell>
+    <Cell><Data ss:Type="Number">13.5</Data></Cell>
+    <Cell><Data ss:Type="Number">13.9</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">15.1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Austria</Data></Cell>
+    <Cell><Data ss:Type="Number">10.199999999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="Number">10.5</Data></Cell>
+    <Cell><Data ss:Type="Number">10.6</Data></Cell>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="Number">11.2</Data></Cell>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="Number">9.6999999999999993</Data></Cell>
+    <Cell><Data ss:Type="Number">10.6</Data></Cell>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="Number">11.6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Belgium</Data></Cell>
+    <Cell><Data ss:Type="Number">10.5</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">10.7</Data></Cell>
+    <Cell><Data ss:Type="Number">12.6</Data></Cell>
+    <Cell><Data ss:Type="Number">10.3</Data></Cell>
+    <Cell><Data ss:Type="Number">11.1</Data></Cell>
+    <Cell><Data ss:Type="Number">11.9</Data></Cell>
+    <Cell><Data ss:Type="Number">11.9</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="Number">14.2</Data></Cell>
+    <Cell><Data ss:Type="Number">14.8</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Denmark</Data></Cell>
+    <Cell><Data ss:Type="Number">5.5</Data></Cell>
+    <Cell><Data ss:Type="Number">7.9</Data></Cell>
+    <Cell><Data ss:Type="Number">7.2</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="Number">7.5</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="Number">8.1</Data></Cell>
+    <Cell><Data ss:Type="Number">8.6</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="Number">8.1999999999999993</Data></Cell>
+    <Cell><Data ss:Type="Number">8.8000000000000007</Data></Cell>
+    <Cell><Data ss:Type="Number">11.3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Finland</Data></Cell>
+    <Cell><Data ss:Type="Number">13.8</Data></Cell>
+    <Cell><Data ss:Type="Number">17.399999999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">16.899999999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">18.399999999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">18.600000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="Number">19.3</Data></Cell>
+    <Cell><Data ss:Type="Number">14.6</Data></Cell>
+    <Cell><Data ss:Type="Number">18.899999999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">20.399999999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">20.399999999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">20.8</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  France</Data></Cell>
+    <Cell><Data ss:Type="Number">13.8</Data></Cell>
+    <Cell><Data ss:Type="Number">17.5</Data></Cell>
+    <Cell><Data ss:Type="Number">15.1</Data></Cell>
+    <Cell><Data ss:Type="Number">14.8</Data></Cell>
+    <Cell><Data ss:Type="Number">13.9</Data></Cell>
+    <Cell><Data ss:Type="Number">18.399999999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">14.7</Data></Cell>
+    <Cell><Data ss:Type="Number">14.6</Data></Cell>
+    <Cell><Data ss:Type="Number">15.3</Data></Cell>
+    <Cell><Data ss:Type="Number">14.5</Data></Cell>
+    <Cell><Data ss:Type="Number">16.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Germany</Data></Cell>
+    <Cell><Data ss:Type="Number">10.5</Data></Cell>
+    <Cell><Data ss:Type="Number">13.6</Data></Cell>
+    <Cell><Data ss:Type="Number">11.2</Data></Cell>
+    <Cell><Data ss:Type="Number">11.5</Data></Cell>
+    <Cell><Data ss:Type="Number">11.6</Data></Cell>
+    <Cell><Data ss:Type="Number">11.1</Data></Cell>
+    <Cell><Data ss:Type="Number">11.6</Data></Cell>
+    <Cell><Data ss:Type="Number">11.5</Data></Cell>
+    <Cell><Data ss:Type="Number">10.9</Data></Cell>
+    <Cell><Data ss:Type="Number">11.8</Data></Cell>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Greece</Data></Cell>
+    <Cell><Data ss:Type="Number">15.3</Data></Cell>
+    <Cell><Data ss:Type="Number">9.8000000000000007</Data></Cell>
+    <Cell><Data ss:Type="Number">5.2</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="Number">6.2</Data></Cell>
+    <Cell><Data ss:Type="Number">4.3</Data></Cell>
+    <Cell><Data ss:Type="Number">4.0999999999999996</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Iceland</Data></Cell>
+    <Cell><Data ss:Type="Number">8.6999999999999993</Data></Cell>
+    <Cell><Data ss:Type="Number">12.7</Data></Cell>
+    <Cell><Data ss:Type="Number">11.7</Data></Cell>
+    <Cell><Data ss:Type="Number">13.1</Data></Cell>
+    <Cell><Data ss:Type="Number">9.8000000000000007</Data></Cell>
+    <Cell><Data ss:Type="Number">10.1</Data></Cell>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="Number">11.8</Data></Cell>
+    <Cell><Data ss:Type="Number">17.100000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="Number">12.6</Data></Cell>
+    <Cell><Data ss:Type="Number">13.3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Ireland</Data></Cell>
+    <Cell><Data ss:Type="Number">7.6</Data></Cell>
+    <Cell><Data ss:Type="Number">12.4</Data></Cell>
+    <Cell><Data ss:Type="Number">10.3</Data></Cell>
+    <Cell><Data ss:Type="Number">12.3</Data></Cell>
+    <Cell><Data ss:Type="Number">9.3000000000000007</Data></Cell>
+    <Cell><Data ss:Type="Number">11.2</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="Number">11.3</Data></Cell>
+    <Cell><Data ss:Type="Number">12.6</Data></Cell>
+    <Cell><Data ss:Type="Number">13.1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Italy</Data></Cell>
+    <Cell><Data ss:Type="Number">16.3</Data></Cell>
+    <Cell><Data ss:Type="Number">20.2</Data></Cell>
+    <Cell><Data ss:Type="Number">17.5</Data></Cell>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="Number">18.100000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">17.2</Data></Cell>
+    <Cell><Data ss:Type="Number">19.2</Data></Cell>
+    <Cell><Data ss:Type="Number">18.3</Data></Cell>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="Number">19.3</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="Number">19.899999999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Netherlands</Data></Cell>
+    <Cell><Data ss:Type="Number">15.8</Data></Cell>
+    <Cell><Data ss:Type="Number">18.5</Data></Cell>
+    <Cell><Data ss:Type="Number">15.6</Data></Cell>
+    <Cell><Data ss:Type="Number">18.2</Data></Cell>
+    <Cell><Data ss:Type="Number">16.5</Data></Cell>
+    <Cell><Data ss:Type="Number">15.9</Data></Cell>
+    <Cell><Data ss:Type="Number">18.399999999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">17.600000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">18.100000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">18.5</Data></Cell>
+    <Cell><Data ss:Type="Number">20.6</Data></Cell>
+    <Cell><Data ss:Type="Number">21.2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Norway</Data></Cell>
+    <Cell><Data ss:Type="Number">4.4000000000000004</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">5.2</Data></Cell>
+    <Cell><Data ss:Type="Number">6.9</Data></Cell>
+    <Cell><Data ss:Type="Number">5.6</Data></Cell>
+    <Cell><Data ss:Type="Number">5.0999999999999996</Data></Cell>
+    <Cell><Data ss:Type="Number">5.4</Data></Cell>
+    <Cell><Data ss:Type="Number">7.7</Data></Cell>
+    <Cell><Data ss:Type="Number">7.6</Data></Cell>
+    <Cell><Data ss:Type="Number">7.2</Data></Cell>
+    <Cell><Data ss:Type="Number">8.4</Data></Cell>
+    <Cell><Data ss:Type="Number">6.3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Portugal</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="Number">16.7</Data></Cell>
+    <Cell><Data ss:Type="Number">13.4</Data></Cell>
+    <Cell><Data ss:Type="Number">14.6</Data></Cell>
+    <Cell><Data ss:Type="Number">13.8</Data></Cell>
+    <Cell><Data ss:Type="Number">13.4</Data></Cell>
+    <Cell><Data ss:Type="Number">14.4</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="Number">15.2</Data></Cell>
+    <Cell><Data ss:Type="Number">13.8</Data></Cell>
+    <Cell><Data ss:Type="Number">15.1</Data></Cell>
+    <Cell><Data ss:Type="Number">18.899999999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Spain</Data></Cell>
+    <Cell><Data ss:Type="Number">15.3</Data></Cell>
+    <Cell><Data ss:Type="Number">19.5</Data></Cell>
+    <Cell><Data ss:Type="Number">16.3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Sweden</Data></Cell>
+    <Cell><Data ss:Type="Number">11.3</Data></Cell>
+    <Cell><Data ss:Type="Number">14.8</Data></Cell>
+    <Cell><Data ss:Type="Number">11.8</Data></Cell>
+    <Cell><Data ss:Type="Number">13.5</Data></Cell>
+    <Cell><Data ss:Type="Number">12.2</Data></Cell>
+    <Cell><Data ss:Type="Number">12.6</Data></Cell>
+    <Cell><Data ss:Type="Number">13.2</Data></Cell>
+    <Cell><Data ss:Type="Number">13.8</Data></Cell>
+    <Cell><Data ss:Type="Number">13.9</Data></Cell>
+    <Cell><Data ss:Type="Number">13.2</Data></Cell>
+    <Cell><Data ss:Type="Number">15.4</Data></Cell>
+    <Cell><Data ss:Type="Number">13.7</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Switzerland</Data></Cell>
+    <Cell><Data ss:Type="Number">7.3</Data></Cell>
+    <Cell><Data ss:Type="Number">9.3000000000000007</Data></Cell>
+    <Cell><Data ss:Type="Number">7.5</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="Number">7.3</Data></Cell>
+    <Cell><Data ss:Type="Number">7.1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="Number">9.5</Data></Cell>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell><Data ss:Type="Number">10.199999999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">11.3</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">10.3</Data></Cell>
+    <Cell><Data ss:Type="Number">10.8</Data></Cell>
+    <Cell><Data ss:Type="Number">10.9</Data></Cell>
+    <Cell><Data ss:Type="Number">11.3</Data></Cell>
+    <Cell><Data ss:Type="Number">12.2</Data></Cell>
+    <Cell><Data ss:Type="Number">13.8</Data></Cell>
+    <Cell><Data ss:Type="Number">14.3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String"> Other developed economies</Data></Cell>
+    <Cell><Data ss:Type="Number">23.3</Data></Cell>
+    <Cell><Data ss:Type="Number">29.2</Data></Cell>
+    <Cell><Data ss:Type="Number">23.1</Data></Cell>
+    <Cell><Data ss:Type="Number">23.9</Data></Cell>
+    <Cell><Data ss:Type="Number">24</Data></Cell>
+    <Cell><Data ss:Type="Number">23.8</Data></Cell>
+    <Cell><Data ss:Type="Number">25.1</Data></Cell>
+    <Cell><Data ss:Type="Number">23.8</Data></Cell>
+    <Cell><Data ss:Type="Number">23.3</Data></Cell>
+    <Cell><Data ss:Type="Number">23.6</Data></Cell>
+    <Cell><Data ss:Type="Number">26.9</Data></Cell>
+    <Cell><Data ss:Type="Number">27</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Australia</Data></Cell>
+    <Cell><Data ss:Type="Number">12.9</Data></Cell>
+    <Cell><Data ss:Type="Number">15.7</Data></Cell>
+    <Cell><Data ss:Type="Number">12.6</Data></Cell>
+    <Cell><Data ss:Type="Number">13.4</Data></Cell>
+    <Cell><Data ss:Type="Number">13.4</Data></Cell>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell><Data ss:Type="Number">12.9</Data></Cell>
+    <Cell><Data ss:Type="Number">13.6</Data></Cell>
+    <Cell><Data ss:Type="Number">13.1</Data></Cell>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell><Data ss:Type="Number">16.5</Data></Cell>
+    <Cell><Data ss:Type="Number">18.399999999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Israel</Data></Cell>
+    <Cell><Data ss:Type="Number">14.7</Data></Cell>
+    <Cell><Data ss:Type="Number">18.5</Data></Cell>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+    <Cell><Data ss:Type="Number">15.6</Data></Cell>
+    <Cell><Data ss:Type="Number">14.4</Data></Cell>
+    <Cell><Data ss:Type="Number">16.8</Data></Cell>
+    <Cell><Data ss:Type="Number">14.9</Data></Cell>
+    <Cell><Data ss:Type="Number">16.8</Data></Cell>
+    <Cell><Data ss:Type="Number">15.5</Data></Cell>
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+    <Cell><Data ss:Type="Number">18.399999999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Japan</Data></Cell>
+    <Cell><Data ss:Type="Number">27.9</Data></Cell>
+    <Cell><Data ss:Type="Number">34.9</Data></Cell>
+    <Cell><Data ss:Type="Number">27.7</Data></Cell>
+    <Cell><Data ss:Type="Number">28.6</Data></Cell>
+    <Cell><Data ss:Type="Number">28.7</Data></Cell>
+    <Cell><Data ss:Type="Number">28.6</Data></Cell>
+    <Cell><Data ss:Type="Number">30.4</Data></Cell>
+    <Cell><Data ss:Type="Number">28.2</Data></Cell>
+    <Cell><Data ss:Type="Number">27.8</Data></Cell>
+    <Cell><Data ss:Type="Number">28.2</Data></Cell>
+    <Cell><Data ss:Type="Number">31.9</Data></Cell>
+    <Cell><Data ss:Type="Number">31.1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  New Zealand</Data></Cell>
+    <Cell><Data ss:Type="Number">14.4</Data></Cell>
+    <Cell><Data ss:Type="Number">21.6</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">15.6</Data></Cell>
+    <Cell><Data ss:Type="Number">15.1</Data></Cell>
+    <Cell><Data ss:Type="Number">15.8</Data></Cell>
+    <Cell><Data ss:Type="Number">15.8</Data></Cell>
+    <Cell><Data ss:Type="Number">18.600000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">13.8</Data></Cell>
+    <Cell><Data ss:Type="Number">15.5</Data></Cell>
+    <Cell><Data ss:Type="Number">17.600000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">19.3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  South Africa</Data></Cell>
+    <Cell><Data ss:Type="Number">18.600000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">22</Data></Cell>
+    <Cell><Data ss:Type="Number">21.5</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="Number">21.9</Data></Cell>
+    <Cell><Data ss:Type="Number">23</Data></Cell>
+    <Cell><Data ss:Type="Number">19.899999999999999</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="Number">18</Data></Cell>
+    <Cell><Data ss:Type="Number">18.2</Data></Cell>
+    <Cell><Data ss:Type="Number">20.2</Data></Cell>
+    <Cell><Data ss:Type="Number">23.3</Data></Cell>
+   </Row>
+   <Row ss:Index="38" ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">      Region, country or area      </Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2007</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2008</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2009</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2010</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2009Q3</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2009Q4</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2010Q1</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2010Q2</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2010Q3</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2010Q4</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2011Q1</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2011Q2</Data></Cell>
+   </Row>
+   <Row ss:Index="40" ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="12" ss:StyleID="s67"><Data ss:Type="String">Fuel imports as percent of total exports - Importation des produits energetiques en pourcentage des exportations totales </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Developed economies</Data></Cell>
+    <Cell><Data ss:Type="Number">16.100000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">20.5</Data></Cell>
+    <Cell><Data ss:Type="Number">15.8</Data></Cell>
+    <Cell><Data ss:Type="Number">17.100000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">16.5</Data></Cell>
+    <Cell><Data ss:Type="Number">16.2</Data></Cell>
+    <Cell><Data ss:Type="Number">17.2</Data></Cell>
+    <Cell><Data ss:Type="Number">17.2</Data></Cell>
+    <Cell><Data ss:Type="Number">17.2</Data></Cell>
+    <Cell><Data ss:Type="Number">16.600000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">18.8</Data></Cell>
+    <Cell><Data ss:Type="Number">19.7</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String"> America</Data></Cell>
+    <Cell><Data ss:Type="Number">25.1</Data></Cell>
+    <Cell><Data ss:Type="Number">30.6</Data></Cell>
+    <Cell><Data ss:Type="Number">21.9</Data></Cell>
+    <Cell><Data ss:Type="Number">23.6</Data></Cell>
+    <Cell><Data ss:Type="Number">24.5</Data></Cell>
+    <Cell><Data ss:Type="Number">22.4</Data></Cell>
+    <Cell><Data ss:Type="Number">24</Data></Cell>
+    <Cell><Data ss:Type="Number">24.8</Data></Cell>
+    <Cell><Data ss:Type="Number">24.7</Data></Cell>
+    <Cell><Data ss:Type="Number">21.1</Data></Cell>
+    <Cell><Data ss:Type="Number">25.1</Data></Cell>
+    <Cell><Data ss:Type="Number">28.2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Canada</Data></Cell>
+    <Cell><Data ss:Type="Number">8.5</Data></Cell>
+    <Cell><Data ss:Type="Number">11.1</Data></Cell>
+    <Cell><Data ss:Type="Number">9.6</Data></Cell>
+    <Cell><Data ss:Type="Number">10.1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  United States</Data></Cell>
+    <Cell><Data ss:Type="Number">31</Data></Cell>
+    <Cell><Data ss:Type="Number">37.5</Data></Cell>
+    <Cell><Data ss:Type="Number">25.6</Data></Cell>
+    <Cell><Data ss:Type="Number">27.7</Data></Cell>
+    <Cell><Data ss:Type="Number">28.9</Data></Cell>
+    <Cell><Data ss:Type="Number">26.1</Data></Cell>
+    <Cell><Data ss:Type="Number">28.4</Data></Cell>
+    <Cell><Data ss:Type="Number">29.4</Data></Cell>
+    <Cell><Data ss:Type="Number">28.8</Data></Cell>
+    <Cell><Data ss:Type="Number">24.5</Data></Cell>
+    <Cell><Data ss:Type="Number">29.3</Data></Cell>
+    <Cell><Data ss:Type="Number">33.299999999999997</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String"> Europe</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="Number">15.4</Data></Cell>
+    <Cell><Data ss:Type="Number">12.4</Data></Cell>
+    <Cell><Data ss:Type="Number">13.6</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell><Data ss:Type="Number">12.7</Data></Cell>
+    <Cell><Data ss:Type="Number">13.5</Data></Cell>
+    <Cell><Data ss:Type="Number">13.4</Data></Cell>
+    <Cell><Data ss:Type="Number">13.5</Data></Cell>
+    <Cell><Data ss:Type="Number">13.8</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">15.1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Austria</Data></Cell>
+    <Cell><Data ss:Type="Number">10.1</Data></Cell>
+    <Cell><Data ss:Type="Number">12.2</Data></Cell>
+    <Cell><Data ss:Type="Number">10.9</Data></Cell>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="Number">11.5</Data></Cell>
+    <Cell><Data ss:Type="Number">11.5</Data></Cell>
+    <Cell><Data ss:Type="Number">11.5</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="Number">11.4</Data></Cell>
+    <Cell><Data ss:Type="Number">12.3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Belgium</Data></Cell>
+    <Cell><Data ss:Type="Number">10.1</Data></Cell>
+    <Cell><Data ss:Type="Number">14.8</Data></Cell>
+    <Cell><Data ss:Type="Number">10.199999999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">11.9</Data></Cell>
+    <Cell><Data ss:Type="Number">9.6999999999999993</Data></Cell>
+    <Cell><Data ss:Type="Number">10.6</Data></Cell>
+    <Cell><Data ss:Type="Number">11.1</Data></Cell>
+    <Cell><Data ss:Type="Number">11.2</Data></Cell>
+    <Cell><Data ss:Type="Number">11.3</Data></Cell>
+    <Cell><Data ss:Type="Number">13.8</Data></Cell>
+    <Cell><Data ss:Type="Number">14.4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Denmark</Data></Cell>
+    <Cell><Data ss:Type="Number">5.2</Data></Cell>
+    <Cell><Data ss:Type="Number">7.6</Data></Cell>
+    <Cell><Data ss:Type="Number">6.4</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="Number">6.4</Data></Cell>
+    <Cell><Data ss:Type="Number">6.2</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="Number">7.6</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="Number">7.4</Data></Cell>
+    <Cell><Data ss:Type="Number">7.5</Data></Cell>
+    <Cell><Data ss:Type="Number">9.8000000000000007</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Finland</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell><Data ss:Type="Number">16.600000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">16.2</Data></Cell>
+    <Cell><Data ss:Type="Number">18.100000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">19.100000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">17</Data></Cell>
+    <Cell><Data ss:Type="Number">20.5</Data></Cell>
+    <Cell><Data ss:Type="Number">13.8</Data></Cell>
+    <Cell><Data ss:Type="Number">19.3</Data></Cell>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="Number">21.5</Data></Cell>
+    <Cell><Data ss:Type="Number">21.6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  France</Data></Cell>
+    <Cell><Data ss:Type="Number">15.4</Data></Cell>
+    <Cell><Data ss:Type="Number">20.2</Data></Cell>
+    <Cell><Data ss:Type="Number">17.3</Data></Cell>
+    <Cell><Data ss:Type="Number">17.3</Data></Cell>
+    <Cell><Data ss:Type="Number">15.7</Data></Cell>
+    <Cell><Data ss:Type="Number">20.6</Data></Cell>
+    <Cell><Data ss:Type="Number">17.2</Data></Cell>
+    <Cell><Data ss:Type="Number">17.100000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">17.899999999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">17.100000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Germany</Data></Cell>
+    <Cell><Data ss:Type="Number">8.4</Data></Cell>
+    <Cell><Data ss:Type="Number">11.2</Data></Cell>
+    <Cell><Data ss:Type="Number">9.3000000000000007</Data></Cell>
+    <Cell><Data ss:Type="Number">9.6</Data></Cell>
+    <Cell><Data ss:Type="Number">9.6999999999999993</Data></Cell>
+    <Cell><Data ss:Type="Number">8.8000000000000007</Data></Cell>
+    <Cell><Data ss:Type="Number">9.6</Data></Cell>
+    <Cell><Data ss:Type="Number">9.6999999999999993</Data></Cell>
+    <Cell><Data ss:Type="Number">9.1</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Greece</Data></Cell>
+    <Cell><Data ss:Type="Number">49</Data></Cell>
+    <Cell><Data ss:Type="Number">30.2</Data></Cell>
+    <Cell><Data ss:Type="Number">15.4</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="Number">18.5</Data></Cell>
+    <Cell><Data ss:Type="Number">11.9</Data></Cell>
+    <Cell><Data ss:Type="Number">15.3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Iceland</Data></Cell>
+    <Cell><Data ss:Type="Number">11.7</Data></Cell>
+    <Cell><Data ss:Type="Number">13.8</Data></Cell>
+    <Cell><Data ss:Type="Number">10.4</Data></Cell>
+    <Cell><Data ss:Type="Number">11.2</Data></Cell>
+    <Cell><Data ss:Type="Number">8.8000000000000007</Data></Cell>
+    <Cell><Data ss:Type="Number">9.1999999999999993</Data></Cell>
+    <Cell><Data ss:Type="Number">9.1999999999999993</Data></Cell>
+    <Cell><Data ss:Type="Number">9.6999999999999993</Data></Cell>
+    <Cell><Data ss:Type="Number">15.5</Data></Cell>
+    <Cell><Data ss:Type="Number">10.3</Data></Cell>
+    <Cell><Data ss:Type="Number">10.9</Data></Cell>
+    <Cell><Data ss:Type="Number">12.2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Ireland</Data></Cell>
+    <Cell><Data ss:Type="Number">5.3</Data></Cell>
+    <Cell><Data ss:Type="Number">8.1</Data></Cell>
+    <Cell><Data ss:Type="Number">5.5</Data></Cell>
+    <Cell><Data ss:Type="Number">6.2</Data></Cell>
+    <Cell><Data ss:Type="Number">4.7</Data></Cell>
+    <Cell><Data ss:Type="Number">6.4</Data></Cell>
+    <Cell><Data ss:Type="Number">6.3</Data></Cell>
+    <Cell><Data ss:Type="Number">5.9</Data></Cell>
+    <Cell><Data ss:Type="Number">6.1</Data></Cell>
+    <Cell><Data ss:Type="Number">6.7</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Italy</Data></Cell>
+    <Cell><Data ss:Type="Number">16.600000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">20.9</Data></Cell>
+    <Cell><Data ss:Type="Number">17.7</Data></Cell>
+    <Cell><Data ss:Type="Number">20.6</Data></Cell>
+    <Cell><Data ss:Type="Number">17.7</Data></Cell>
+    <Cell><Data ss:Type="Number">17.600000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">21.4</Data></Cell>
+    <Cell><Data ss:Type="Number">19.8</Data></Cell>
+    <Cell><Data ss:Type="Number">20.2</Data></Cell>
+    <Cell><Data ss:Type="Number">21.1</Data></Cell>
+    <Cell><Data ss:Type="Number">23.2</Data></Cell>
+    <Cell><Data ss:Type="Number">21.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Netherlands</Data></Cell>
+    <Cell><Data ss:Type="Number">13.9</Data></Cell>
+    <Cell><Data ss:Type="Number">16.7</Data></Cell>
+    <Cell><Data ss:Type="Number">13.9</Data></Cell>
+    <Cell><Data ss:Type="Number">16.3</Data></Cell>
+    <Cell><Data ss:Type="Number">14.6</Data></Cell>
+    <Cell><Data ss:Type="Number">14.2</Data></Cell>
+    <Cell><Data ss:Type="Number">16.2</Data></Cell>
+    <Cell><Data ss:Type="Number">16.3</Data></Cell>
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+    <Cell><Data ss:Type="Number">16.5</Data></Cell>
+    <Cell><Data ss:Type="Number">18.5</Data></Cell>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Norway</Data></Cell>
+    <Cell><Data ss:Type="Number">2.5</Data></Cell>
+    <Cell><Data ss:Type="Number">2.7</Data></Cell>
+    <Cell><Data ss:Type="Number">2.9</Data></Cell>
+    <Cell><Data ss:Type="Number">4.0999999999999996</Data></Cell>
+    <Cell><Data ss:Type="Number">3.3</Data></Cell>
+    <Cell><Data ss:Type="Number">2.8</Data></Cell>
+    <Cell><Data ss:Type="Number">2.9</Data></Cell>
+    <Cell><Data ss:Type="Number">4.7</Data></Cell>
+    <Cell><Data ss:Type="Number">4.8</Data></Cell>
+    <Cell><Data ss:Type="Number">4.0999999999999996</Data></Cell>
+    <Cell><Data ss:Type="Number">5.0999999999999996</Data></Cell>
+    <Cell><Data ss:Type="Number">3.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Portugal</Data></Cell>
+    <Cell><Data ss:Type="Number">18.2</Data></Cell>
+    <Cell><Data ss:Type="Number">26.3</Data></Cell>
+    <Cell><Data ss:Type="Number">21.1</Data></Cell>
+    <Cell><Data ss:Type="Number">22.6</Data></Cell>
+    <Cell><Data ss:Type="Number">21.8</Data></Cell>
+    <Cell><Data ss:Type="Number">21.9</Data></Cell>
+    <Cell><Data ss:Type="Number">22</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="Number">22.6</Data></Cell>
+    <Cell><Data ss:Type="Number">21.4</Data></Cell>
+    <Cell><Data ss:Type="Number">21.4</Data></Cell>
+    <Cell><Data ss:Type="Number">26.4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Spain</Data></Cell>
+    <Cell><Data ss:Type="Number">23.7</Data></Cell>
+    <Cell><Data ss:Type="Number">29.3</Data></Cell>
+    <Cell><Data ss:Type="Number">21.4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Sweden</Data></Cell>
+    <Cell><Data ss:Type="Number">10.1</Data></Cell>
+    <Cell><Data ss:Type="Number">13.3</Data></Cell>
+    <Cell><Data ss:Type="Number">10.7</Data></Cell>
+    <Cell><Data ss:Type="Number">12.6</Data></Cell>
+    <Cell><Data ss:Type="Number">11.2</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="Number">12.4</Data></Cell>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell><Data ss:Type="Number">13.2</Data></Cell>
+    <Cell><Data ss:Type="Number">12.1</Data></Cell>
+    <Cell><Data ss:Type="Number">14.1</Data></Cell>
+    <Cell><Data ss:Type="Number">12.8</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Switzerland</Data></Cell>
+    <Cell><Data ss:Type="Number">6.8</Data></Cell>
+    <Cell><Data ss:Type="Number">8.4</Data></Cell>
+    <Cell><Data ss:Type="Number">6.7</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="Number">6.4</Data></Cell>
+    <Cell><Data ss:Type="Number">6.3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="Number">13.6</Data></Cell>
+    <Cell><Data ss:Type="Number">17.899999999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">13.9</Data></Cell>
+    <Cell><Data ss:Type="Number">15.4</Data></Cell>
+    <Cell><Data ss:Type="Number">13.5</Data></Cell>
+    <Cell><Data ss:Type="Number">13.9</Data></Cell>
+    <Cell><Data ss:Type="Number">14.6</Data></Cell>
+    <Cell><Data ss:Type="Number">14.6</Data></Cell>
+    <Cell><Data ss:Type="Number">15.7</Data></Cell>
+    <Cell><Data ss:Type="Number">16.7</Data></Cell>
+    <Cell><Data ss:Type="Number">17.899999999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">19.100000000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String"> Other developed economies</Data></Cell>
+    <Cell><Data ss:Type="Number">22.2</Data></Cell>
+    <Cell><Data ss:Type="Number">29.4</Data></Cell>
+    <Cell><Data ss:Type="Number">22.7</Data></Cell>
+    <Cell><Data ss:Type="Number">22.1</Data></Cell>
+    <Cell><Data ss:Type="Number">23.4</Data></Cell>
+    <Cell><Data ss:Type="Number">22.9</Data></Cell>
+    <Cell><Data ss:Type="Number">23.9</Data></Cell>
+    <Cell><Data ss:Type="Number">21.6</Data></Cell>
+    <Cell><Data ss:Type="Number">21.4</Data></Cell>
+    <Cell><Data ss:Type="Number">21.8</Data></Cell>
+    <Cell><Data ss:Type="Number">26.3</Data></Cell>
+    <Cell><Data ss:Type="Number">27.8</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Australia</Data></Cell>
+    <Cell><Data ss:Type="Number">15.2</Data></Cell>
+    <Cell><Data ss:Type="Number">16.899999999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">13.6</Data></Cell>
+    <Cell><Data ss:Type="Number">12.7</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">15.4</Data></Cell>
+    <Cell><Data ss:Type="Number">14.1</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="Number">13.1</Data></Cell>
+    <Cell><Data ss:Type="Number">15.5</Data></Cell>
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Israel</Data></Cell>
+    <Cell><Data ss:Type="Number">15.9</Data></Cell>
+    <Cell><Data ss:Type="Number">20.5</Data></Cell>
+    <Cell><Data ss:Type="Number">14.4</Data></Cell>
+    <Cell><Data ss:Type="Number">16.8</Data></Cell>
+    <Cell><Data ss:Type="Number">16.7</Data></Cell>
+    <Cell><Data ss:Type="Number">14.6</Data></Cell>
+    <Cell><Data ss:Type="Number">16.7</Data></Cell>
+    <Cell><Data ss:Type="Number">14.9</Data></Cell>
+    <Cell><Data ss:Type="Number">17.899999999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">17.399999999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">17.399999999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">24.1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Japan</Data></Cell>
+    <Cell><Data ss:Type="Number">24.4</Data></Cell>
+    <Cell><Data ss:Type="Number">33.799999999999997</Data></Cell>
+    <Cell><Data ss:Type="Number">26.2</Data></Cell>
+    <Cell><Data ss:Type="Number">25.7</Data></Cell>
+    <Cell><Data ss:Type="Number">26.5</Data></Cell>
+    <Cell><Data ss:Type="Number">25.5</Data></Cell>
+    <Cell><Data ss:Type="Number">27.3</Data></Cell>
+    <Cell><Data ss:Type="Number">25.3</Data></Cell>
+    <Cell><Data ss:Type="Number">25.1</Data></Cell>
+    <Cell><Data ss:Type="Number">25.4</Data></Cell>
+    <Cell><Data ss:Type="Number">31.2</Data></Cell>
+    <Cell><Data ss:Type="Number">33.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  New Zealand</Data></Cell>
+    <Cell><Data ss:Type="Number">16.5</Data></Cell>
+    <Cell><Data ss:Type="Number">22.1</Data></Cell>
+    <Cell><Data ss:Type="Number">15.4</Data></Cell>
+    <Cell><Data ss:Type="Number">15.3</Data></Cell>
+    <Cell><Data ss:Type="Number">17.600000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">17.2</Data></Cell>
+    <Cell><Data ss:Type="Number">17.2</Data></Cell>
+    <Cell><Data ss:Type="Number">16.5</Data></Cell>
+    <Cell><Data ss:Type="Number">11.9</Data></Cell>
+    <Cell><Data ss:Type="Number">17.2</Data></Cell>
+    <Cell><Data ss:Type="Number">16.399999999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">16.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  South Africa</Data></Cell>
+    <Cell><Data ss:Type="Number">21.3</Data></Cell>
+    <Cell><Data ss:Type="Number">24.7</Data></Cell>
+    <Cell><Data ss:Type="Number">22.1</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="Number">21.5</Data></Cell>
+    <Cell><Data ss:Type="Number">23.9</Data></Cell>
+    <Cell><Data ss:Type="Number">21.2</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="Number">17.899999999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">16.5</Data></Cell>
+    <Cell><Data ss:Type="Number">20.8</Data></Cell>
+    <Cell><Data ss:Type="Number">23.2</Data></Cell>
+   </Row>
+   <Row ss:Index="71" ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">      Region, country or area      </Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2007</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2008</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2009</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2010</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2009Q3</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2009Q4</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2010Q1</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2010Q2</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2010Q3</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2010Q4</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2011Q1</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2011Q2</Data></Cell>
+   </Row>
+   <Row ss:Index="73" ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="12" ss:StyleID="s67"><Data ss:Type="String">Ratio of unit value indices of manufactured goods exports and fuel imports - Quotient des indices de la valeur unitaire des exportations des produits manufactures et des importations des produits energetiques</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Developed economies</Data></Cell>
+    <Cell><Data ss:Type="Number">67</Data></Cell>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="Number">69</Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="Number">66</Data></Cell>
+    <Cell><Data ss:Type="Number">65</Data></Cell>
+    <Cell><Data ss:Type="Number">61</Data></Cell>
+    <Cell><Data ss:Type="Number">59</Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="Number">56</Data></Cell>
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String"> America</Data></Cell>
+    <Cell><Data ss:Type="Number">47</Data></Cell>
+    <Cell><Data ss:Type="Number">36</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="Number">47</Data></Cell>
+    <Cell><Data ss:Type="Number">44</Data></Cell>
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="Number">47</Data></Cell>
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="Number">36</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Canada</Data></Cell>
+    <Cell><Data ss:Type="Number">49</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  United States</Data></Cell>
+    <Cell><Data ss:Type="Number">46</Data></Cell>
+    <Cell><Data ss:Type="Number">35</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="Number">47</Data></Cell>
+    <Cell><Data ss:Type="Number">44</Data></Cell>
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="Number">47</Data></Cell>
+    <Cell><Data ss:Type="Number">44</Data></Cell>
+    <Cell><Data ss:Type="Number">39</Data></Cell>
+    <Cell><Data ss:Type="Number">34</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String"> Europe</Data></Cell>
+    <Cell><Data ss:Type="Number">71</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="Number">74</Data></Cell>
+    <Cell><Data ss:Type="Number">70</Data></Cell>
+    <Cell><Data ss:Type="Number">73</Data></Cell>
+    <Cell><Data ss:Type="Number">73</Data></Cell>
+    <Cell><Data ss:Type="Number">73</Data></Cell>
+    <Cell><Data ss:Type="Number">69</Data></Cell>
+    <Cell><Data ss:Type="Number">69</Data></Cell>
+    <Cell><Data ss:Type="Number">69</Data></Cell>
+    <Cell><Data ss:Type="Number">67</Data></Cell>
+    <Cell><Data ss:Type="Number">67</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Austria</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Belgium</Data></Cell>
+    <Cell><Data ss:Type="Number">82</Data></Cell>
+    <Cell><Data ss:Type="Number">59</Data></Cell>
+    <Cell><Data ss:Type="Number">89</Data></Cell>
+    <Cell><Data ss:Type="Number">70</Data></Cell>
+    <Cell><Data ss:Type="Number">80</Data></Cell>
+    <Cell><Data ss:Type="Number">84</Data></Cell>
+    <Cell><Data ss:Type="Number">76</Data></Cell>
+    <Cell><Data ss:Type="Number">71</Data></Cell>
+    <Cell><Data ss:Type="Number">68</Data></Cell>
+    <Cell><Data ss:Type="Number">65</Data></Cell>
+    <Cell><Data ss:Type="Number">58</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Denmark</Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="Number">47</Data></Cell>
+    <Cell><Data ss:Type="Number">69</Data></Cell>
+    <Cell><Data ss:Type="Number">59</Data></Cell>
+    <Cell><Data ss:Type="Number">66</Data></Cell>
+    <Cell><Data ss:Type="Number">66</Data></Cell>
+    <Cell><Data ss:Type="Number">63</Data></Cell>
+    <Cell><Data ss:Type="Number">57</Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="Number">58</Data></Cell>
+    <Cell><Data ss:Type="Number">49</Data></Cell>
+    <Cell><Data ss:Type="Number">47</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Finland</Data></Cell>
+    <Cell><Data ss:Type="Number">74</Data></Cell>
+    <Cell><Data ss:Type="Number">56</Data></Cell>
+    <Cell><Data ss:Type="Number">75</Data></Cell>
+    <Cell><Data ss:Type="Number">63</Data></Cell>
+    <Cell><Data ss:Type="Number">72</Data></Cell>
+    <Cell><Data ss:Type="Number">70</Data></Cell>
+    <Cell><Data ss:Type="Number">67</Data></Cell>
+    <Cell><Data ss:Type="Number">65</Data></Cell>
+    <Cell><Data ss:Type="Number">61</Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  France</Data></Cell>
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="Number">33</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Germany</Data></Cell>
+    <Cell><Data ss:Type="Number">61</Data></Cell>
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="Number">64</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="Number">63</Data></Cell>
+    <Cell><Data ss:Type="Number">63</Data></Cell>
+    <Cell><Data ss:Type="Number">61</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="Number">47</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Greece</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Iceland</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Ireland</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Italy</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Netherlands</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Norway</Data></Cell>
+    <Cell><Data ss:Type="Number">70</Data></Cell>
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+    <Cell><Data ss:Type="Number">67</Data></Cell>
+    <Cell><Data ss:Type="Number">56</Data></Cell>
+    <Cell><Data ss:Type="Number">64</Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="Number">56</Data></Cell>
+    <Cell><Data ss:Type="Number">58</Data></Cell>
+    <Cell><Data ss:Type="Number">59</Data></Cell>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="Number">48</Data></Cell>
+    <Cell><Data ss:Type="Number">48</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Portugal</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Spain</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Sweden</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Switzerland</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="Number">44</Data></Cell>
+    <Cell><Data ss:Type="Number">34</Data></Cell>
+    <Cell><Data ss:Type="Number">47</Data></Cell>
+    <Cell><Data ss:Type="Number">37</Data></Cell>
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="Number">42</Data></Cell>
+    <Cell><Data ss:Type="Number">38</Data></Cell>
+    <Cell><Data ss:Type="Number">37</Data></Cell>
+    <Cell><Data ss:Type="Number">38</Data></Cell>
+    <Cell><Data ss:Type="Number">35</Data></Cell>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="Number">28</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String"> Other developed economies</Data></Cell>
+    <Cell><Data ss:Type="Number">80</Data></Cell>
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+    <Cell><Data ss:Type="Number">68</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="Number">66</Data></Cell>
+    <Cell><Data ss:Type="Number">66</Data></Cell>
+    <Cell><Data ss:Type="Number">56</Data></Cell>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="Number">56</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="Number">49</Data></Cell>
+    <Cell><Data ss:Type="Number">43</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Australia</Data></Cell>
+    <Cell><Data ss:Type="Number">86</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="Number">62</Data></Cell>
+    <Cell><Data ss:Type="Number">63</Data></Cell>
+    <Cell><Data ss:Type="Number">59</Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="Number">63</Data></Cell>
+    <Cell><Data ss:Type="Number">62</Data></Cell>
+    <Cell><Data ss:Type="Number">62</Data></Cell>
+    <Cell><Data ss:Type="Number">63</Data></Cell>
+    <Cell><Data ss:Type="Number">58</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Israel</Data></Cell>
+    <Cell><Data ss:Type="Number">54</Data></Cell>
+    <Cell><Data ss:Type="Number">36</Data></Cell>
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+    <Cell><Data ss:Type="Number">42</Data></Cell>
+    <Cell><Data ss:Type="Number">48</Data></Cell>
+    <Cell><Data ss:Type="Number">46</Data></Cell>
+    <Cell><Data ss:Type="Number">43</Data></Cell>
+    <Cell><Data ss:Type="Number">43</Data></Cell>
+    <Cell><Data ss:Type="Number">44</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="Number">35</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  Japan</Data></Cell>
+    <Cell><Data ss:Type="Number">84</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="Number">71</Data></Cell>
+    <Cell><Data ss:Type="Number">57</Data></Cell>
+    <Cell><Data ss:Type="Number">70</Data></Cell>
+    <Cell><Data ss:Type="Number">70</Data></Cell>
+    <Cell><Data ss:Type="Number">58</Data></Cell>
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+    <Cell><Data ss:Type="Number">58</Data></Cell>
+    <Cell><Data ss:Type="Number">57</Data></Cell>
+    <Cell><Data ss:Type="Number">51</Data></Cell>
+    <Cell><Data ss:Type="Number">44</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  New Zealand</Data></Cell>
+    <Cell><Data ss:Type="Number">59</Data></Cell>
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="Number">62</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="Number">57</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="Number">54</Data></Cell>
+    <Cell><Data ss:Type="Number">57</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="Number">47</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">  South Africa</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>7</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Footnotes">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Source:  United Nations Statistics Division, Monthly Bulletin of Statistics questionnaire, supplemented by international and national publications.</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>18</ActiveRow>
+     <ActiveCol>9</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <ss:DocumentProperties>
+   <ss:Title>Indicators on fuel imports, developed economies</ss:Title>
+   <ss:Author>Mgxfm Web Application</ss:Author>
+   <ss:Company>United Nations Statistics Division</ss:Company>
+   <ss:Version>1.0</ss:Version>
+  </ss:DocumentProperties>
+</Workbook>

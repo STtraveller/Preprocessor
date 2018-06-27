@@ -1,0 +1,108 @@
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<META HTTP-EQUIV="refresh" content="10;URL=http://icsc.un.org"> 
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>ICSC : Error 404 - Page Not Found</title>
+<link rel="icon" href="favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="/css/icsc.css">
+<script type="text/javascript" src="/js/icsccommon.js"></script>
+<style type="text/css">.qmfv{visibility:visible !important;}.qmfh{visibility:hidden !important;}</style>
+<script type="text/javascript" src="/js/menu.js"></script>
+</head>
+<body bgcolor="#B1BFD8" topmargin=0 leftmargin=0 marginheight="0" marginwidth="0">
+<!-- **** HEADER **** -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="935"><tr><td height="38" width="100%" colspan="2" background="/images/head_a.jpg" align="right" valign="top"><map name="trMap0"><area href="/" shape="rect" coords="3, 15, 46, 33"><area href="/secretariat/contact.asp" shape="rect" coords="52, 15, 124, 33"></map><img border="0" src="/images/head_menu_r.jpg" usemap="#trMap0"></td>
+</tr><tr><td height="35" width="100%" colspan="2" background="/images/head_b.jpg" align="right" valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" width="899"><tr><td align="right"><form name="shortcuts"><select align="right" size="1" name="quicklinks" onchange="javascript:window.location=(this.options[this.selectedIndex].value);" style="font-family: Arial; font-size: 8pt">
+<option selected>QuickLinks</option>
+<option value="javascript:window.open('/resources/webapp/DSA/','_dsaq');window.location=('/');">DSA Questionnaire</option>
+<option value="/secretariat/sad.asp?include=dsa">DSA Reports and Downloads</option>
+<option value="/secretariat/cold.asp?include=par">Post Adjustment Reports</option>
+<option value="/secretariat/sad.asp?include=ss">Salary Scales</option>
+<option value="/secretariat/sad.asp?include=prs">Pensionable Remuneration</option>
+<option value="/secretariat/hrpd.asp?include=mah">Mobility and Hardship Classification</option>
+<option value="/secretariat/cold.asp?include=rpi">Retail Price Indexes</option>
+<option value="javascript:window.open('/secretariat/includes/joblinks.asp','joblinks');window.location=('/');">Jobs in the UN System</option>
+</select></form></td></tr></table></td>
+</tr><tr><td height="41" width="100%" colspan="2" background="/images/head_c.jpg" align="right" valign="middle"></td></tr><tr><td width="100%" colspan="2">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#334364"><tr>
+<td background="/images/cs_bg.jpg" align="right">&nbsp;&nbsp;&nbsp;&nbsp;</td><td background="/images/cs_bg.jpg?d=1234" align="right"><img border="0" src="/images/cs_logos/un.jpg"></td><td background="/images/cs_bg.jpg?d=1234" align="right"><img border="0" src="/images/cs_logos/ilo.jpg"></td><td background="/images/cs_bg.jpg?d=1234" align="right"><img border="0" src="/images/cs_logos/fao.jpg"></td><td background="/images/cs_bg.jpg?d=1234" align="right"><img border="0" src="/images/cs_logos/icao.jpg"></td><td background="/images/cs_bg.jpg?d=1234" align="right"><img border="0" src="/images/cs_logos/upu.jpg"></td><td background="/images/cs_bg.jpg?d=1234" align="right"><img border="0" src="/images/cs_logos/who.jpg"></td><td background="/images/cs_bg.jpg?d=1234" align="right"><img border="0" src="/images/cs_logos/itu.jpg"></td><td background="/images/cs_bg.jpg?d=1234" align="center"><img border="0" src="/images/cs_logos/wmo.jpg"></td><td background="/images/cs_bg.jpg?d=1234" align="left"><img border="0" src="/images/cs_logos/imo.jpg"></td><td background="/images/cs_bg.jpg" align="left"><img border="0" src="/images/cs_logos/unesco.jpg"></td><td background="/images/cs_bg.jpg?d=1234" align="left"><img border="0" src="/images/cs_logos/wipo.jpg"></td><td background="/images/cs_bg.jpg?d=1234" align="left"><img border="0" src="/images/cs_logos/ifad.jpg"></td><td background="/images/cs_bg.jpg?d=1234" align="left"><img border="0" src="/images/cs_logos/unido.jpg"></td><td background="/images/cs_bg.jpg?d=1234" align="left"><img border="0" src="/images/cs_logos/iaea.jpg"></td><td background="/images/cs_bg.jpg?d=1234" align="left"><img border="0" src="/images/cs_logos/unwto.jpg"></td></tr></table>
+</td></tr><tr><td width="204" align="left" valign="top" background="/images/menu_l_line.jpg">
+<!-- **** MENU **** -->
+<ul id="qm0" class="qmmc">
+<li><a class="qmparent" href="/rootindex.asp">HOME</a></li>
+<li><a class="qmparent" href="javascript:void(0)">ABOUT THE COMMISSION</a>
+<ul>
+<li><a href="/about/default.asp">General Information</a></li>
+<li><a href="/about/mandate.asp">Our Mandate</a></li>
+<li><a href="/about/commonsystem.asp">The Common System</a></li>
+<li><a href="/about/members.asp">Common System Members</a></li>
+</ul>
+</li>
+<li><a class="qmparent" href="javascript:void(0)">ICSC SECRETARIAT</a>
+<ul>
+<li><a href="/secretariat/default.asp">Office of the Executive Secretary</a></li>
+<li><a href="/secretariat/cold.asp">Cost-of-Living</a></li>
+<li><a href="/secretariat/hrpd.asp">Human Resources Policies</a></li>
+<li><a href="/secretariat/sad.asp">Salaries and Allowances</a></li>
+</ul>
+</li>
+<li><a class="qmparent" href="/compendium/default.asp">COMPENDIUM</a></li>
+<li><a class="qmparent" href="javascript:void(0)">LIBRARY</a>
+<ul>
+<li><a href="/library/default.asp?list=booklets">Booklets</a></li>
+<li><a href="/library/default.asp?list=AnnualRep">Annual Reports</a></li>
+<li><a href="/library/default.asp?list=col">Cost of Living</a></li>
+<li><a href="/library/default.asp?list=sal">Salaries, Allowances & Benefits</a></li>
+<li><a href="/library/default.asp?list=hrpd">Human Resource Policies</a></li>
+</ul>
+</li>
+<li><a class="qmparent" href="javascript:void(0)">TOOLS</a>
+<ul>
+<li><a href="/resources/webapp/DSA/" target="_dsa">DSA Questionnaire</a></li>
+<li><a href="http://forums.unicsc.org/" target="_eforums">e-Forums</a></li>
+<li><a href="http://elib.unicsc.org/" target="_elib">e-Library</a></li>
+<li><a href="/map/">ICSC World Data Map</a></li>
+<li><a href="/secretariat/hrpd.asp?marker=tools&include=je">Job Evaluation Systems</a></li>
+</ul>
+</li>
+<li><a class="qmparent" href="/resources/csd/icscdata.asp">DATA &amp; SUBSCRIPTIONS</a>
+</li>
+<li><a href="/commission/">COMMISSION SESSIONS</a></li>
+<li><a href="/acpaq/">ACPAQ MEETINGS</a></li>
+<li class="qmclear">&nbsp;</li>
+</ul> 
+<script type="text/javascript">qm_create(0,false,0,500,'all',false,false,false,false);</script>
+<!-- **** SEARCH BOX **** -->
+<br><br><form action="/search/" id="cse-search-box"><table width="203" cellpadding="3" bgcolor="#46668D"><tr><td align="Center"><input type="hidden" name="cx" value="010001758563680353938:a61upvqmsbm" /><input type="hidden" name="cof" value="FORID:10" /><input type="hidden" name="ie" value="UTF-8" /><input type="hidden" name="sa" value="Search" /><input type="text" name="q" size="25" style="font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size: 7pt; background-color: #A5BDD6;">&nbsp;<input type="submit" name="sa" value="Search" style="font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size: 8pt;"></td></tr></table></form><br>
+<!-- **** MENU BOTTOM **** -->
+<img src="/images/menu_l_line.jpg"><ul id="menu"><li><a href="/secretariat/contact.asp" target="_self">Contact Us</a></li><li><a href="/resources/sm.asp" target="_self">Site Map</a></li><li><a href="/faq/" target="_self">Frequently Asked Questions</a></li><li><a href="http://www.unsystem.org/" target="_new">UN System Locator</a></li></ul>
+</td>
+<td align="left" valign="top" bgcolor="#FFFFFF">
+<!-- **** MAIN CONTENT **** -->
+<table cellspacing="0" cellpadding="4" width="731"><tr><td align="right" bgcolor="#efefef"><font size="4" color="#d06b06">Error 404&nbsp;&nbsp;</font></td></tr></table><br>
+<table cellspacing="0" cellpadding="10" width="731">
+<tr><td style="border-right: 1px solid #e0e0e0;" valign="top" height="500" align="center">
+<img src="/images/404.gif">
+<br><br><br>
+
+<font size="3"  color="#4280D0">The page you've requested has been moved or deleted.</font><p><font size="2" color="#808080"><br>
+Please use the menu on the left or go to our homepage by <a href="/"><u>clicking here</u></a>.
+<br>
+Kindly update your links and bookmarks to point to the new pages.<p><br></font><font   color="#808080">
+You will be redirected to the new location in a few seconds, if you are not redirected, click above to visit the new location.
+
+
+</td>
+<tr><td>&nbsp;</td></tr>
+</td></tr></table> 
+<!-- **** END MAIN **** -->
+</td></tr>
+<!-- ****FOOTER **** -->
+</td></tr><tr><td  bgcolor="#46668D"  align="center" valign="middle"  style="border-right: 1px solid #FFFFFF;"><font color="#FFFFFF">Follow us on :<br><a href="http://www.flickr.com/photos/un-icsc/" target="_flickr"><img  border="0" src="/images/flickr.png" height="30"></a> <a href="/resources/csd/rss.asp"><img border="0" src="/images/rss_small.png"></a></td>
+<td colspan="2"  align="center" valign="top" bgcolor="#46668D"><br>
+<a href="/secretariat/contact.asp" target="_self"><font color="#ffffff">Contact Us</a> &nbsp; | &nbsp; <a href="/about/Terms.asp" target="_self"><font color="#ffffff">Terms of Use</a> &nbsp; | &nbsp; <a href="/about/privacy.asp" target="_self"><font color="#ffffff">Privacy Policy</a>
+<br><font color="#fcf6c0" size="2">© 2011 International Civil Service Commission<br><br></td>
+</tr></table>
+</body>
+</html>
