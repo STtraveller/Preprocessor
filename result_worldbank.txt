@@ -1,3 +1,11 @@
+>>Contract_Awards_PSLO_FY04-09.xls has error.
+>>DPSAssignmentsApril112007.xls has error.
+>>Figure1A.4.xls has error.
+>>KIRLDB.xls has error.
+>>Mexico_FY04-07.xls has error.
+>>Uganda_FY04-06.xls has error.
+>>annex1pc.xls has error.
+
 ./worldbank\0104Annex.xls
 Useless Sheet1
 Useful Macro Indicators
