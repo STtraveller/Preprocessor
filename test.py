@@ -4,19 +4,27 @@ import math
 import glob
 from distutils.util import strtobool
 
+
 extensions = ['*.xls','*.xlsx','*.xlsm']
 filenames = []
 folder = input('(Example) /Users/sunny/Documents/UROP/\nSearch Directory:\n')
+if folder[-1] != '/':
+    folder = folder + '/'
 recur = input('Search dirctory recursively? (True/False))\n')
 if bool(strtobool(recur)):
     folder = folder + '**/'
 for extension in extensions:
     filenames.extend(glob.iglob(folder + extension, recursive = bool(strtobool(recur))))
+filenames.sort()
+
 
 result = open('result.txt', 'w+', encoding='utf-8')
+result.close()
+
 
 for filename in filenames:
 
+    result = open('result.txt', 'a+', encoding='utf-8')
     result.write(filename + '\n')
     print(filename)
 
@@ -28,6 +36,7 @@ for filename in filenames:
         stringCount = 0
         numberCount = 0
         count = 0
+
         for column in data:
 
             if count >= 100:
@@ -61,4 +70,4 @@ for filename in filenames:
             line = 'Useful ' + sheet + '\n'
         result.write(line)
 
-result.close()
+    result.close()
