@@ -53,7 +53,9 @@ for filename in filenames:
                     count += 1
                     columnSearch += 1
 
-        if stringCount >= numberCount or count == 0:
+        if count == 0:
+            line = 'Empty ' + sheet + '\n'
+        elif stringCount >= numberCount:
             line = 'Useless ' + sheet + '\n'
         else:
             line = 'Useful ' + sheet + '\n'
