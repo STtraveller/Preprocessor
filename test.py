@@ -14,10 +14,10 @@ from distutils.util import strtobool
 
 extensions = ['*.xls','*.xlsx','*.xlsm']
 filenames = []
-# folder = input('(Example) /Users/sunny/Documents/UROP/\nSearch Directory:\n')
-# if folder[-1] != '/':
-#     folder = folder + '/'
-folder = './sample spreadsheets/'
+folder = input('(Example) /Users/sunny/Documents/UROP/\nSearch Directory:\n')
+if folder[-1] != '/':
+     folder = folder + '/'
+#folder = './sample spreadsheets/'
 recur = input('Search directory recursively? (True/False))\n')
 if bool(strtobool(recur)):
     folder = folder + '**/'
@@ -53,6 +53,7 @@ for filename in filenames:
 
             stringCount = 0
             numberCount = 0
+            zeroCount = 0
             count = 0
 
             for column in data:
@@ -75,6 +76,8 @@ for filename in filenames:
                             numberCount += 1
                             count += 1
                             columnSearch += 1
+                            if item == 0:
+                                zeroCount += 1
                     else:
                         numberCount += 1
                         count += 1
@@ -82,8 +85,8 @@ for filename in filenames:
 
             if count == 0:
                 line = 'Empty ' + sheet + '\n'
-            elif stringCount >= numberCount:
-                line = 'Useless ' + sheet + '\n'
+            elif stringCount >= numberCount or zeroCount >= numberCount / 2:
+                line = 'Junk ' + sheet + '\n'
             else:
                 line = 'Useful ' + sheet + '\n'
             result.write(line)
@@ -95,5 +98,7 @@ for filename in filenames:
         print(filename + " has error.\n")
         result.write(filename + " has error.\n")
         result.close()
+
+# A fun progress bar
 
     print('Progress: %.2f' % (searchCount / totalSearch * 100) + '%')
