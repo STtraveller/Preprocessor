@@ -1,4825 +1,746 @@
-/Users/sunny/Documents/UROP/PDS/worldbank/0104Annex.xls
-Useless Sheet1
-Useful Macro Indicators
-Useful New Summary
-Useful Old Summary
-/Users/sunny/Documents/UROP/PDS/worldbank/02_AFR_Lending.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useful Table 2.1
-/Users/sunny/Documents/UROP/PDS/worldbank/03.02_ICP-TAG03_DwellingQuestionnaire.xls
-Useless Questionnaire
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/03.04_ICP-TAG03_RentalSpecifications.xls
-Useless Specifications
-Useless Weights
-Useless Validation
-/Users/sunny/Documents/UROP/PDS/worldbank/03.07_ICP-RC02_Compensation.xls
-Empty Cover page
-Useless Contents
-Useless Guidelines
-Useful  Questionnaire
-Useless SNA93 Definitions
-Useless ISCO references
-Useless 2122
-Useless 2221
-Useless 2230
-Useless 2422
-Useless 3231
-Useless 3431
-Useless 3432
-Useless 3441
-Useless 3442
-Useless 3450
-Useless 4115
-Useless 5132
-Useless 5161
-Useless 5162
-Useless 5163
-Useless 7137
-Useless 8322
-Useless 9132
-Useless 9141
-/Users/sunny/Documents/UROP/PDS/worldbank/040224port_core.xls
-Useless Core Port & TL Measures
-Useless Non-transport measures
-/Users/sunny/Documents/UROP/PDS/worldbank/05_LAC_OperationsApproved.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useful Sheet2
-Useless L. America and the Caribbean
-/Users/sunny/Documents/UROP/PDS/worldbank/061108_participants.xls
-Useless Feuil1
-Empty Feuil2
-Empty Feuil3
-/Users/sunny/Documents/UROP/PDS/worldbank/06_LAC_Lending.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useful Table 2.5
-/Users/sunny/Documents/UROP/PDS/worldbank/07_Expenditures.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useful Expenditures
-Useless Data
-/Users/sunny/Documents/UROP/PDS/worldbank/07_MNA_Lending.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useful Table 2.6
-/Users/sunny/Documents/UROP/PDS/worldbank/08.01_ICP-TAG03_MachineryEquipmentList.xls
-Useless 0. Cover Page
-Useful 1. Summary of List
-Useless 2. List of Proposed List
-/Users/sunny/Documents/UROP/PDS/worldbank/1003_HIV_20research_20database-Swaziland.xls
-Useless Sheet1
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/1008_Data_20tabulation_20plan_20for_20routine_20data-Namibia.xls
-Useless T 1
-Useless T 2
-Useless T 3
-Useless T 4
-Useless T 5
-Useless T6
-Useless T 7
-Useless T 8
-Useless T 9
-Useless T 10
-Useless T 11
-Useless T 12
-Useless T 13
-Useless T 14
-Useless T 15
-Useless T 16
-Useless T 17
-/Users/sunny/Documents/UROP/PDS/worldbank/100_SWER--65p_food_wet_tropical.xls
-Useless Inputs & Calculations
-Useful CH4 Gen Profile
-Useful ER - LFG Flaring
-Useful ER - LFG Elec Gen
-Useful ER - Composting
-/Users/sunny/Documents/UROP/PDS/worldbank/10_Topic_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/10_Topic_MetaData_es_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/110614_ICP-OM_ConstructionQuestionnaire.xls
-Useless 1.Introduction
-Useless 2.Notes
-Useless 3.Material
-Useless 4.Equipment
-Useless 5.Labour
-Useless 6.Project prices
-Useless 7.Support
-Useless 8.Comments
-Useful Hidden sheet
-/Users/sunny/Documents/UROP/PDS/worldbank/11_MDGLending.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useful Sheet1
-Useless All projects 06, 07
-Useful WB Lending to MDGs
-Useful Background Data
-Useful Background Data 2
-/Users/sunny/Documents/UROP/PDS/worldbank/11_Topic_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/11_Topic_MetaData_es_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/11_Topic_MetaData_fr_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/12_Topic_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/12_Topic_MetaData_es_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/1348_Modes_20of_20Transmission_20Example_20Spreadsheet.xls
-Useful Model of Incidence
-Useless Data Sources
-/Users/sunny/Documents/UROP/PDS/worldbank/1378_VCT_20monthly_20report_20form_20-_20Tanzania.xls
-Useless Site monthly report
-Useless District monthly report
-Useless Regional monthly report
-/Users/sunny/Documents/UROP/PDS/worldbank/13_Topic_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/13_Topic_MetaData_es_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/13_Topic_MetaData_fr_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/1436_Example_20using_20MS_20Excel_20for_20data_20capture_20and_20analysis_20-_20Rwanda.xls
-Useful CUMULATIVE
-Useful SYNTHESE 2007
-Useful IND1-IEC
-Useful IND2-TRAINIG (A)
-Useful INDIC3-TRAINING (B)
-Useful INDIC4-VCT
-Useful INDIC5-ARV
-Useful INDIC6-SUBPROJECTS
-Useful INDIC7-MICROFINANCE
-Useful INDIC8-ASSOC PVV
-Useful INDIC9-OVC
-Useful INDIC10-IGA
-Useful INDIC11-CONDOMS
-Useless INDIC12-RAPPORTAGE
-Useful INDIC13-SUPERVISION
-Useful INDIC15-MEETING
-Useful INDIC14-TRAINING (C)
-Empty MEMISA CORDAIS
-Empty EX PROV BUTARE
-/Users/sunny/Documents/UROP/PDS/worldbank/1439_Activity_20Codes,_20Planning_20Format,_20Reporting_20Format_20for_20HIV_20implementers_20-_20Rwanda.xls
-Useless Liste des activites
-Useless Planning format
-Useless Format de rapportage
-/Users/sunny/Documents/UROP/PDS/worldbank/1450_HMN_20assessment_20tool_20-version_201.96b2-.xls
-Useless Annex A
-Useless General Information
-Useless Gold standard
-Useless combine 4 indicators
-Useless SwitchBoard
-Useless I Resources
-Useless II Indicators
-Useless 5.1 Selected ind-H-status
-Useless III Data sources
-Useless Result of Data sources
-Useless IV Data Management
-Useless V Information products
-Useless context-old
-Useless 5.1 Selected-ind. (optional)
-Useless Results of Info. products
-Useless VI. Dissemination & use
-Useless 7.1 summary results
-Useless 7.2 comments on HIS
-Useless input-chart
-Useless About
-/Users/sunny/Documents/UROP/PDS/worldbank/14_Topic_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/14_Topic_MetaData_es_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/15_Topic_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/15_Topic_MetaData_es_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/15_Topic_MetaData_fr_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/16_Topic_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/16_Topic_MetaData_es_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/17_Topic_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/17_Topic_MetaData_es_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/19_Topic_MetaData_es_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/19_Topic_MetaData_fr_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/1_A_II_Staffing_Plan_South_09_06.xls
-Useless StaffingPlan-Nat
-Useless Staff Recruit Process
-Empty Sheet3
-Empty Sheet4
-Empty Sheet5
-Empty Sheet6
-/Users/sunny/Documents/UROP/PDS/worldbank/1_Education_Lending.xls
-Useful by IDA-IBRD
-Useful by Region
-Useful by Country
-Useful by Region & IDA-IBRD FY90-11
-/Users/sunny/Documents/UROP/PDS/worldbank/1_Topic_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/1_Topic_MetaData_es_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/2.2_GoSL_PRSP_2005_Activity_Matrix_2.xls
-Empty Sheet1
-Useless Note
-Useful SUMMARY
-Empty Summary Chart
-Useful Pillar 1 Le
-Useful Pillar 2 Le
-Useful Pillar 3 Le
-Useful Summary $
-Empty Chart $
-Useful Pillar 1 $
-Useful Pillar 2 $
-Useful Pillar 3 $
-/Users/sunny/Documents/UROP/PDS/worldbank/2003_Salary_questionnaire_v1.xls
-Useless Frontpage
-Useless SoftwInstr
-Useless Guidelines
-Useless Q_1
-Useless Q_2
-Useless Country_Comments
-Useless Glossary
-/Users/sunny/Documents/UROP/PDS/worldbank/2009_WB_Holidays.xls
-Useless Sheet1
-Empty Sheet2
-Empty Sheet3
-Empty Sheet4
-Empty Sheet5
-Empty Sheet6
-/Users/sunny/Documents/UROP/PDS/worldbank/2_Topic_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/2_Topic_MetaData_es_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/35777.xls
-Useless Goods General 
-Useful Goods ARV, Drugs
-Useless Consulting
-Useful Trainig 1
-Useful Operating Costs
-Useless Works
-/Users/sunny/Documents/UROP/PDS/worldbank/38145.xls
-Useless PSCP-PP to Publish 28 Nov 06
-/Users/sunny/Documents/UROP/PDS/worldbank/38152.xls
-Useless Sheet1
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/38531.xls
-Useless Goods, Works and Consultancy
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/3980.xls
-Useful Series 39-06
-/Users/sunny/Documents/UROP/PDS/worldbank/408_MESS_20Tool_20Checklist_202.xls
-Useless HEADER
-Useless INSTRUCTIONS
-Useless GLOSSARY
-Useless Information_Page
-Useful PMU_Capacities
-Useless MU_Action_Plan
-/Users/sunny/Documents/UROP/PDS/worldbank/422_HIV_20indicators-Gambia.xls
-Useless IMPACT
-Useless BCC
-Useless VCT
-Useless PTCT
-Useless STIs
-Useless ART-OIs-Blood safety-IC
-Useless Mitigation 
-Useless National Commitment & SI
-/Users/sunny/Documents/UROP/PDS/worldbank/423500PROP0P071lan0Training12007108.xls
-Useless Goods
-Useless Consultancy
-Useless Training
-/Users/sunny/Documents/UROP/PDS/worldbank/423520PROP0P071an0Goods0for02006107.xls
-Useless Goods 2007-08
-Useless Goods-2006-07
-Useless Consultancy 2007-08
-Useless Training 2007-08
-/Users/sunny/Documents/UROP/PDS/worldbank/423560PROP0P0710consultancy02007108.xls
-Useless GOODS OROMIA
-Useless CONSULTANCY OROMIA
-Useless TRAINING OROMIA
-Useless CONSULTANCY OROMIA INHOUSE
-/Users/sunny/Documents/UROP/PDS/worldbank/423710PROP0P08180241011080submitted.xls
-Useless CONSULTANCY
-Useless GOODS
-Useless WORKS
-/Users/sunny/Documents/UROP/PDS/worldbank/42395.xls
-Useless Sheet1
-Useless Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/435130REPLACEM1e0Capacity0Building0.xls
-Useless Sces Consultants composante 1
-Useless Sces consultants Composante 2
-Useless  FOURNITURES 
-Empty Néant
-Empty Néant 1
-Empty Néant 2
-Empty Feuil3
-/Users/sunny/Documents/UROP/PDS/worldbank/437630PROP0P0417376B01OFF0USE0ONLY1.xls
-Useless PLT
-/Users/sunny/Documents/UROP/PDS/worldbank/43_MESS_20Tool_20Checklist1_20-_20M-E_20Plan.xls
-Useless HEADER
-Useless INSTRUCTIONS
-Useless GLOSSARY
-Useless Information_Page
-Useful M&E_Plan
-Useless M&E_Action_Plan
-/Users/sunny/Documents/UROP/PDS/worldbank/451_HIV_20Indicators_20for_20Health_20Sector_20Gambia.xls
-Useless IMPACT
-Useless BCC
-Useless VCT
-Useless PTCT
-Useless STIs
-Useless ART-OIs
-Useless BLD SAFETY
-Empty CAPACITY BUILDING
-/Users/sunny/Documents/UROP/PDS/worldbank/459230PROP0P051tancy1ICASL1Aug02008.xls
-Useful Activity A
-Useful Activity B
-Useless Packaged
-Useful Activity C
-Useless Activity D
-Useless Activity E
-Useless Activity F
-Useless Activity G
-Useful Activity I
-/Users/sunny/Documents/UROP/PDS/worldbank/461430v20ARPP010Box334079B01PUBLIC1.xls
-Useless COVER
-Useless TOC
-Useful 2.1
-Useful 2.2
-Useful 2.3
-Useful 2.4
-Useful 2.5
-Useful 2.6
-Useful 2.7
-Useful 2.8
-Useful 2.9
-Useful 2.10-11
-Useful 2.12
-Useful 2.13
-Useful 2.14
-Useful 2.15
-Useful 2.16-17
-Useful 2.18
-Useful 2.19
-Useful 2.20
-Useful 2.21
-Useful 2.22
-Useful 2.23-24
-Useful 2.25
-Useful 2.26
-Useful 2.27
-Useful 3.1
-Useful 3.2
-Useful 3.3
-Useful 3.4-5
-Useful 3.6-7
-Useful 3.8
-Useful 3.9
-Useful 3.10
-Useful 3.11
-Useful 3.12-13
-Useful 3.14
-Useful 3.15
-Useful 3.16
-Useful 3.17
-Useful 3.18
-Useful 3.19
-Useful 3.20
-Useful 3.21
-Useful 3.22
-Useful 3.23
-Useful 3.24
-Useful 3.25
-Useful 3.26
-Useful 3.27-28
-Useful 3.29
-Useful 3.30
-Useful 3.31
-Useful 3.32
-Useful 3.33-34
-Useful 3.35-36
-Useful 3.37-38
-Useful 3.39-40
-Useful 3.41-42
-Useful 3.43-44
-Useful 3.45-46
-Useful 4.1
-Useful 4.2
-Useful 4.3
-Useful 4.4
-Useful 4.5
-Useful 4.6-7
-Useful 4.8
-Useful 4.9
-Useful 4.10
-Useful 4.11
-Useful 4.12
-Useful 4.13
-Useful 4.14
-/Users/sunny/Documents/UROP/PDS/worldbank/472260PROP0Box100Orissa0PP017111091.xls
-Useless Consultancy
-Useless Goods to be procured
-Useful Goods,Ann
-Useless Goods(DPMU&BPFT)
-Useless Goods(SPMU)
-/Users/sunny/Documents/UROP/PDS/worldbank/473340v50PROP01ocPlan1CIDA120081124.xls
-Useless Proc_Plan 2006-2008
-Empty Sheet1
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/480750PROP0P071c0Plan0200901PUBLIC1.xls
-Useless Sheet1
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/494050PROP0P101P0June0updated0draft.xls
-Useless MLSPP
-/Users/sunny/Documents/UROP/PDS/worldbank/4EthiopiasdBase.xlw.xls
-Useless List of Variables
-Useful 4 Ethiopias
-/Users/sunny/Documents/UROP/PDS/worldbank/4_Topic_MetaData_ar_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/4_Topic_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/4_Topic_MetaData_es_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/4_Topic_MetaData_fr_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/501470PROP0P091ditional0financing11.xls
-Useless Goods
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/508940PROP0p051ce010Drama10Sep02009.xls
-Useless Good & Eqip.
-Useless Civil Works
-Useless Consultancy (Ind.)
-Useless Consultancy (Firms)
-Useless Related Services
-/Users/sunny/Documents/UROP/PDS/worldbank/511360v30PROP010059061Cons1Services.xls
-Useless Consulting Services
-/Users/sunny/Documents/UROP/PDS/worldbank/512100PROP0p0810BETA0Project0Kosovo.xls
-Useless Sheet1
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/518890PROP0P111a0Valley1August02009.xls
-Useless Goods & Works
-Useless Consultants (QCBS)
-Useless Consultants (IC)
-/Users/sunny/Documents/UROP/PDS/worldbank/520_ART_20Registers_20-_20Swaziland.xls
-Useless PreART Register
-Useful ART Register
-Useless Monthly Report 
-Useless cohort analysis report printA4
-/Users/sunny/Documents/UROP/PDS/worldbank/523660PROP0P071thout1estimated1cost.xls
-Useless Works 
-Useless Goods 
-Useless Services
-Useless Training
-/Users/sunny/Documents/UROP/PDS/worldbank/528260PROP0P091ber020090Publication.xls
-Useless General Procurement Plan
-Useless REALLOCATIONS
-/Users/sunny/Documents/UROP/PDS/worldbank/529230PROP0P081ted0Procurement0Plan.xls
-Useful CovPg
-Useless Index
-Useless RCT_Final_Abstract
-Useless Proc_Thresholds
-Useless Agri_ProcPlan_GoodsWorks-DONE
-Useless Agri_ProcPlan-Con-done
-Useless Agr_ProcPlanTrng
-Useless AAU_Proc Pan_Goods
-Useless AAU_ProcPlan_Works
-Useless Fish_ProcPlanGoods-done
-Useless Fish_ProcPlanWorks-done
-Useless Fish_ProcPlanConsl
-Useless Fish_ProcPlanOthers
-Useless Vety_ProcPlan_Goods-done
-Useless Vety_ProcPlan_Works-DONE
-Useless Vety_ProcPlan_Cons-done
-Useful Vety_ProcPlan_Others_done
-Useless Diary_ProcPlanWorks-done
-Useless Diary_ProcPlanGoods-DONE
-Useless Diary_ProcPlanConls-done
-Useless Forest_ProcPlanWorks-DONE
-Useless Forest_ProcPlanGoods-DONE
-Useless Forest_ProcPlanCons-done
-Useless PWD_ProcPlan CivilWorks-done
-Useless PWD_Proc Plan Cons-done
-Useless PWD_DemonstrationD.
-Useless PWD_ProcPlan GoodsB,C.
-Useless PCU_ProcPlan-TrainingF.
-Useless PCU_ProcPlan-Cons
-Useless PCU_ProcPlan-Goods & Works
-/Users/sunny/Documents/UROP/PDS/worldbank/536330v10PROP010221311001R21cleared.xls
-Useless P.P
-Useless Annex I (Works)
-Useless AnnexII (Goods)
-Useless Annex III (Non-Consut.)
-Useless Annex IV ( Consultancy)
-/Users/sunny/Documents/UROP/PDS/worldbank/542310PROP0P091PPM0SOGEM0NOV0080131.xls
-Useless Fournitures
-Useless Travaux
-Useless Consultants 
-/Users/sunny/Documents/UROP/PDS/worldbank/544730PROP0P091BOX0349416B01PUBLIC1.xls
-Useful Works
-Useless Goods
-Useless Consultancy 
-/Users/sunny/Documents/UROP/PDS/worldbank/545500PROP0SPA10200Apr010101PUBLIC1.xls
-Useless Consultoria Individual
-Useless Empresas Consultoras
-Useless No Consultorías
-Useless Obras
-Useless Bienes
-Useless Tabla Global de Costos del PAC
-/Users/sunny/Documents/UROP/PDS/worldbank/54_Activity_20Based_20Planning_20-_20Costing_20Example.xls
-Useless Resourcing and budgeting
-Useless Gantt
-/Users/sunny/Documents/UROP/PDS/worldbank/553320PROP00FR10Box349445B01PUBLIC1.xls
-Useless Feuil1
-Empty Feuil3
-/Users/sunny/Documents/UROP/PDS/worldbank/554090PROP0p0810revised0110Jan02010.xls
-Useless Sheet1
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/554880PROP0P081A0MTR0rev01710712009.xls
-Useless Proc_Plan IDA&Dutch&SIDA (3)
-Useless Proc_Plan IDA&Dutch&SIDA (4)
-/Users/sunny/Documents/UROP/PDS/worldbank/554_MESS_20Tool_20Checklist_203.xls
-Useless HEADER
-Useless INSTRUCTIONS
-Useless GLOSSARY
-Useless Information_Page
-Useful Report_Sys_Health_Facilities
-Useless Report_Sys_Community_Settings
-Useless Report_Sys_System_Strengthening
-Useless Reporting Cap._Action_Plan
-/Users/sunny/Documents/UROP/PDS/worldbank/556190PROP0P09101Rev171061sans0cout.xls
-Useless Consultants synthe (2)
-Useless Travaux synthe(2)
-Useless Fournitures synthe(2)
-/Users/sunny/Documents/UROP/PDS/worldbank/556200PROP0P101pe0Aviaire1sans0cout.xls
-Useless Fournitures
-Useless Services
-Useless Workshops
-Useless Travaux
-/Users/sunny/Documents/UROP/PDS/worldbank/562200PROP0P101plan1NSP1II1Feb12010.xls
-Useless Procurement PlanGoods &Works 
-Useful DSCRW
-Useless PAS for Goods&Works
-Useless Proc.Plan(Consultancies)
-Useless PAS for Consultancy
-Useless Proc Plan Indv (International)
-Useless National(Prior review)
-Useless Nationals(Post review)
-Useful IndNat(SupportStaff)
-Useless Training
-Useless Annex A(Off Equip)
-Useless Annex B (IT Eqip)
-Useless Annex C (Off Furniture)
-Useless Annex D (Comm Equip)
-Useless AnnexE(QualityControlEquip)
-Useless Annex F(Works-NSP-HQ)
-Useless Annex G(Works-Provinces)
-Useless Annexue H(Training)
-Empty Sheet1
-/Users/sunny/Documents/UROP/PDS/worldbank/562690PROP0P1111eng1August019102010.xls
-Useless Goods & Works
-Useless Consultants (QCBS)
-Useless Consultants (IC)
-/Users/sunny/Documents/UROP/PDS/worldbank/563960PROP0P071dated0to0June0020101.xls
-Useless Proc_Plan 2006-2009
-Empty Sheet1
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/564210PROP0P101t1est1cost1Aug128110.xls
-Useless General
-Useless Goods & Works
-Useless Consulting Services
-Useless Capacity Building 
-Empty Sheet1
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/564720PROP0P081ones0january01102010.xls
-Useless Sheet1
-/Users/sunny/Documents/UROP/PDS/worldbank/566_UNHCR_20VCT_20Monthly_20summary_20form_20-_20Tanzania.xls
-Useless Sheet1
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/570900v20PROP01nt0SETIDP0PP1Revised.xls
-Useless Goods-MHPP-08-16-10
-Useless Works-MHPP- 10-12-10
-Useless Works (2)
-Useless Works (3)
-Useless Consultants-MHPP-10-12-10 
-/Users/sunny/Documents/UROP/PDS/worldbank/578630v70Box35110Stand0alone0Oct029.xls
-Useless Industrial Estates
-Useless HaNoi
-Useless HaNam
-Useless  Nam Định 
-/Users/sunny/Documents/UROP/PDS/worldbank/579110PROP0P0911Nov20101publication.xls
-Useless PFMP
-/Users/sunny/Documents/UROP/PDS/worldbank/579150PROP0P111UBLIC10armeniapublic.xls
-Useless Sheet1
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/581790PROP0P091hana0Project020110PP.xls
-Useless Consultancy
-Useless Goods
-Useless Works
-/Users/sunny/Documents/UROP/PDS/worldbank/591490PROP0p091RDP0revised0Jan02011.xls
-Useless Trainings
-Useless Goods
-Useless Works
-Useless Consultancy
-/Users/sunny/Documents/UROP/PDS/worldbank/595090PROP0P091101fund0committed1NO.xls
-Useless Goods
-Useful Approvals-Goods
-Useless Consultants
-Useful Approvals-Consultants
-/Users/sunny/Documents/UROP/PDS/worldbank/595190PROP0p091andppcomponentA02.07.xls
-Useless Goods
-Useful Approvals-Goods
-Useless Consultants
-Useful Approvals-Consultants
-/Users/sunny/Documents/UROP/PDS/worldbank/596660PROP0P1010component0II0Nov010.xls
-Useless IIFCL - Consultants -DFID
-Useless IIFCL-Consultants-PPIAF
-Useless IIFCL-Consultants-IDF
-Useless IIFCL-Goods-IDF
-Useless IIFCL-Op Costs-IDF
-Useless Consolidated
-/Users/sunny/Documents/UROP/PDS/worldbank/599170PROP0P091Budget02011002022011.xls
-Useful Regional Project Budget 2011
-Useless Procurement Plan 01112011
-/Users/sunny/Documents/UROP/PDS/worldbank/5_Topic_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/5_Topic_MetaData_es_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/5_Topic_MetaData_fr_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/600020PROP0P111n0the0Final0Revision.xls
-Useless Sheet1
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/609520PROP0FRE1ROVED10April11012011.xls
-Useless Données Générales
-Useless Fournitures & Trvx
-Useless Sce de consultants
-Useless Renf. Capacités
-/Users/sunny/Documents/UROP/PDS/worldbank/619000PROP0P1000PBS0II0Component0II.xls
-Useless PBS II-Goods
-/Users/sunny/Documents/UROP/PDS/worldbank/621860PROP0P110iated0GEF07avril2011.xls
-Useless Settings
-Useless Données Générales
-Useless Fournitures et Travaux
-Useless Services de consultants
-Useless Renforcement de capacites
-/Users/sunny/Documents/UROP/PDS/worldbank/622150PROP0P110ay0110with0no0budget.xls
-Useless Data Table
-/Users/sunny/Documents/UROP/PDS/worldbank/631190v10PROP000BOX361502B00PUBLIC0.xls
-Useless Works
-Useless Goods
-Useless Consultancy
-Useful Annexure A
-Useful Annexure B
-Useful Annexure C
-Useless TIME LINES 
-/Users/sunny/Documents/UROP/PDS/worldbank/649470PROP0P100Plan0FINAL0SEPT02011.xls
-Useless Proc_Plan (2)
-/Users/sunny/Documents/UROP/PDS/worldbank/656680PROP0P110pdate0May11000FINAL1.xls
-Useless Data Table
-Useless Unit Costs
-/Users/sunny/Documents/UROP/PDS/worldbank/656760PROP0P090020110revised0210711.xls
-Useless DILS Procurement Plan
-Useful update July 2010
-Useless Grants MoH
-Useful Grants MoE
-Useless Grants MoLSP
-Useless Realisation figures
-/Users/sunny/Documents/UROP/PDS/worldbank/6_Topic_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/6_Topic_MetaData_es_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/7_Topic_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/7_Topic_MetaData_es_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/8_Topic_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/8_Topic_MetaData_es_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/8_Topic_MetaData_fr_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/935_costed_20M-E_20work_20plan_20-_20Zanzibar.xls
-Useless 1. Intro
-Useless 2. Acronymns and references
-Useless 3. coasted road map ZANZIBAR
-Useless 4. Approximate unit costs
-Useless 5. MTP costing est
-/Users/sunny/Documents/UROP/PDS/worldbank/960__20Reporting_20dashboard_20-_20India.xls
-Useless Intro
-Useless Dashboard sample
-Useless Notes and explanations
-/Users/sunny/Documents/UROP/PDS/worldbank/978_Template_20for_20Research_20Inventory.xls
-Useless Bibliography
-Useless Codes
-/Users/sunny/Documents/UROP/PDS/worldbank/9_Topic_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/9_Topic_MetaData_es_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/9_Topic_MetaData_fr_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/A-A.xls
-Useless A&A TOTAL PARTICIPATION
-/Users/sunny/Documents/UROP/PDS/worldbank/A11.xls
-Useful A1.1
-/Users/sunny/Documents/UROP/PDS/worldbank/A5.xls
-Useful Workshops, training, study tour
-Useless TA, Consultancy and Salaries
-Useless Equipment, Supplies & Office
-Useless Livelihoods
-Useless Productive Sector & Environment
-Useless Education
-Useless Health
-Useless Water and Sanitation
-Useless Infrastructure
-Useless Khat
-/Users/sunny/Documents/UROP/PDS/worldbank/A62.xls
-Useful Sheet 1
-/Users/sunny/Documents/UROP/PDS/worldbank/ABW_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/ABW_POP.xls
-Useful ABW_POP
-/Users/sunny/Documents/UROP/PDS/worldbank/ACMECS_registered_participants.xls
-Useless Chair-Presenters-Discussants
-Useless Registered Participant
-/Users/sunny/Documents/UROP/PDS/worldbank/ADB.xls
-Useless LEGEND
-Useful WGI05
-Useful WGI06
-Useful WGI07
-Useful WGI08
-Useful WGI09
-Useful WGI10
-/Users/sunny/Documents/UROP/PDS/worldbank/ADIIndicators.xls
-Useless Sheet1
-/Users/sunny/Documents/UROP/PDS/worldbank/ADO_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/AFG_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/AFR-MalariaScorecard_2007aug22udpate_NoData.xls
-Useless Summary Angola_Kenya
-Useless Summary Lesotho_Zimbabwe
-Useless Suppl A Angola_Kenya
-Useless Suppl A Lesotho_Zimbabwe
-Useless Suppl B Angola_Kenya
-Useless Suppl B Lesotho_Zimbabwe
-Useless Suppl C Angola_Kenya
-Useless Suppl C Lesotho_Zimbabwe
-/Users/sunny/Documents/UROP/PDS/worldbank/AG.AGR.TRAC.NO_Indicator_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/AG.CRP.WHT.CD_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/AG.FRST.PROD.WOOD_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/AG.LND.AGRI.K2_Indicator_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/AG.LND.ARBL.HA.PC_Indicator_MetaData_ar_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/AG.LND.ARBL.HA_Indicator_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/AG.LND.CREL.HA_Indicator_MetaData_ar_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/AG.LND.CREL.HA_Indicator_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/AG.LND.CROP.ZS_Indicator_MetaData_ar_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/AG.LND.FRST.K2_Indicator_MetaData_ar_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/AG.LND.IRIG.AG.ZS_Indicator_MetaData_ar_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/AG.LND.PRCP.MM_Indicator_MetaData_en_EXCEL.xls
-Useless Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/AG.LND.TOTL.K2_Indicator_MetaData_ar_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/AG.LND.TRAC.ZS_Indicator_MetaData_ar_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/AG.LND.TRAC.ZS_Indicator_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/AG.PRD.CREL.MT_Indicator_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/AG.PRD.CROP.XD_Indicator_MetaData_ar_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/AG.PRD.FOOD.XD_Indicator_MetaData_ar_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/AG.YLD.CREL.KG_Indicator_MetaData_ar_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/AGEPA_Participants_Niamey_2009.xls
-Useless Participants
-Empty Sheet3
-Empty Sheet4
-Empty Sheet5
-Empty Sheet6
-/Users/sunny/Documents/UROP/PDS/worldbank/AGO_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/AHI-attendees-seminar1-July-12-06.xls
-Useless Master
-Useless Summary
-Useless Summary (2)
-/Users/sunny/Documents/UROP/PDS/worldbank/ALB_2002.xls
-Useless Contents
-Useless Notifications
-Useful Original Data Report
-Useful Table A1
-Useful Table A1 SE
-Useful Table A1 FREQ
-Useful Table A2
-Useful Table A2 FREQ
-Useful Table A3
-Useful Table A3 SE
-Useful Table A3 FREQ
-Useful Table A4
-Useful Table A4 SE
-Useful Table A4 FREQ
-Useful Table A5
-Useful Table A5 SE
-Useful Table A5 FREQ
-Useful Table B1
-Useful Table B1 SE
-Useful Table B1 FREQ
-Useful Table B2
-Useful Table B2 SE
-Useful Table B2 FREQ
-Useful Table B3
-Useful Table B3 SE
-Useful Table B3 FREQ
-Useful Table C1
-Useful Table C1 SE
-Useful Table C1 FREQ
-Useful Table C2
-Useful Table C2 SE
-Useful Table C2 FREQ
-Useful Table C3
-Useful Table C3 SE
-Useful Table C3 FREQ
-Useful Table C4
-Useful Table C4 SE
-Useful Table C4 FREQ
-Useful Table C5
-Useful Table C5 SE
-Useful Table C5 FREQ
-Useful Table C6
-Useful Table D1
-Useful Table D1 SE
-Useful Table D1 FREQ
-Useful Table D2
-Useful Table D2 SE
-Useful Table D2 FREQ
-Useful Table D3
-Useful Table D3 SE
-Useful Table D3 FREQ
-Useless Database
-Empty Graph 1_ONE
-Empty Graph 1_GENDER
-Empty Graph 1_URBAN
-Empty Graph 1_URGENDER
-Empty Graph 1_WI3
-Empty Graph 1_WI6
-Empty Graph 1_HHGENDER
-Empty Graph 1_HHEDUC
-Empty Graph 1_ETHNIC
-Empty Graph 2_ONE
-Empty Graph 2_GENDER
-Empty Graph 2_URBAN
-Empty Graph 2_URGENDER
-Empty Graph 2_WI3
-Empty Graph 2_WI6
-Empty Graph 2_HHGENDER
-Empty Graph 2_HHEDUC
-Empty Graph 2_ETHNIC
-Empty Graph 3_ONE
-Empty Graph 3_GENDER
-Empty Graph 3_URBAN
-Empty Graph 3_URGENDER
-Empty Graph 3_WI3
-Empty Graph 3_WI6
-Empty Graph 3_HHGENDER
-Empty Graph 3_HHEDUC
-Empty Graph 3_ETHNIC
-Empty Graph 4_W20
-Empty Graph 4_Gender
-Empty Graph 4_UrRur
-Empty Graph 4_UrGender
-Empty Graph 4_RurGender
-Empty Graph 5_ONE_20_29
-Empty Graph 5_GENDER_20_29
-Empty Graph 5_URBAN_20_29
-Empty Graph 5_URGENDER_20_29
-Empty Graph 5_WI3_20_29
-Empty Graph 5_WI6_20_29
-Empty Graph 5_HHGENDER_20_29
-Empty Graph 5_HHEDUC_20_29
-Empty Graph 5_ETHNIC_20_29
-Empty Graph 5_ONE_30_39
-Empty Graph 5_GENDER_30_39
-Empty Graph 5_URBAN_30_39
-Empty Graph 5_URGENDER_30_39
-Empty Graph 5_WI3_30_39
-Empty Graph 5_WI6_30_39
-Empty Graph 5_HHGENDER_30_39
-Empty Graph 5_HHEDUC_30_39
-Empty Graph 5_ETHNIC_30_39
-/Users/sunny/Documents/UROP/PDS/worldbank/ALB_POP.xls
-Useful ALB_POP
-/Users/sunny/Documents/UROP/PDS/worldbank/ANNEX_D.xls
-Useless RWUC_Bidding Information
-/Users/sunny/Documents/UROP/PDS/worldbank/ANNEX_E.xls
-Useless RWUC_cost_information
-/Users/sunny/Documents/UROP/PDS/worldbank/ANNEX_F.xls
-Useless RWUC_Supervision_Contracts
-/Users/sunny/Documents/UROP/PDS/worldbank/ANNEX_G.xls
-Useful RWUC_Bridges
-/Users/sunny/Documents/UROP/PDS/worldbank/ANS_2008_by_country.xls
-Useless Sheet1
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/ANS_Aggregates.xls
-Useless GNS
-Useful CFC
-Useless NNS
-Useful EE
-Useful ED
-Useful MD
-Useful NFD
-Useful CO2
-Useless PM10
-Useless ANS_I
-Useless ANS_E
-/Users/sunny/Documents/UROP/PDS/worldbank/ANS_time_series_by_country_1970to2006.xls
-Useless GNS
-Useless CFC
-Useless NNS
-Useful EDE
-Useless NFD
-Useless END
-Useless MID
-Useless CO2
-Useless PM10
-Useless ANS_I
-Useless ANS_E
-Useless Table 3.15 (2006)
-/Users/sunny/Documents/UROP/PDS/worldbank/ANS_time_series_by_country_1970to2008.xls
-Useless GNS
-Useless CFC
-Useless NNS
-Useful EDE
-Useless NFD
-Useless END
-Useless MID
-Useless CO2
-Useless PM10
-Useless ANS_I
-Useless ANS_E
-Useless Table 3.15 (2008)
-/Users/sunny/Documents/UROP/PDS/worldbank/ANTANANARIVO-WB.xls
-Empty Reports
-Empty Audience
-Empty Visitors Areas of Interest
-Useful Data
-/Users/sunny/Documents/UROP/PDS/worldbank/APEIE_participants_712.xls
-Useless Sheet1
-Useless Sheet2
-Empty Sheet3
-Empty Sheet4
-Empty Sheet5
-Empty Sheet6
-/Users/sunny/Documents/UROP/PDS/worldbank/AR05-LD010.xls
-Useful REPORT_BY_REGION_ALL_SAR_2005
-/Users/sunny/Documents/UROP/PDS/worldbank/AR05-LD012.xls
-Useful REPORT_BY_REGION_ALL_LCR_2005
-/Users/sunny/Documents/UROP/PDS/worldbank/AR05-LD014.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useful Projects Approved by Region
-Useful IBRD-IDA No. & Comm incl Suppl
-/Users/sunny/Documents/UROP/PDS/worldbank/AR05-NO001.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useful AFR
-Useless Africa Operations Approved
-/Users/sunny/Documents/UROP/PDS/worldbank/AR05-NO002.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useless EAP Operations Approved
-Useful Background Data
-/Users/sunny/Documents/UROP/PDS/worldbank/AR05-NO004.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useless ECA Operations Approved
-Useful Background Data
-/Users/sunny/Documents/UROP/PDS/worldbank/AR05-NO006.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useful Sheet1
-Useless MENA Operations Approved
-/Users/sunny/Documents/UROP/PDS/worldbank/AR06-LD008.xls
-Useful Africa
-/Users/sunny/Documents/UROP/PDS/worldbank/AR06-LD010.xls
-Useful South Asia
-/Users/sunny/Documents/UROP/PDS/worldbank/AR06-LD014.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useful Projects Approved
-/Users/sunny/Documents/UROP/PDS/worldbank/AR06-LD018.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useful Expenditures
-Useless FY02-06 
-/Users/sunny/Documents/UROP/PDS/worldbank/AR06-LD019.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useful Cumulative Lending
-/Users/sunny/Documents/UROP/PDS/worldbank/AR06-LD020.xls
-Useful Cumulative Lending
-/Users/sunny/Documents/UROP/PDS/worldbank/AR06-NO001.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useless Africa Operations Approved
-/Users/sunny/Documents/UROP/PDS/worldbank/AR06-NO004.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useless Europe Operations Approved
-/Users/sunny/Documents/UROP/PDS/worldbank/AR06-NO005.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useful Sheet2
-Useless L. America Operations Approved
-/Users/sunny/Documents/UROP/PDS/worldbank/AR06-NO006.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useful Sheet1
-Useless Middle East Operations Approved
-/Users/sunny/Documents/UROP/PDS/worldbank/ARB_Country_MetaData_fr_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/ARE_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/ARG_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/ARG_POP.xls
-Useful ARG_POP
-/Users/sunny/Documents/UROP/PDS/worldbank/ARM_2000.xls
-Useless Contents
-Useless Notifications
-Useful Original Data Report
-Useful Table A1
-Useful Table A1 SE
-Useful Table A1 FREQ
-Useful Table A2
-Useful Table A2 SE
-Useful Table A2 FREQ
-Useful Table A3
-Useful Table A3 SE
-Useful Table A3 FREQ
-Useful Table A4
-Useful Table A4 SE
-Useful Table A4 FREQ
-Useful Table A5
-Useful Table A5 SE
-Useful Table A5 FREQ
-Useful Table A7
-Useful Table A7 SE
-Useful Table A7 FREQ
-Useful Table B1
-Useful Table B1 SE
-Useful Table B1 FREQ
-Useful Table B2
-Useful Table B2 SE
-Useful Table B2 FREQ
-Useful Table B3
-Useful Table B3 SE
-Useful Table B3 FREQ
-Useful Table C1
-Useful Table C1 SE
-Useful Table C1 FREQ
-Useful Table C2
-Useful Table C2 SE
-Useful Table C2 FREQ
-Useful Table C3
-Useful Table C3 SE
-Useful Table C3 FREQ
-Useful Table C4
-Useful Table C4 SE
-Useful Table C4 FREQ
-Useful Table C5
-Useful Table C5 SE
-Useful Table C5 FREQ
-Useful Table C6
-Useful Table C6 FREQ
-Useful Table C7
-Useful Table C7 SE
-Useful Table C7 FREQ
-Useful Table E5
-Useful Table E5 SE
-Useful Table E5 FREQ
-Empty Graph 1_ONE
-Empty Graph 1_GENDER
-Empty Graph 1_URBAN
-Empty Graph 1_URGENDER
-Empty Graph 1_HHGENDER
-Empty Graph 1_HHEDUC
-Empty Graph 2_ONE
-Empty Graph 2_GENDER
-Empty Graph 2_URBAN
-Empty Graph 2_URGENDER
-Empty Graph 2_HHGENDER
-Empty Graph 2_HHEDUC
-Empty Graph 3_ONE
-Empty Graph 3_GENDER
-Empty Graph 3_URBAN
-Empty Graph 3_URGENDER
-Empty Graph 3_HHGENDER
-Empty Graph 3_HHEDUC
-Empty Graph 4_Gender
-Empty Graph 4_UrRur
-Empty Graph 4_UrGender
-Empty Graph 4_RurGender
-Empty Graph 5_ONE_20_29
-Empty Graph 5_GENDER_20_29
-Empty Graph 5_URBAN_20_29
-Empty Graph 5_URGENDER_20_29
-Empty Graph 5_HHGENDER_20_29
-Empty Graph 5_HHEDUC_20_29
-Empty Graph 5_ONE_30_39
-Empty Graph 5_GENDER_30_39
-Empty Graph 5_URBAN_30_39
-Empty Graph 5_URGENDER_30_39
-Empty Graph 5_HHGENDER_30_39
-Empty Graph 5_HHEDUC_30_39
-Empty Graph 6_PRMRY
-Empty Graph 6_SCNDRY
-Empty Graph 8_Total
-Empty Graph 8_1
-Empty Graph 8_2
-Useless Database
-/Users/sunny/Documents/UROP/PDS/worldbank/ARM_2005.xls
-Useless Contents
-Useless Notifications
-Useful Original Data Report
-Useful Table A1
-Useful Table A1 SE
-Useful Table A1 FREQ
-Useful Table A2
-Useful Table A2 SE
-Useful Table A2 FREQ
-Useful Table A3
-Useful Table A3 SE
-Useful Table A3 FREQ
-Useful Table A4
-Useful Table A4 SE
-Useful Table A4 FREQ
-Useful Table A5
-Useful Table A5 SE
-Useful Table A5 FREQ
-Useful Table B1
-Useful Table B1 SE
-Useful Table B1 FREQ
-Useful Table B2
-Useful Table B2 SE
-Useful Table B2 FREQ
-Useful Table B3
-Useful Table B3 SE
-Useful Table B3 FREQ
-Useful Table C1
-Useful Table C1 SE
-Useful Table C1 FREQ
-Useful Table C2
-Useful Table C2 SE
-Useful Table C2 FREQ
-Useful Table C3
-Useful Table C3 SE
-Useful Table C3 FREQ
-Useful Table C4
-Useful Table C4 SE
-Useful Table C4 FREQ
-Useful Table C5
-Useful Table C5 SE
-Useful Table C5 FREQ
-Useful Table C6
-Useful Table C6 FREQ
-Useful Table C7
-Useful Table C7 SE
-Useful Table C7 FREQ
-Empty Graph 1_ONE
-Empty Graph 1_GENDER
-Empty Graph 1_URBAN
-Empty Graph 1_URGENDER
-Empty Graph 1_WI3
-Empty Graph 1_WI6
-Empty Graph 1_HHGENDER
-Empty Graph 1_HHEDUC
-Empty Graph 2_ONE
-Empty Graph 2_GENDER
-Empty Graph 2_URBAN
-Empty Graph 2_URGENDER
-Empty Graph 2_WI3
-Empty Graph 2_WI6
-Empty Graph 2_HHGENDER
-Empty Graph 2_HHEDUC
-Empty Graph 3_ONE
-Empty Graph 3_GENDER
-Empty Graph 3_URBAN
-Empty Graph 3_URGENDER
-Empty Graph 3_WI3
-Empty Graph 3_WI6
-Empty Graph 3_HHGENDER
-Empty Graph 3_HHEDUC
-Empty Graph 4_Gender
-Empty Graph 4_UrRur
-Empty Graph 4_UrGender
-Empty Graph 4_RurGender
-Empty Graph 5_ONE_20_29
-Empty Graph 5_GENDER_20_29
-Empty Graph 5_URBAN_20_29
-Empty Graph 5_URGENDER_20_29
-Empty Graph 5_WI3_20_29
-Empty Graph 5_WI6_20_29
-Empty Graph 5_HHGENDER_20_29
-Empty Graph 5_HHEDUC_20_29
-Empty Graph 5_ONE_30_39
-Empty Graph 5_GENDER_30_39
-Empty Graph 5_URBAN_30_39
-Empty Graph 5_URGENDER_30_39
-Empty Graph 5_WI3_30_39
-Empty Graph 5_WI6_30_39
-Empty Graph 5_HHGENDER_30_39
-Empty Graph 5_HHEDUC_30_39
-Empty Graph 6_PRMRY
-Empty Graph 6_SCNDRY
-Empty Graph 8_Total
-Empty Graph 8_1
-Empty Graph 8_2
-Useless Database
-/Users/sunny/Documents/UROP/PDS/worldbank/ARM_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/ASAPHIVAIDSCostingModelv1.2.xls
-Empty Title
-Useless Menu
-Useful Basic Data
-Useless Targets and Coverage
-Useless Chart of Accounts
-Useful Strategic Plan Map
-Useful Activity Costing
-Useful Training
-Useful Financing Gap Analysis
-Useful Total Cost Summary
-Useless Reporting
-Useless Graphs
-Useful Cost Summary by Priority
-Useful Cost Summary by Activity
-Useful Cost Summary by Function
-Useful Cost Summary by Exp. Type
-Useful Cost by Govt Classification
-Useful Financing Gap Report
-Useful Physical Quantities
-Useful Unit Costs by Beneficiary
-Useful Unit Costs Report
-Useful Global Fund Setup
-Useful Global Fund Reports
-Useful Function List
-Useless CofA Sorted
-/Users/sunny/Documents/UROP/PDS/worldbank/ASD.xls
-Useless LEGEND
-Useful WGI05
-Useful WGI06
-Useful WGI07
-Useful WGI08
-Useful WGI09
-Useful WGI10
-/Users/sunny/Documents/UROP/PDS/worldbank/ATG_POP.xls
-Useful ATG_POP
-/Users/sunny/Documents/UROP/PDS/worldbank/AUSTRALIA_FY04-06.xls
-Useless SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/AUSTRALIA_FY04-07.xls
-Useless SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/AUSTRALIA_FY04.xls
-Useless SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/AUSTRIA_FY04-07.xls
-Useless SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/AUS_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/AUT_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/AUT_POP.xls
-Useful AUT_POP
-/Users/sunny/Documents/UROP/PDS/worldbank/AZE_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/A_26A.xls
-Useless A&A TOTAL PARTICIPATION
-/Users/sunny/Documents/UROP/PDS/worldbank/AccessIndicatorsRegulatorData.xls
-Useful Data
-Useless Source
-/Users/sunny/Documents/UROP/PDS/worldbank/Africa_FY10_11_InfrastructurePipeline.xls
-Useless Sheet1
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/African_Network_on_Impact_Evaluation.xls
-Useless African Network on Impact Evalu
-/Users/sunny/Documents/UROP/PDS/worldbank/Agenda.xls
-Useless Sheet1
-/Users/sunny/Documents/UROP/PDS/worldbank/AirPollutionConcentrationData2.xls
-Useless model descriptions
-Useful deaths truncated
-Useful deaths untruncated
-Useless prediction by who region
-Useful bootstrap distrib pm10
-Useful pred eq stage1
-Useless pred eq stage2
-Useless pred pm10 country
-Useless pred pm10 city
-/Users/sunny/Documents/UROP/PDS/worldbank/Algeria.xls
-Useful CMR graph
-/Users/sunny/Documents/UROP/PDS/worldbank/Algeria_FY04-07.xls
-Useless SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/AmadeusSummaryStatisticsJul02.xls
-Useless Sheet2
-Useful table0
-Useful table2 1999
-Useful table3  empl 1999
-Useful table4 age 1999
-Useful table5 ind 1999
-Useful table3a empl<250 1999
-Useful MSS1
-Useful MSS2
-Useful MSS3
-Useful MSS4
-Useful MSS5
-Useful MSS6
-Useful MSS7
-Useful MSS8
-Useful MSS9
-Useful MSS10
-Useful MSS11
-Useful MSS12
-Useful MSS13
-Useful MSS14
-Useful MSS15
-Useful msse1
-Useful MSSE2
-Useful MSSE3
-Useful MSSE4
-Useful MSSE5
-Useful MSSE6
-Useful MSSE7
-Useful MSSE8
-Useful MSSE9
-Useful MSSE10
-Useful MSSE11
-Useless MSSE12
-Useful MSSE13
-Useful MSSE14
-Useful MSSE15
-Useful mssea1
-Useful MSSA2
-Useful MSSA3
-Useful MSSA4
-Useful MSSA5
-Useful MSSA6
-Useless MSSA7
-Useless MSSA8
-Useful MSSA9
-Useful MSSA10
-Useful MSSA11
-Useful MSSA12
-Useful MSSA13
-Useful MSSA14
-Useful MSSA15
-Useful A
-Useful B
-Useful C
-Useful D
-Useless E
-Useful F
-Useful G
-Useless H
-Useful I
-Useful J
-Useless K
-Useless L
-Useful M
-Useful N
-Useful O
-/Users/sunny/Documents/UROP/PDS/worldbank/Angola.xls
-Useful datatable-2.tsv)(T+T2)datatable
-/Users/sunny/Documents/UROP/PDS/worldbank/Annex1_List_participants_7_Feb_2008.xls
-Useless atten.list
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Annex_I.xls
-Useless Sheet1
-Empty Sheet2
-Empty Sheet3
-Empty Sheet4
-Empty Sheet5
-Empty Sheet6
-/Users/sunny/Documents/UROP/PDS/worldbank/Appendix.xls
-Useless field data sheet
-Useless spreadsheet
-Useless data sheet with instructions
-/Users/sunny/Documents/UROP/PDS/worldbank/Appendix_4-1_Rd_Wa.xls
-Useless Water
-Useless Roads
-Empty Sheet3
-Empty Sheet4
-Empty Sheet5
-Empty Sheet6
-/Users/sunny/Documents/UROP/PDS/worldbank/Appendix_4-2_Ed.xls
-Useful Primary Schools
-Useless Junior Sec Schools
-Useless Federal Govt. Colleges
-/Users/sunny/Documents/UROP/PDS/worldbank/Appendix_4-3_Pow_Hea.xls
-Useless Rural Electrification
-Useless Materials
-Useless Power Generation
-Useful Repayment of Arrears
-Useless Primary Health Care
-Useful National Prog on Immunisation
-Empty Sheet5
-Empty Sheet6
-/Users/sunny/Documents/UROP/PDS/worldbank/Appendix_5_Mon_Prj.xls
-Useless Priority Projects
-Useless Contingency Projects
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Argentina.xls
-Useful PPNPRARC
-/Users/sunny/Documents/UROP/PDS/worldbank/Argentina_FY04-07.xls
-Useless SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/Armenia_FY04-07.xls
-Useless SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/Assessments_sub.xls
-Useless By Subject
-/Users/sunny/Documents/UROP/PDS/worldbank/Attendees.xls
-Useless Sheet1
-Empty Sheet2
-Empty Sheet3
-Empty Sheet4
-Empty Sheet5
-Empty Sheet6
-/Users/sunny/Documents/UROP/PDS/worldbank/Award_List.xls
-Useless Sheet1
-/Users/sunny/Documents/UROP/PDS/worldbank/Award_Table_10_April_2008_FINAL.xls
-Useless Awards Table
-Useless Sum by Country
-Useful Sum by Country by year
-Useless Summary by Agency
-Useless Summary by Cluster
-/Users/sunny/Documents/UROP/PDS/worldbank/Award_Table_31_Dec_2008.xls
-Useful by country by yearDec2008
-Useful piv by Agency_Jan 09
-Useless SOT Dec2008
-Useful Method Dec2008
-Useless New Awards Tbl added SOT col
-Useful piv by country by year_Jan 09
-Useful OLD3rdQtr News
-Useful OLDProc_Method Sept08
-/Users/sunny/Documents/UROP/PDS/worldbank/AwardsTable.xls
-Useless DataTable
-/Users/sunny/Documents/UROP/PDS/worldbank/Azerbaijan.xls
-Useful Azerbaijan
-/Users/sunny/Documents/UROP/PDS/worldbank/Azerbaijan_FY04-07.xls
-Useless SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/BANGLADESH.xls
-Empty Reports
-Empty Audience
-Empty Visitors Areas of Interest
-Useful Data
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.PRM.CMPT.15UP.FE.ZS_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.PRM.ICMP.1519.ZS_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.PRM.SCHL.15UP_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.PRM.SCHL.2024.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.PRM.SCHL.2024_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.PRM.SCHL.2529_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.PRM.SCHL.25UP_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.PRM.SCHL.3034.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.PRM.SCHL.3034_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.PRM.SCHL.3539.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.PRM.SCHL.3539_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.PRM.SCHL.4044.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.PRM.SCHL.4044_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.PRM.SCHL.4549.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.PRM.SCHL.4549_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.PRM.SCHL.5054.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.PRM.SCHL.5054_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.PRM.SCHL.5559.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.PRM.SCHL.6064.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.PRM.SCHL.6064_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.PRM.SCHL.6569.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.PRM.SCHL.6569_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.PRM.SCHL.7074.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.PRM.SCHL.7074_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.PRM.SCHL.75UP.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.PRM.SCHL.75UP_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SCHL.1519.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SCHL.15UP.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SCHL.15UP_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SCHL.2024_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SCHL.2529.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SCHL.2529_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SCHL.25UP.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SCHL.25UP_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SCHL.3034.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SCHL.3034_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SCHL.3539.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SCHL.3539_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SCHL.4044.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SCHL.4044_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SEC.SCHL.2529.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SEC.SCHL.25UP.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SEC.SCHL.3034.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SEC.SCHL.3034_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SEC.SCHL.3539.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SEC.SCHL.3539_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SEC.SCHL.4044.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SEC.SCHL.4044_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SEC.SCHL.4549.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SEC.SCHL.4549_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SEC.SCHL.5054.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SEC.SCHL.5054_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SEC.SCHL.5559.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SEC.SCHL.5559_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SEC.SCHL.6064.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SEC.SCHL.6064_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SEC.SCHL.6569_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SEC.SCHL.7074.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SEC.SCHL.7074_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SEC.SCHL.75UP.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.SEC.SCHL.75UP_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.TER.CMPT.15UP.ZS_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.TER.SCHL.2024.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.TER.SCHL.2024_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.TER.SCHL.2529_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.TER.SCHL.25UP.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.TER.SCHL.25UP_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.TER.SCHL.3034_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.TER.SCHL.3539.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.TER.SCHL.3539_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.TER.SCHL.4044.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.TER.SCHL.4044_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.TER.SCHL.4549.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.TER.SCHL.4549_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.TER.SCHL.5054.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.TER.SCHL.5054_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.TER.SCHL.5559.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.TER.SCHL.5559_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.TER.SCHL.6064.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.TER.SCHL.6064_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.TER.SCHL.6569.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.TER.SCHL.7074.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.TER.SCHL.7074_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.TER.SCHL.75UP.FE_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BAR.TER.SCHL.75UP_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BDI_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BDI_Country_MetaData_es_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BDI_POP.xls
-Useful BDI_POP
-/Users/sunny/Documents/UROP/PDS/worldbank/BEC-TF.glossary.xls
-Useless alphabetical
-Useless by categories
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/BEL_POP.xls
-Useful BEL_POP
-/Users/sunny/Documents/UROP/PDS/worldbank/BEN_1996.xls
-Useless Contents
-Useless Notifications
-Useful Original Data Report
-Useful Table A5
-Useful Table A5 SE
-Useful Table A5 FREQ
-Useful Table C1
-Useful Table C1 SE
-Useful Table C1 FREQ
-Useful Table C2
-Useful Table C2 SE
-Useful Table C2 FREQ
-Useful Table C3
-Useful Table C3 SE
-Useful Table C3 FREQ
-Useful Table C4
-Useful Table C4 SE
-Useful Table C4 FREQ
-Useful Table C5
-Useful Table C5 SE
-Useful Table C5 FREQ
-Useful Table C6
-Useful Table C6 FREQ
-Useful Table C7
-Useful Table C7 SE
-Useful Table C7 FREQ
-Useful Table E5
-Useful Table E5 SE
-Useful Table E5 FREQ
-Empty Graph 1_ONE
-Empty Graph 1_GENDER
-Empty Graph 1_URBAN
-Empty Graph 1_URGENDER
-Empty Graph 1_WI3
-Empty Graph 1_WI6
-Empty Graph 1_HHGENDER
-Empty Graph 1_HHEDUC
-Empty Graph 5_ONE_20_29
-Empty Graph 5_GENDER_20_29
-Empty Graph 5_URBAN_20_29
-Empty Graph 5_URGENDER_20_29
-Empty Graph 5_WI3_20_29
-Empty Graph 5_WI6_20_29
-Empty Graph 5_HHGENDER_20_29
-Empty Graph 5_HHEDUC_20_29
-Empty Graph 5_ONE_30_39
-Empty Graph 5_GENDER_30_39
-Empty Graph 5_URBAN_30_39
-Empty Graph 5_URGENDER_30_39
-Empty Graph 5_WI3_30_39
-Empty Graph 5_WI6_30_39
-Empty Graph 5_HHGENDER_30_39
-Empty Graph 5_HHEDUC_30_39
-Empty Graph 8_Total
-Empty Graph 8_1
-Empty Graph 8_2
-Useless Database
-/Users/sunny/Documents/UROP/PDS/worldbank/BEN_POP.xls
-Useful BEN_POP
-/Users/sunny/Documents/UROP/PDS/worldbank/BFA_1992.xls
-Useless Contents
-Useless Notifications
-Useful Original Data Report
-Useful Table A5
-Useful Table A5 SE
-Useful Table A5 FREQ
-Useful Table C1
-Useful Table C1 SE
-Useful Table C1 FREQ
-Useful Table C2
-Useful Table C2 SE
-Useful Table C2 FREQ
-Useful Table C3
-Useful Table C3 SE
-Useful Table C3 FREQ
-Useful Table C4
-Useful Table C4 SE
-Useful Table C4 FREQ
-Useful Table C5
-Useful Table C5 SE
-Useful Table C5 FREQ
-Useful Table C6
-Useful Table C6 FREQ
-Useful Table C7
-Useful Table C7 SE
-Useful Table C7 FREQ
-Useful Table E5
-Useful Table E5 SE
-Useful Table E5 FREQ
-Empty Graph 1_ONE
-Empty Graph 1_GENDER
-Empty Graph 1_URBAN
-Empty Graph 1_URGENDER
-Empty Graph 1_WI3
-Empty Graph 1_WI6
-Empty Graph 1_HHGENDER
-Empty Graph 1_HHEDUC
-Empty Graph 5_ONE_20_29
-Empty Graph 5_GENDER_20_29
-Empty Graph 5_URBAN_20_29
-Empty Graph 5_URGENDER_20_29
-Empty Graph 5_WI3_20_29
-Empty Graph 5_WI6_20_29
-Empty Graph 5_HHGENDER_20_29
-Empty Graph 5_HHEDUC_20_29
-Empty Graph 5_ONE_30_39
-Empty Graph 5_GENDER_30_39
-Empty Graph 5_URBAN_30_39
-Empty Graph 5_URGENDER_30_39
-Empty Graph 5_WI3_30_39
-Empty Graph 5_WI6_30_39
-Empty Graph 5_HHGENDER_30_39
-Empty Graph 5_HHEDUC_30_39
-Empty Graph 8_Total
-Empty Graph 8_1
-Empty Graph 8_2
-Useless Database
-/Users/sunny/Documents/UROP/PDS/worldbank/BFA_1999.xls
-Useless Contents
-Useless Notifications
-Useful Original Data Report
-Useful Table A5
-Useful Table A5 SE
-Useful Table A5 FREQ
-Useful Table C1
-Useful Table C1 SE
-Useful Table C1 FREQ
-Useful Table C2
-Useful Table C2 SE
-Useful Table C2 FREQ
-Useful Table C3
-Useful Table C3 SE
-Useful Table C3 FREQ
-Useful Table C4
-Useful Table C4 SE
-Useful Table C4 FREQ
-Useful Table C5
-Useful Table C5 SE
-Useful Table C5 FREQ
-Useful Table C6
-Useful Table C6 FREQ
-Useful Table C7
-Useful Table C7 SE
-Useful Table C7 FREQ
-Useful Table E5
-Useful Table E5 SE
-Useful Table E5 FREQ
-Empty Graph 1_ONE
-Empty Graph 1_GENDER
-Empty Graph 1_URBAN
-Empty Graph 1_URGENDER
-Empty Graph 1_WI3
-Empty Graph 1_WI6
-Empty Graph 1_HHGENDER
-Empty Graph 1_HHEDUC
-Empty Graph 5_ONE_20_29
-Empty Graph 5_GENDER_20_29
-Empty Graph 5_URBAN_20_29
-Empty Graph 5_URGENDER_20_29
-Empty Graph 5_WI3_20_29
-Empty Graph 5_WI6_20_29
-Empty Graph 5_HHGENDER_20_29
-Empty Graph 5_HHEDUC_20_29
-Empty Graph 5_ONE_30_39
-Empty Graph 5_GENDER_30_39
-Empty Graph 5_URBAN_30_39
-Empty Graph 5_URGENDER_30_39
-Empty Graph 5_WI3_30_39
-Empty Graph 5_WI6_30_39
-Empty Graph 5_HHGENDER_30_39
-Empty Graph 5_HHEDUC_30_39
-Empty Graph 8_Total
-Empty Graph 8_1
-Empty Graph 8_2
-Useless Database
-/Users/sunny/Documents/UROP/PDS/worldbank/BFA_2003.xls
-Useless Contents
-Useless Notifications
-Useful Original Data Report
-Useful Table A1
-Useful Table A1 SE
-Useful Table A1 FREQ
-Useful Table A2
-Useful Table A2 SE
-Useful Table A2 FREQ
-Useful Table A3
-Useful Table A3 SE
-Useful Table A3 FREQ
-Useful Table A4
-Useful Table A4 SE
-Useful Table A4 FREQ
-Useful Table A5
-Useful Table A5 SE
-Useful Table A5 FREQ
-Useful Table A7
-Useful Table A7 SE
-Useful Table A7 FREQ
-Useful Table B1
-Useful Table B1 SE
-Useful Table B1 FREQ
-Useful Table B2
-Useful Table B2 SE
-Useful Table B2 FREQ
-Useful Table B3
-Useful Table B3 SE
-Useful Table B3 FREQ
-Useful Table C1
-Useful Table C1 SE
-Useful Table C1 FREQ
-Useful Table C2
-Useful Table C2 SE
-Useful Table C2 FREQ
-Useful Table C3
-Useful Table C3 SE
-Useful Table C3 FREQ
-Useful Table C4
-Useful Table C4 SE
-Useful Table C4 FREQ
-Useful Table C5
-Useful Table C5 SE
-Useful Table C5 FREQ
-Useful Table C6
-Useful Table C6 FREQ
-Useful Table C7
-Useful Table C7 SE
-Useful Table C7 FREQ
-Empty Graph 1_ONE
-Empty Graph 1_GENDER
-Empty Graph 1_URBAN
-Empty Graph 1_URGENDER
-Empty Graph 1_WI3
-Empty Graph 1_WI6
-Empty Graph 1_HHGENDER
-Empty Graph 1_HHEDUC
-Empty Graph 2_ONE
-Empty Graph 2_GENDER
-Empty Graph 2_URBAN
-Empty Graph 2_URGENDER
-Empty Graph 2_WI3
-Empty Graph 2_WI6
-Empty Graph 2_HHGENDER
-Empty Graph 2_HHEDUC
-Empty Graph 3_ONE
-Empty Graph 3_GENDER
-Empty Graph 3_URBAN
-Empty Graph 3_URGENDER
-Empty Graph 3_WI3
-Empty Graph 3_WI6
-Empty Graph 3_HHGENDER
-Empty Graph 3_HHEDUC
-Empty Graph 4_Gender
-Empty Graph 4_UrRur
-Empty Graph 4_UrGender
-Empty Graph 4_RurGender
-Empty Graph 5_ONE_20_29
-Empty Graph 5_GENDER_20_29
-Empty Graph 5_URBAN_20_29
-Empty Graph 5_URGENDER_20_29
-Empty Graph 5_WI3_20_29
-Empty Graph 5_WI6_20_29
-Empty Graph 5_HHGENDER_20_29
-Empty Graph 5_HHEDUC_20_29
-Empty Graph 5_ONE_30_39
-Empty Graph 5_GENDER_30_39
-Empty Graph 5_URBAN_30_39
-Empty Graph 5_URGENDER_30_39
-Empty Graph 5_WI3_30_39
-Empty Graph 5_WI6_30_39
-Empty Graph 5_HHGENDER_30_39
-Empty Graph 5_HHEDUC_30_39
-Empty Graph 6_PRMRY
-Empty Graph 6_SCNDRY
-Empty Graph 8_Total
-Empty Graph 8_1
-Empty Graph 8_2
-Useless Database
-/Users/sunny/Documents/UROP/PDS/worldbank/BFA_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BG.GSR.NFSV.GD.ZS_Indicator_MetaData_ar_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BGD_1993.xls
-Useless Contents
-Useless Notifications
-Useful Original Data Report
-Useful Table A5
-Useful Table A5 SE
-Useful Table A5 FREQ
-Useful Table C1
-Useful Table C1 SE
-Useful Table C1 FREQ
-Useful Table C2
-Useful Table C2 SE
-Useful Table C2 FREQ
-Useful Table C3
-Useful Table C3 SE
-Useful Table C3 FREQ
-Useful Table C4
-Useful Table C4 SE
-Useful Table C4 FREQ
-Useful Table C5
-Useful Table C5 SE
-Useful Table C5 FREQ
-Useful Table C6
-Useful Table C6 FREQ
-Useful Table C7
-Useful Table C7 SE
-Useful Table C7 FREQ
-Empty Graph 1_ONE
-Empty Graph 1_GENDER
-Empty Graph 1_URBAN
-Empty Graph 1_URGENDER
-Empty Graph 1_WI3
-Empty Graph 1_WI6
-Empty Graph 1_HHGENDER
-Empty Graph 1_HHEDUC
-Empty Graph 5_ONE_20_29
-Empty Graph 5_GENDER_20_29
-Empty Graph 5_URBAN_20_29
-Empty Graph 5_URGENDER_20_29
-Empty Graph 5_WI3_20_29
-Empty Graph 5_WI6_20_29
-Empty Graph 5_HHGENDER_20_29
-Empty Graph 5_HHEDUC_20_29
-Empty Graph 5_ONE_30_39
-Empty Graph 5_GENDER_30_39
-Empty Graph 5_URBAN_30_39
-Empty Graph 5_URGENDER_30_39
-Empty Graph 5_WI3_30_39
-Empty Graph 5_WI6_30_39
-Empty Graph 5_HHGENDER_30_39
-Empty Graph 5_HHEDUC_30_39
-Empty Graph 8_Total
-Empty Graph 8_1
-Empty Graph 8_2
-Useless Database
-/Users/sunny/Documents/UROP/PDS/worldbank/BGD_1996.xls
-Useless Contents
-Useless Notifications
-Useful Original Data Report
-Useful Table A5
-Useful Table A5 SE
-Useful Table A5 FREQ
-Useful Table C1
-Useful Table C1 SE
-Useful Table C1 FREQ
-Useful Table C2
-Useful Table C2 SE
-Useful Table C2 FREQ
-Useful Table C3
-Useful Table C3 SE
-Useful Table C3 FREQ
-Useful Table C4
-Useful Table C4 SE
-Useful Table C4 FREQ
-Useful Table C5
-Useful Table C5 SE
-Useful Table C5 FREQ
-Useful Table C6
-Useful Table C6 FREQ
-Useful Table C7
-Useful Table C7 SE
-Useful Table C7 FREQ
-Empty Graph 1_ONE
-Empty Graph 1_GENDER
-Empty Graph 1_URBAN
-Empty Graph 1_URGENDER
-Empty Graph 1_WI3
-Empty Graph 1_WI6
-Empty Graph 1_HHGENDER
-Empty Graph 1_HHEDUC
-Empty Graph 5_ONE_20_29
-Empty Graph 5_GENDER_20_29
-Empty Graph 5_URBAN_20_29
-Empty Graph 5_URGENDER_20_29
-Empty Graph 5_WI3_20_29
-Empty Graph 5_WI6_20_29
-Empty Graph 5_HHGENDER_20_29
-Empty Graph 5_HHEDUC_20_29
-Empty Graph 5_ONE_30_39
-Empty Graph 5_GENDER_30_39
-Empty Graph 5_URBAN_30_39
-Empty Graph 5_URGENDER_30_39
-Empty Graph 5_WI3_30_39
-Empty Graph 5_WI6_30_39
-Empty Graph 5_HHGENDER_30_39
-Empty Graph 5_HHEDUC_30_39
-Empty Graph 8_Total
-Empty Graph 8_1
-Empty Graph 8_2
-Useless Database
-/Users/sunny/Documents/UROP/PDS/worldbank/BGD_1999.xls
-Useless Contents
-Useless Notifications
-Useful Original Data Report
-Useful Table A5
-Useful Table A5 SE
-Useful Table A5 FREQ
-Useful Table C1
-Useful Table C1 SE
-Useful Table C1 FREQ
-Useful Table C2
-Useful Table C2 SE
-Useful Table C2 FREQ
-Useful Table C3
-Useful Table C3 SE
-Useful Table C3 FREQ
-Useful Table C4
-Useful Table C4 SE
-Useful Table C4 FREQ
-Useful Table C5
-Useful Table C5 SE
-Useful Table C5 FREQ
-Useful Table C6
-Useful Table C6 FREQ
-Useful Table C7
-Useful Table C7 SE
-Useful Table C7 FREQ
-Empty Graph 1_ONE
-Empty Graph 1_GENDER
-Empty Graph 1_URBAN
-Empty Graph 1_URGENDER
-Empty Graph 1_WI3
-Empty Graph 1_WI6
-Empty Graph 1_HHGENDER
-Empty Graph 1_HHEDUC
-Empty Graph 5_ONE_20_29
-Empty Graph 5_GENDER_20_29
-Empty Graph 5_URBAN_20_29
-Empty Graph 5_URGENDER_20_29
-Empty Graph 5_WI3_20_29
-Empty Graph 5_WI6_20_29
-Empty Graph 5_HHGENDER_20_29
-Empty Graph 5_HHEDUC_20_29
-Empty Graph 5_ONE_30_39
-Empty Graph 5_GENDER_30_39
-Empty Graph 5_URBAN_30_39
-Empty Graph 5_URGENDER_30_39
-Empty Graph 5_WI3_30_39
-Empty Graph 5_WI6_30_39
-Empty Graph 5_HHGENDER_30_39
-Empty Graph 5_HHEDUC_30_39
-Empty Graph 8_Total
-Empty Graph 8_1
-Empty Graph 8_2
-Useless Database
-/Users/sunny/Documents/UROP/PDS/worldbank/BGD_2004.xls
-Useless Contents
-Useless Notifications
-Useful Original Data Report
-Useful Table A5
-Useful Table A5 SE
-Useful Table A5 FREQ
-Useful Table C1
-Useful Table C1 SE
-Useful Table C1 FREQ
-Useful Table C2
-Useful Table C2 SE
-Useful Table C2 FREQ
-Useful Table C3
-Useful Table C3 SE
-Useful Table C3 FREQ
-Useful Table C4
-Useful Table C4 SE
-Useful Table C4 FREQ
-Useful Table C5
-Useful Table C5 SE
-Useful Table C5 FREQ
-Useful Table C6
-Useful Table C6 FREQ
-Useful Table C7
-Useful Table C7 SE
-Useful Table C7 FREQ
-Empty Graph 1_ONE
-Empty Graph 1_GENDER
-Empty Graph 1_URBAN
-Empty Graph 1_URGENDER
-Empty Graph 1_WI3
-Empty Graph 1_WI6
-Empty Graph 1_HHGENDER
-Empty Graph 1_HHEDUC
-Empty Graph 5_ONE_20_29
-Empty Graph 5_GENDER_20_29
-Empty Graph 5_URBAN_20_29
-Empty Graph 5_URGENDER_20_29
-Empty Graph 5_WI3_20_29
-Empty Graph 5_WI6_20_29
-Empty Graph 5_HHGENDER_20_29
-Empty Graph 5_HHEDUC_20_29
-Empty Graph 5_ONE_30_39
-Empty Graph 5_GENDER_30_39
-Empty Graph 5_URBAN_30_39
-Empty Graph 5_URGENDER_30_39
-Empty Graph 5_WI3_30_39
-Empty Graph 5_WI6_30_39
-Empty Graph 5_HHGENDER_30_39
-Empty Graph 5_HHEDUC_30_39
-Empty Graph 8_Total
-Empty Graph 8_1
-Empty Graph 8_2
-Useless Database
-/Users/sunny/Documents/UROP/PDS/worldbank/BGD_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BGR_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BGR_Country_MetaData_fr_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BGR_POP.xls
-Useful BGR_POP
-/Users/sunny/Documents/UROP/PDS/worldbank/BHR_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BHR_POP.xls
-Useful BHR_POP
-/Users/sunny/Documents/UROP/PDS/worldbank/BHS_POP.xls
-Useful BHS_POP
-/Users/sunny/Documents/UROP/PDS/worldbank/BIBLIOTH.,_20MAHAJANGA.xls
-Empty Reports
-Empty Audience
-Empty Visitors Areas of Interest
-Useful Data
-/Users/sunny/Documents/UROP/PDS/worldbank/BIH_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BIH_POP.xls
-Useful BIH_POP
-/Users/sunny/Documents/UROP/PDS/worldbank/BLR_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BLZ_2006.xls
-Useless Contents
-Useless Notifications
-Useful Original Data Report
-Useful Table A1
-Useful Table A1 SE
-Useful Table A1 FREQ
-Useful Table A2
-Useful Table A2 SE
-Useful Table A2 FREQ
-Useful Table A3
-Useful Table A3 SE
-Useful Table A3 FREQ
-Useful Table A4
-Useful Table A4 SE
-Useful Table A4 FREQ
-Useful Table A5
-Useful Table A5 SE
-Useful Table A5 FREQ
-Useful Table A7
-Useful Table A7 SE
-Useful Table A7 FREQ
-Useful Table B1
-Useful Table B1 SE
-Useful Table B1 FREQ
-Useful Table B2
-Useful Table B2 SE
-Useful Table B2 FREQ
-Useful Table B3
-Useful Table B3 SE
-Useful Table B3 FREQ
-Useful Table C1
-Useful Table C1 SE
-Useful Table C1 FREQ
-Useful Table C2
-Useful Table C2 SE
-Useful Table C2 FREQ
-Useful Table C3
-Useful Table C3 SE
-Useful Table C3 FREQ
-Useful Table C4
-Useful Table C4 SE
-Useful Table C4 FREQ
-Useful Table C5
-Useful Table C5 SE
-Useful Table C5 FREQ
-Useful Table C6
-Useful Table C6 FREQ
-Useful Table C7
-Useful Table C7 SE
-Useful Table C7 FREQ
-Empty Graph 1_ONE
-Empty Graph 1_GENDER
-Empty Graph 1_URBAN
-Empty Graph 1_URGENDER
-Empty Graph 1_WI3
-Empty Graph 1_WI6
-Empty Graph 1_HHGENDER
-Empty Graph 1_HHEDUC
-Empty Graph 3_ONE
-Empty Graph 3_GENDER
-Empty Graph 3_URBAN
-Empty Graph 3_URGENDER
-Empty Graph 3_WI3
-Empty Graph 3_WI6
-Empty Graph 4_Gender
-Empty Graph 4_UrRur
-Empty Graph 4_UrGender
-Empty Graph 4_RurGender
-Empty Graph 5_ONE_20_29
-Empty Graph 5_GENDER_20_29
-Empty Graph 5_URBAN_20_29
-Empty Graph 5_URGENDER_20_29
-Empty Graph 5_WI3_20_29
-Empty Graph 5_WI6_20_29
-Empty Graph 5_HHGENDER_20_29
-Empty Graph 5_HHEDUC_20_29
-Empty Graph 5_ONE_30_39
-Empty Graph 5_GENDER_30_39
-Empty Graph 5_URBAN_30_39
-Empty Graph 5_URGENDER_30_39
-Empty Graph 5_WI3_30_39
-Empty Graph 5_WI6_30_39
-Empty Graph 5_HHGENDER_30_39
-Empty Graph 5_HHEDUC_30_39
-Empty Graph 6_PRMRY
-Empty Graph 6_SCNDRY
-Empty Graph 8_Total
-Empty Graph 8_1
-Empty Graph 8_2
-Useless Database
-/Users/sunny/Documents/UROP/PDS/worldbank/BLZ_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BLZ_POP.xls
-Useful BLZ_POP
-/Users/sunny/Documents/UROP/PDS/worldbank/BM.AG.PEST.CD_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BM.GSR.FCTY.CD_Indicator_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BM.GSR.GNFS.CD_Indicator_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BM.GSR.MRCH.CD_Indicator_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BM.GSR.NFSV.CD_Indicator_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BM.GSR.ROYL.CD_Indicator_MetaData_ar_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BMU_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BN.CAB.XOKA.CD_Indicator_MetaData_ar_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BN.DSR.UNPD.CD_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BN.GSR.MRCH.CD_Indicator_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BOL_1998.xls
-Useless Contents
-Useless Notifications
-Useful Original Data Report
-Useful Table A5
-Useful Table A5 SE
-Useful Table A5 FREQ
-Useful Table C1
-Useful Table C1 SE
-Useful Table C1 FREQ
-Useful Table C2
-Useful Table C2 SE
-Useful Table C2 FREQ
-Useful Table C3
-Useful Table C3 SE
-Useful Table C3 FREQ
-Useful Table C4
-Useful Table C4 SE
-Useful Table C4 FREQ
-Useful Table C5
-Useful Table C5 SE
-Useful Table C5 FREQ
-Useful Table C6
-Useful Table C6 FREQ
-Useful Table C7
-Useful Table C7 SE
-Useful Table C7 FREQ
-Empty Graph 1_ONE
-Empty Graph 1_GENDER
-Empty Graph 1_URBAN
-Empty Graph 1_URGENDER
-Empty Graph 1_HHGENDER
-Empty Graph 1_HHEDUC
-Empty Graph 1_ETHNIC
-Empty Graph 5_ONE_20_29
-Empty Graph 5_GENDER_20_29
-Empty Graph 5_URBAN_20_29
-Empty Graph 5_URGENDER_20_29
-Empty Graph 5_HHGENDER_20_29
-Empty Graph 5_HHEDUC_20_29
-Empty Graph 5_ETHNIC_20_29
-Empty Graph 5_ONE_30_39
-Empty Graph 5_GENDER_30_39
-Empty Graph 5_URBAN_30_39
-Empty Graph 5_URGENDER_30_39
-Empty Graph 5_HHGENDER_30_39
-Empty Graph 5_HHEDUC_30_39
-Empty Graph 5_ETHNIC_30_39
-Empty Graph 8_Total
-Empty Graph 8_1
-Empty Graph 8_2
-Useless Database
-/Users/sunny/Documents/UROP/PDS/worldbank/BOL_2003.xls
-Useless Contents
-Useless Notifications
-Useful Original Data Report
-Useful Table A1
-Useful Table A1 SE
-Useful Table A1 FREQ
-Useful Table A2
-Useful Table A2 SE
-Useful Table A2 FREQ
-Useful Table A3
-Useful Table A3 SE
-Useful Table A3 FREQ
-Useful Table A4
-Useful Table A4 SE
-Useful Table A4 FREQ
-Useful Table A5
-Useful Table A5 SE
-Useful Table A5 FREQ
-Useful Table A7
-Useful Table A7 SE
-Useful Table A7 FREQ
-Useful Table B1
-Useful Table B1 SE
-Useful Table B1 FREQ
-Useful Table B2
-Useful Table B2 SE
-Useful Table B2 FREQ
-Useful Table B3
-Useful Table B3 SE
-Useful Table B3 FREQ
-Useful Table C1
-Useful Table C1 SE
-Useful Table C1 FREQ
-Useful Table C2
-Useful Table C2 SE
-Useful Table C2 FREQ
-Useful Table C3
-Useful Table C3 SE
-Useful Table C3 FREQ
-Useful Table C4
-Useful Table C4 SE
-Useful Table C4 FREQ
-Useful Table C5
-Useful Table C5 SE
-Useful Table C5 FREQ
-Useful Table C6
-Useful Table C6 FREQ
-Useful Table C7
-Useful Table C7 SE
-Useful Table C7 FREQ
-Empty Graph 1_ONE
-Empty Graph 1_GENDER
-Empty Graph 1_URBAN
-Empty Graph 1_URGENDER
-Empty Graph 1_WI3
-Empty Graph 1_WI6
-Empty Graph 1_HHGENDER
-Empty Graph 1_HHEDUC
-Empty Graph 2_ONE
-Empty Graph 2_GENDER
-Empty Graph 2_URBAN
-Empty Graph 2_URGENDER
-Empty Graph 2_WI3
-Empty Graph 2_WI6
-Empty Graph 2_HHGENDER
-Empty Graph 2_HHEDUC
-Empty Graph 3_ONE
-Empty Graph 3_GENDER
-Empty Graph 3_URBAN
-Empty Graph 3_URGENDER
-Empty Graph 3_WI3
-Empty Graph 3_WI6
-Empty Graph 3_HHGENDER
-Empty Graph 3_HHEDUC
-Empty Graph 4_Gender
-Empty Graph 4_UrRur
-Empty Graph 4_UrGender
-Empty Graph 4_RurGender
-Empty Graph 5_ONE_20_29
-Empty Graph 5_GENDER_20_29
-Empty Graph 5_URBAN_20_29
-Empty Graph 5_URGENDER_20_29
-Empty Graph 5_WI3_20_29
-Empty Graph 5_WI6_20_29
-Empty Graph 5_HHGENDER_20_29
-Empty Graph 5_HHEDUC_20_29
-Empty Graph 5_ONE_30_39
-Empty Graph 5_GENDER_30_39
-Empty Graph 5_URBAN_30_39
-Empty Graph 5_URGENDER_30_39
-Empty Graph 5_WI3_30_39
-Empty Graph 5_WI6_30_39
-Empty Graph 5_HHGENDER_30_39
-Empty Graph 5_HHEDUC_30_39
-Empty Graph 6_PRMRY
-Empty Graph 6_SCNDRY
-Empty Graph 8_Total
-Empty Graph 8_1
-Empty Graph 8_2
-Useless Database
-/Users/sunny/Documents/UROP/PDS/worldbank/BOL_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BOL_Country_MetaData_es_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BOL_POP.xls
-Useful BOL_POP
-/Users/sunny/Documents/UROP/PDS/worldbank/BOSNIA-HERZEGOVINA.xls
-Empty Reports
-Empty Audience
-Empty Visitors Areas of Interest
-Useful Data
-/Users/sunny/Documents/UROP/PDS/worldbank/BOTSWANA.xls
-Empty Reports
-Empty Audience
-Empty Visitors Areas of Interest
-Useful Data
-/Users/sunny/Documents/UROP/PDS/worldbank/BPS.xls
-Useless LEGEND
-Useful WGI00
-Useful WGI020304
-Useful WGI050607
-Useful WGI080910
-/Users/sunny/Documents/UROP/PDS/worldbank/BRA_1991.xls
-Useless Contents
-Useless Notifications
-Useful Original Data Report
-Useful Table A5
-Useful Table A5 SE
-Useful Table A5 FREQ
-Useful Table C1
-Useful Table C1 SE
-Useful Table C1 FREQ
-Useful Table C2
-Useful Table C2 SE
-Useful Table C2 FREQ
-Useful Table C3
-Useful Table C3 SE
-Useful Table C3 FREQ
-Useful Table C4
-Useful Table C4 SE
-Useful Table C4 FREQ
-Useful Table C5
-Useful Table C5 SE
-Useful Table C5 FREQ
-Useful Table C6
-Useful Table C6 FREQ
-Useful Table C7
-Useful Table C7 SE
-Useful Table C7 FREQ
-Useful Table E5
-Useful Table E5 SE
-Useful Table E5 FREQ
-Empty Graph 1_ONE
-Empty Graph 1_GENDER
-Empty Graph 1_URBAN
-Empty Graph 1_URGENDER
-Empty Graph 1_HHGENDER
-Empty Graph 1_HHEDUC
-Empty Graph 5_ONE_20_29
-Empty Graph 5_GENDER_20_29
-Empty Graph 5_URBAN_20_29
-Empty Graph 5_URGENDER_20_29
-Empty Graph 5_HHGENDER_20_29
-Empty Graph 5_HHEDUC_20_29
-Empty Graph 5_ONE_30_39
-Empty Graph 5_GENDER_30_39
-Empty Graph 5_URBAN_30_39
-Empty Graph 5_URGENDER_30_39
-Empty Graph 5_HHGENDER_30_39
-Empty Graph 5_HHEDUC_30_39
-Empty Graph 8_Total
-Empty Graph 8_1
-Empty Graph 8_2
-Useless Database
-/Users/sunny/Documents/UROP/PDS/worldbank/BRA_1996.xls
-Useless Contents
-Useless Notifications
-Useful Original Data Report
-Useful Table A5
-Useful Table A5 SE
-Useful Table A5 FREQ
-Useful Table C1
-Useful Table C1 SE
-Useful Table C1 FREQ
-Useful Table C2
-Useful Table C2 SE
-Useful Table C2 FREQ
-Useful Table C3
-Useful Table C3 SE
-Useful Table C3 FREQ
-Useful Table C4
-Useful Table C4 SE
-Useful Table C4 FREQ
-Useful Table C5
-Useful Table C5 SE
-Useful Table C5 FREQ
-Useful Table C6
-Useful Table C6 FREQ
-Useful Table C7
-Useful Table C7 SE
-Useful Table C7 FREQ
-Empty Graph 1_ONE
-Empty Graph 1_GENDER
-Empty Graph 1_URBAN
-Empty Graph 1_URGENDER
-Empty Graph 1_HHGENDER
-Empty Graph 1_HHEDUC
-Empty Graph 5_ONE_20_29
-Empty Graph 5_GENDER_20_29
-Empty Graph 5_URBAN_20_29
-Empty Graph 5_URGENDER_20_29
-Empty Graph 5_HHGENDER_20_29
-Empty Graph 5_HHEDUC_20_29
-Empty Graph 5_ONE_30_39
-Empty Graph 5_GENDER_30_39
-Empty Graph 5_URBAN_30_39
-Empty Graph 5_URGENDER_30_39
-Empty Graph 5_HHGENDER_30_39
-Empty Graph 5_HHEDUC_30_39
-Empty Graph 8_Total
-Empty Graph 8_1
-Empty Graph 8_2
-Useless Database
-/Users/sunny/Documents/UROP/PDS/worldbank/BRA_Country_MetaData_ar_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BRA_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BRA_POP.xls
-Useful BRA_POP
-/Users/sunny/Documents/UROP/PDS/worldbank/BRB_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BRB_POP.xls
-Useful BRB_POP
-/Users/sunny/Documents/UROP/PDS/worldbank/BRN_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BRN_POP.xls
-Useful BRN_POP
-/Users/sunny/Documents/UROP/PDS/worldbank/BTI.xls
-Useless LEGEND
-Useful WGI0910
-Useful WGI0708
-Useful WGI0506
-Useful WGI0304
-Useful WGI02
-/Users/sunny/Documents/UROP/PDS/worldbank/BTN_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BTN_POP.xls
-Useful BTN_POP
-/Users/sunny/Documents/UROP/PDS/worldbank/BUENOS_20AIRES-WB.xls
-Empty Reports
-Empty Audience
-Empty Visitors Areas of Interest
-Useful Data
-/Users/sunny/Documents/UROP/PDS/worldbank/BW_Summary_OECD_NonOECD_Suppliers_FY00-10.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useless By FY & Supp-OECD Country
-/Users/sunny/Documents/UROP/PDS/worldbank/BW_Summary_OECD_NonOECD_Suppliers_by_Country_FY00-10.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useful By FY & Supp-OECD Country
-/Users/sunny/Documents/UROP/PDS/worldbank/BW_Summary_OECD_Status_Region_FY00-07.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useful By FY, Sup-OECD Country, Region
-/Users/sunny/Documents/UROP/PDS/worldbank/BW_Summary_OECD_Status_Region_Type_FY00-07.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useful By FY, OECD Ctry, Region, Type
-/Users/sunny/Documents/UROP/PDS/worldbank/BW_Summary_OECD_Status_Region_Type_FY00-09.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useful By FY, OECD Ctry, Region, Type
-/Users/sunny/Documents/UROP/PDS/worldbank/BW_Summary_Region_Category_FY00-07.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useful By Size, Region & Category
-/Users/sunny/Documents/UROP/PDS/worldbank/BW_Summary_Region_OECDstatus_FY00-10.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useful By Region & OECD Status
-/Users/sunny/Documents/UROP/PDS/worldbank/BW_Summary_Region_PR_Category_FY00-10.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useful By Size, Region & Category
-/Users/sunny/Documents/UROP/PDS/worldbank/BX.GRT.EXTA.CD.DT_Indicator_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BX.GRT.TECH.CD.DT_Indicator_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BX.GSR.CCIS.ZS_Indicator_MetaData_ar_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BX.GSR.CCIS.ZS_Indicator_MetaData_es_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BX.GSR.CMCP.ZS_Indicator_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BX.GSR.TRAN.ZS_Indicator_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/BX.TRF.PWKR.CD_Indicator_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/Bangladesh_Pesticide_Use_Survey-Applicator.xls
-Useful Sheet1
-/Users/sunny/Documents/UROP/PDS/worldbank/Bangladesh_Pesticide_Use_Survey-Owner-Applicator.xls
-Useless Sheet1
-Useful Sheet2
-Useful Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Bangladesh_Pesticide_Use_Survey-Owner.xls
-Useless Sheet1
-Useful Sheet4
-/Users/sunny/Documents/UROP/PDS/worldbank/Bangladesh_Pesticide_trader_data.xls
-Useless Background Info
-Useless Pesticides
-Useless Pesticides cont'd
-Useful Labels
-Useful Labels cont'd
-Useless Sales
-Useful Info & Training
-Useful Health
-Useful Survey Related
-/Users/sunny/Documents/UROP/PDS/worldbank/Bangladesh_Survey-Pesticide_Log-Owner-Applicator.xls
-Useful Pesticide_Log_Bangladesh
-/Users/sunny/Documents/UROP/PDS/worldbank/BankConcentration_JBFdata-web.xls
-Useless Definitions
-Useful JBFdata_revised
-/Users/sunny/Documents/UROP/PDS/worldbank/Banking_regulation_Survey_III_061008.xls
-Useless III
-/Users/sunny/Documents/UROP/PDS/worldbank/Bankwide-Consultants-FY02-07.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useful Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/Bankwide-Consultants-percentage-FY05-10.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useful Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/Bankwide-Goods-FY02-07.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/Bankwide-Goods-percentage-FY05-10.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useful Proc Contract Detail - Supplier
-Empty Sheet1
-/Users/sunny/Documents/UROP/PDS/worldbank/Bankwide-Services-FY02-07.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/Bankwide-Works-FY02-07.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useful Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/Bankwide-Works-percentage-FY05-10.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useful Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/Bankwide_Awards_-FY06-08-.xls
-Useless SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/Bankwide_Awards_FY06-07.xls
-Useless SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/Bankwide_Awards_FY09-10.xls
-Useless SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/Bankwide_Awards_FY09.xls
-Useless SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/Bankwide_Awards_FY93-96.xls
-Useless SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/Bankwide_Consultants_Percentage_-FY05-10-.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useful Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/Bankwide_Goods_Percentage_-FY05-10-.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useful Proc Contract Detail - Supplier
-Empty Sheet1
-/Users/sunny/Documents/UROP/PDS/worldbank/Bankwide_Services_Percentage_-FY02-07-.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/Bankwide_Works_Percentage_-FY05-10-.xls
-Useful SAPBEXqueries
-Useful SAPBEXfilters
-Useful Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/BelgiumSurvey_Data-DRC.xls
-Useless Description of variables
-Useful Data
-/Users/sunny/Documents/UROP/PDS/worldbank/BelgiumSurvey_Data-Nigeria.xls
-Useless Description of variables
-Useful Data
-/Users/sunny/Documents/UROP/PDS/worldbank/Belgium_FY04-07.xls
-Useless SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/BelgradeGDLN_Leadership_Dialogues_Participants.xls
-Useless Sheet1
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/BosniaHerzegovina.xls
-Useful B&H
-/Users/sunny/Documents/UROP/PDS/worldbank/Botswana_FY04-07.xls
-Useless SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/Brazil_FY04-05.xls
-Useless SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/Brazil_FY04-06.xls
-Useless SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/Brazil_FY04-07.xls
-Useless SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/Breastfeeding.xls
-Useful Exclusive Breastfeeding
-Useful Timely Complementary Feeding
-Useful Bottle-Feeding
-/Users/sunny/Documents/UROP/PDS/worldbank/Budgetplantemplate.xls
-Useful Bang du tru ngan sach mau
-Useful Budget plan
-/Users/sunny/Documents/UROP/PDS/worldbank/Bulgaria (2).xls
-Useful page 1
-Useful page 2
-Useful Chart data
-/Users/sunny/Documents/UROP/PDS/worldbank/BurkinaFaso_FY04-07.xls
-Useless SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/Burundi.xls
-Useful CMR graph
-/Users/sunny/Documents/UROP/PDS/worldbank/C3_GDDS_.xls
-Useful Sheet1
-/Users/sunny/Documents/UROP/PDS/worldbank/CADM2009_list_of_finalists.xls
-Useless Sheet1
-Empty Sheet2
-Empty Sheet3
-Empty Sheet4
-Empty Sheet5
-Empty Sheet6
-/Users/sunny/Documents/UROP/PDS/worldbank/CAF_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/CAF_POP.xls
-Useful CAF_POP
-/Users/sunny/Documents/UROP/PDS/worldbank/CANADA_FY04-05.xls
-Useless SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/CAN_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/CAN_POP.xls
-Useful CAN_POP
-/Users/sunny/Documents/UROP/PDS/worldbank/CCC.xls
-Useless Sheet1
-Empty Sheet2
-Empty Sheet3
-Empty Sheet4
-Empty Sheet5
-Empty Sheet6
-/Users/sunny/Documents/UROP/PDS/worldbank/CHE_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/CHL_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/CHL_POP.xls
-Useful CHL_POP
-/Users/sunny/Documents/UROP/PDS/worldbank/CHN_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/CHN_POP.xls
-Useful CHN_POP
-/Users/sunny/Documents/UROP/PDS/worldbank/CIV_1986.xls
-Useless Contents
-Useless Notifications
-Useful Original Data Report
-Useful Table A5
-Useful Table A5 SE
-Useful Table A5 FREQ
-Useful Table C1
-Useful Table C1 SE
-Useful Table C1 FREQ
-Useful Table C2
-Useful Table C2 SE
-Useful Table C2 FREQ
-Useful Table C3
-Useful Table C3 SE
-Useful Table C3 FREQ
-Useful Table C4
-Useful Table C4 SE
-Useful Table C4 FREQ
-Useful Table C5
-Useful Table C5 SE
-Useful Table C5 FREQ
-Useless Database
-Empty Graph 1_ONE
-Empty Graph 1_GENDER
-Empty Graph 1_URBAN
-Empty Graph 1_URGENDER
-Empty Graph 1_WI3
-Empty Graph 1_WI6
-Empty Graph 1_HHGENDER
-Empty Graph 1_HHEDUC
-Empty Graph 5_ONE_20_29
-Empty Graph 5_GENDER_20_29
-Empty Graph 5_URBAN_20_29
-Empty Graph 5_URGENDER_20_29
-Empty Graph 5_WI3_20_29
-Empty Graph 5_WI6_20_29
-Empty Graph 5_HHGENDER_20_29
-Empty Graph 5_HHEDUC_20_29
-Empty Graph 5_ONE_30_39
-Empty Graph 5_GENDER_30_39
-Empty Graph 5_URBAN_30_39
-Empty Graph 5_URGENDER_30_39
-Empty Graph 5_WI3_30_39
-Empty Graph 5_WI6_30_39
-Empty Graph 5_HHGENDER_30_39
-Empty Graph 5_HHEDUC_30_39
-/Users/sunny/Documents/UROP/PDS/worldbank/CIV_1994.xls
-Useless Contents
-Useless Notifications
-Useful Original Data Report
-Useful Table A5
-Useful Table A5 SE
-Useful Table A5 FREQ
-Useful Table C1
-Useful Table C1 SE
-Useful Table C1 FREQ
-Useful Table C2
-Useful Table C2 SE
-Useful Table C2 FREQ
-Useful Table C3
-Useful Table C3 SE
-Useful Table C3 FREQ
-Useful Table C4
-Useful Table C4 SE
-Useful Table C4 FREQ
-Useful Table C5
-Useful Table C5 SE
-Useful Table C5 FREQ
-Useful Table C6
-Useful Table C6 FREQ
-Useful Table C7
-Useful Table C7 SE
-Useful Table C7 FREQ
-Empty Graph 1_ONE
-Empty Graph 1_GENDER
-Empty Graph 1_URBAN
-Empty Graph 1_URGENDER
-Empty Graph 1_WI3
-Empty Graph 1_WI6
-Empty Graph 1_HHGENDER
-Empty Graph 1_HHEDUC
-Empty Graph 5_ONE_20_29
-Empty Graph 5_GENDER_20_29
-Empty Graph 5_URBAN_20_29
-Empty Graph 5_URGENDER_20_29
-Empty Graph 5_WI3_20_29
-Empty Graph 5_WI6_20_29
-Empty Graph 5_HHGENDER_20_29
-Empty Graph 5_HHEDUC_20_29
-Empty Graph 5_ONE_30_39
-Empty Graph 5_GENDER_30_39
-Empty Graph 5_URBAN_30_39
-Empty Graph 5_URGENDER_30_39
-Empty Graph 5_WI3_30_39
-Empty Graph 5_WI6_30_39
-Empty Graph 5_HHGENDER_30_39
-Empty Graph 5_HHEDUC_30_39
-Empty Graph 8_Total
-Empty Graph 8_1
-Empty Graph 8_2
-Useless Database
-/Users/sunny/Documents/UROP/PDS/worldbank/CIV_1999.xls
-Useless Contents
-Useless Notifications
-Useful Original Data Report
-Useful Table A5
-Useful Table A5 SE
-Useful Table A5 FREQ
-Useful Table C1
-Useful Table C1 SE
-Useful Table C1 FREQ
-Useful Table C2
-Useful Table C2 SE
-Useful Table C2 FREQ
-Useful Table C3
-Useful Table C3 SE
-Useful Table C3 FREQ
-Useful Table C4
-Useful Table C4 SE
-Useful Table C4 FREQ
-Useful Table C5
-Useful Table C5 SE
-Useful Table C5 FREQ
-Useful Table C6
-Useful Table C6 FREQ
-Useful Table C7
-Useful Table C7 SE
-Useful Table C7 FREQ
-Empty Graph 1_ONE
-Empty Graph 1_GENDER
-Empty Graph 1_URBAN
-Empty Graph 1_URGENDER
-Empty Graph 1_WI3
-Empty Graph 1_WI6
-Empty Graph 1_HHGENDER
-Empty Graph 1_HHEDUC
-Empty Graph 5_ONE_20_29
-Empty Graph 5_GENDER_20_29
-Empty Graph 5_URBAN_20_29
-Empty Graph 5_URGENDER_20_29
-Empty Graph 5_WI3_20_29
-Empty Graph 5_WI6_20_29
-Empty Graph 5_HHGENDER_20_29
-Empty Graph 5_HHEDUC_20_29
-Empty Graph 5_ONE_30_39
-Empty Graph 5_GENDER_30_39
-Empty Graph 5_URBAN_30_39
-Empty Graph 5_URGENDER_30_39
-Empty Graph 5_WI3_30_39
-Empty Graph 5_WI6_30_39
-Empty Graph 5_HHGENDER_30_39
-Empty Graph 5_HHEDUC_30_39
-Empty Graph 8_Total
-Empty Graph 8_1
-Empty Graph 8_2
-Useless Database
-/Users/sunny/Documents/UROP/PDS/worldbank/CIV_2005.xls
-Useless Contents
-Useless Notifications
-Useful Original Data Report
-Useful Table A5
-Useful Table A5 SE
-Useful Table A5 FREQ
-Useful Table C1
-Useful Table C1 SE
-Useful Table C1 FREQ
-Useful Table C2
-Useful Table C2 SE
-Useful Table C2 FREQ
-Useful Table C3
-Useful Table C3 SE
-Useful Table C3 FREQ
-Useful Table C4
-Useful Table C4 SE
-Useful Table C4 FREQ
-Useful Table C5
-Useful Table C5 SE
-Useful Table C5 FREQ
-Useful Table C6
-Useful Table C6 FREQ
-Useful Table C7
-Useful Table C7 SE
-Useful Table C7 FREQ
-Empty Graph 1_ONE
-Empty Graph 1_GENDER
-Empty Graph 1_URBAN
-Empty Graph 1_URGENDER
-Empty Graph 1_WI3
-Empty Graph 1_WI6
-Empty Graph 1_HHGENDER
-Empty Graph 1_HHEDUC
-Empty Graph 5_ONE_20_29
-Empty Graph 5_GENDER_20_29
-Empty Graph 5_URBAN_20_29
-Empty Graph 5_URGENDER_20_29
-Empty Graph 5_WI3_20_29
-Empty Graph 5_WI6_20_29
-Empty Graph 5_HHGENDER_20_29
-Empty Graph 5_HHEDUC_20_29
-Empty Graph 5_ONE_30_39
-Empty Graph 5_GENDER_30_39
-Empty Graph 5_URBAN_30_39
-Empty Graph 5_URGENDER_30_39
-Empty Graph 5_WI3_30_39
-Empty Graph 5_WI6_30_39
-Empty Graph 5_HHGENDER_30_39
-Empty Graph 5_HHEDUC_30_39
-Empty Graph 8_Total
-Empty Graph 8_1
-Empty Graph 8_2
-Useless Database
-/Users/sunny/Documents/UROP/PDS/worldbank/CIV_2006.xls
-Useless Contents
-Useless Notifications
-Useful Original Data Report
-Useful Table A1
-Useful Table A1 SE
-Useful Table A1 FREQ
-Useful Table A2
-Useful Table A2 SE
-Useful Table A2 FREQ
-Useful Table A3
-Useful Table A3 SE
-Useful Table A3 FREQ
-Useful Table A4
-Useful Table A4 SE
-Useful Table A4 FREQ
-Useful Table A5
-Useful Table A5 SE
-Useful Table A5 FREQ
-Useful Table A7
-Useful Table A7 SE
-Useful Table A7 FREQ
-Useful Table B1
-Useful Table B1 SE
-Useful Table B1 FREQ
-Useful Table B2
-Useful Table B2 SE
-Useful Table B2 FREQ
-Useful Table B3
-Useful Table B3 SE
-Useful Table B3 FREQ
-Useful Table C1
-Useful Table C1 SE
-Useful Table C1 FREQ
-Useful Table C2
-Useful Table C2 SE
-Useful Table C2 FREQ
-Useful Table C3
-Useful Table C3 SE
-Useful Table C3 FREQ
-Useful Table C4
-Useful Table C4 SE
-Useful Table C4 FREQ
-Useful Table C5
-Useful Table C5 SE
-Useful Table C5 FREQ
-Useful Table C6
-Useful Table C6 FREQ
-Useful Table C7
-Useful Table C7 SE
-Useful Table C7 FREQ
-Empty Graph 1_ONE
-Empty Graph 1_GENDER
-Empty Graph 1_URBAN
-Empty Graph 1_URGENDER
-Empty Graph 1_WI3
-Empty Graph 1_WI6
-Empty Graph 1_HHGENDER
-Empty Graph 1_HHEDUC
-Empty Graph 3_ONE
-Empty Graph 3_GENDER
-Empty Graph 3_URBAN
-Empty Graph 3_URGENDER
-Empty Graph 3_WI3
-Empty Graph 3_WI6
-Empty Graph 3_HHGENDER
-Empty Graph 3_HHEDUC
-Empty Graph 4_Gender
-Empty Graph 4_UrRur
-Empty Graph 4_UrGender
-Empty Graph 4_RurGender
-Empty Graph 5_ONE_20_29
-Empty Graph 5_GENDER_20_29
-Empty Graph 5_URBAN_20_29
-Empty Graph 5_URGENDER_20_29
-Empty Graph 5_WI3_20_29
-Empty Graph 5_WI6_20_29
-Empty Graph 5_HHGENDER_20_29
-Empty Graph 5_HHEDUC_20_29
-Empty Graph 5_ONE_30_39
-Empty Graph 5_GENDER_30_39
-Empty Graph 5_URBAN_30_39
-Empty Graph 5_URGENDER_30_39
-Empty Graph 5_WI3_30_39
-Empty Graph 5_WI6_30_39
-Empty Graph 5_HHGENDER_30_39
-Empty Graph 5_HHEDUC_30_39
-Empty Graph 6_PRMRY
-Empty Graph 6_SCNDRY
-Empty Graph 8_Total
-Empty Graph 8_1
-Empty Graph 8_2
-Useless Database
-/Users/sunny/Documents/UROP/PDS/worldbank/CIV_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/CIV_POP.xls
-Useful CIV_POP
-/Users/sunny/Documents/UROP/PDS/worldbank/CLASS.xls
-Useless List of economies
-/Users/sunny/Documents/UROP/PDS/worldbank/CM.MKT.LCAP.CD_Indicator_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/CM.MKT.TRAD.CD_Indicator_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/CMR_1991.xls
-Useless Contents
-Useless Notifications
-Useful Original Data Report
-Useful Table A5
-Useful Table A5 SE
-Useful Table A5 FREQ
-Useful Table C1
-Useful Table C1 SE
-Useful Table C1 FREQ
-Useful Table C2
-Useful Table C2 SE
-Useful Table C2 FREQ
-Useful Table C3
-Useful Table C3 SE
-Useful Table C3 FREQ
-Useful Table C4
-Useful Table C4 SE
-Useful Table C4 FREQ
-Useful Table C5
-Useful Table C5 SE
-Useful Table C5 FREQ
-Useful Table C6
-Useless Database
-Empty Graph 1_ONE
-Empty Graph 1_GENDER
-Empty Graph 1_URBAN
-Empty Graph 1_URGENDER
-Empty Graph 1_WI3
-Empty Graph 1_WI6
-Empty Graph 1_HHGENDER
-Empty Graph 1_HHEDUC
-Empty Graph 5_ONE_20_29
-Empty Graph 5_GENDER_20_29
-Empty Graph 5_URBAN_20_29
-Empty Graph 5_URGENDER_20_29
-Empty Graph 5_ONE_30_39
-Empty Graph 5_GENDER_30_39
-Empty Graph 5_URBAN_30_39
-Empty Graph 5_URGENDER_30_39
-/Users/sunny/Documents/UROP/PDS/worldbank/CMR_1998.xls
-Useless Contents
-Useless Notifications
-Useful Original Data Report
-Useful Table A5
-Useful Table A5 SE
-Useful Table A5 FREQ
-Useful Table C1
-Useful Table C1 SE
-Useful Table C1 FREQ
-Useful Table C2
-Useful Table C2 SE
-Useful Table C2 FREQ
-Useful Table C3
-Useful Table C3 SE
-Useful Table C3 FREQ
-Useful Table C4
-Useful Table C4 SE
-Useful Table C4 FREQ
-Useful Table C5
-Useful Table C5 SE
-Useful Table C5 FREQ
-Useful Table C6
-Useful Table C6 FREQ
-Useful Table C7
-Useful Table C7 SE
-Useful Table C7 FREQ
-Useful Table E5
-Useful Table E5 SE
-Useful Table E5 FREQ
-Empty Graph 1_ONE
-Empty Graph 1_GENDER
-Empty Graph 1_URBAN
-Empty Graph 1_URGENDER
-Empty Graph 1_WI3
-Empty Graph 1_WI6
-Empty Graph 1_HHGENDER
-Empty Graph 1_HHEDUC
-Empty Graph 5_ONE_20_29
-Empty Graph 5_GENDER_20_29
-Empty Graph 5_URBAN_20_29
-Empty Graph 5_URGENDER_20_29
-Empty Graph 5_WI3_20_29
-Empty Graph 5_WI6_20_29
-Empty Graph 5_HHGENDER_20_29
-Empty Graph 5_HHEDUC_20_29
-Empty Graph 5_ONE_30_39
-Empty Graph 5_GENDER_30_39
-Empty Graph 5_URBAN_30_39
-Empty Graph 5_URGENDER_30_39
-Empty Graph 5_WI3_30_39
-Empty Graph 5_WI6_30_39
-Empty Graph 5_HHGENDER_30_39
-Empty Graph 5_HHEDUC_30_39
-Empty Graph 8_Total
-Empty Graph 8_1
-Empty Graph 8_2
-Useless Database
-/Users/sunny/Documents/UROP/PDS/worldbank/CMR_2005.xls
-Useless Contents
-Useless Notifications
-Useful Original Data Report
-Useful Table A1
-Useful Table A1 SE
-Useful Table A1 FREQ
-Useful Table A2
-Useful Table A2 SE
-Useful Table A2 FREQ
-Useful Table A3
-Useful Table A3 SE
-Useful Table A3 FREQ
-Useful Table A4
-Useful Table A4 SE
-Useful Table A4 FREQ
-Useful Table A5
-Useful Table A5 SE
-Useful Table A5 FREQ
-Useful Table A7
-Useful Table A7 SE
-Useful Table A7 FREQ
-Useful Table B1
-Useful Table B1 SE
-Useful Table B1 FREQ
-Useful Table B2
-Useful Table B2 SE
-Useful Table B2 FREQ
-Useful Table B3
-Useful Table B3 SE
-Useful Table B3 FREQ
-Useful Table C1
-Useful Table C1 SE
-Useful Table C1 FREQ
-Useful Table C2
-Useful Table C2 SE
-Useful Table C2 FREQ
-Useful Table C3
-Useful Table C3 SE
-Useful Table C3 FREQ
-Useful Table C4
-Useful Table C4 SE
-Useful Table C4 FREQ
-Useful Table C5
-Useful Table C5 SE
-Useful Table C5 FREQ
-Useful Table C6
-Useful Table C6 FREQ
-Useful Table C7
-Useful Table C7 SE
-Useful Table C7 FREQ
-Useful Table E5
-Useful Table E5 SE
-Useful Table E5 FREQ
-Empty Graph 1_ONE
-Empty Graph 1_GENDER
-Empty Graph 1_URBAN
-Empty Graph 1_URGENDER
-Empty Graph 1_WI3
-Empty Graph 1_WI6
-Empty Graph 1_HHGENDER
-Empty Graph 1_HHEDUC
-Empty Graph 2_ONE
-Empty Graph 2_GENDER
-Empty Graph 2_URBAN
-Empty Graph 2_URGENDER
-Empty Graph 2_WI3
-Empty Graph 2_WI6
-Empty Graph 2_HHGENDER
-Empty Graph 2_HHEDUC
-Empty Graph 3_ONE
-Empty Graph 3_GENDER
-Empty Graph 3_URBAN
-Empty Graph 3_URGENDER
-Empty Graph 3_WI3
-Empty Graph 3_WI6
-Empty Graph 3_HHGENDER
-Empty Graph 3_HHEDUC
-Empty Graph 4_Gender
-Empty Graph 4_UrRur
-Empty Graph 4_UrGender
-Empty Graph 4_RurGender
-Empty Graph 5_ONE_20_29
-Empty Graph 5_GENDER_20_29
-Empty Graph 5_URBAN_20_29
-Empty Graph 5_URGENDER_20_29
-Empty Graph 5_WI3_20_29
-Empty Graph 5_WI6_20_29
-Empty Graph 5_HHGENDER_20_29
-Empty Graph 5_HHEDUC_20_29
-Empty Graph 5_ONE_30_39
-Empty Graph 5_GENDER_30_39
-Empty Graph 5_URBAN_30_39
-Empty Graph 5_URGENDER_30_39
-Empty Graph 5_WI3_30_39
-Empty Graph 5_WI6_30_39
-Empty Graph 5_HHGENDER_30_39
-Empty Graph 5_HHEDUC_30_39
-Empty Graph 6_PRMRY
-Empty Graph 6_SCNDRY
-Empty Graph 8_Total
-Empty Graph 8_1
-Empty Graph 8_2
-Useless Database
-/Users/sunny/Documents/UROP/PDS/worldbank/CMR_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/CMR_Country_MetaData_es_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/CMR_POP.xls
-Useful CMR_POP
-/Users/sunny/Documents/UROP/PDS/worldbank/COG_2005.xls
-Useless Contents
-Useless Notifications
-Useful Original Data Report
-Useful Table A1
-Useful Table A1 SE
-Useful Table A1 FREQ
-Useful Table A2
-Useful Table A2 SE
-Useful Table A2 FREQ
-Useful Table A3
-Useful Table A3 SE
-Useful Table A3 FREQ
-Useful Table A4
-Useful Table A4 SE
-Useful Table A4 FREQ
-Useful Table A5
-Useful Table A5 SE
-Useful Table A5 FREQ
-Useful Table A7
-Useful Table A7 SE
-Useful Table A7 FREQ
-Useful Table B1
-Useful Table B1 SE
-Useful Table B1 FREQ
-Useful Table B2
-Useful Table B2 SE
-Useful Table B2 FREQ
-Useful Table B3
-Useful Table B3 SE
-Useful Table B3 FREQ
-Useful Table C1
-Useful Table C1 SE
-Useful Table C1 FREQ
-Useful Table C2
-Useful Table C2 SE
-Useful Table C2 FREQ
-Useful Table C3
-Useful Table C3 SE
-Useful Table C3 FREQ
-Useful Table C4
-Useful Table C4 SE
-Useful Table C4 FREQ
-Useful Table C5
-Useful Table C5 SE
-Useful Table C5 FREQ
-Useful Table C6
-Useful Table C6 FREQ
-Useful Table C7
-Useful Table C7 SE
-Useful Table C7 FREQ
-Useful Table E5
-Useful Table E5 SE
-Useful Table E5 FREQ
-Empty Graph 1_ONE
-Empty Graph 1_GENDER
-Empty Graph 1_URBAN
-Empty Graph 1_URGENDER
-Empty Graph 1_WI3
-Empty Graph 1_WI6
-Empty Graph 1_HHGENDER
-Empty Graph 1_HHEDUC
-Empty Graph 2_ONE
-Empty Graph 2_GENDER
-Empty Graph 2_URBAN
-Empty Graph 2_URGENDER
-Empty Graph 2_WI3
-Empty Graph 2_WI6
-Empty Graph 2_HHGENDER
-Empty Graph 2_HHEDUC
-Empty Graph 3_ONE
-Empty Graph 3_GENDER
-Empty Graph 3_URBAN
-Empty Graph 3_URGENDER
-Empty Graph 3_WI3
-Empty Graph 3_WI6
-Empty Graph 3_HHGENDER
-Empty Graph 3_HHEDUC
-Empty Graph 4_Gender
-Empty Graph 4_UrRur
-Empty Graph 4_UrGender
-Empty Graph 4_RurGender
-Empty Graph 5_ONE_20_29
-Empty Graph 5_GENDER_20_29
-Empty Graph 5_URBAN_20_29
-Empty Graph 5_URGENDER_20_29
-Empty Graph 5_WI3_20_29
-Empty Graph 5_WI6_20_29
-Empty Graph 5_HHGENDER_20_29
-Empty Graph 5_HHEDUC_20_29
-Empty Graph 5_ONE_30_39
-Empty Graph 5_GENDER_30_39
-Empty Graph 5_URBAN_30_39
-Empty Graph 5_URGENDER_30_39
-Empty Graph 5_WI3_30_39
-Empty Graph 5_WI6_30_39
-Empty Graph 5_HHGENDER_30_39
-Empty Graph 5_HHEDUC_30_39
-Empty Graph 6_PRMRY
-Empty Graph 6_SCNDRY
-Empty Graph 8_Total
-Empty Graph 8_1
-Empty Graph 8_2
-Useless Database
-/Users/sunny/Documents/UROP/PDS/worldbank/COG_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/COG_POP.xls
-Useful COG_POP
-/Users/sunny/Documents/UROP/PDS/worldbank/COL_1990.xls
-Useless Contents
-Useless Notifications
-Useful Original Data Report
-Useful Table A5
-Useful Table A5 SE
-Useful Table A5 FREQ
-Useful Table C1
-Useful Table C1 SE
-Useful Table C1 FREQ
-Useful Table C2
-Useful Table C2 SE
-Useful Table C2 FREQ
-Useful Table C3
-Useful Table C3 SE
-Useful Table C3 FREQ
-Useful Table C4
-Useful Table C4 SE
-Useful Table C4 FREQ
-Useful Table C5
-Useful Table C5 SE
-Useful Table C5 FREQ
-Useful Table C6
-Useful Table C6 FREQ
-Useful Table C7
-Useful Table C7 SE
-Useful Table C7 FREQ
-Useful Table E5
-Useful Table E5 SE
-Useful Table E5 FREQ
-Empty Graph 1_ONE
-Empty Graph 1_GENDER
-Empty Graph 1_URBAN
-Empty Graph 1_URGENDER
-Empty Graph 1_WI3
-Empty Graph 1_WI6
-Empty Graph 1_HHGENDER
-Empty Graph 1_HHEDUC
-Empty Graph 5_ONE_20_29
-Empty Graph 5_GENDER_20_29
-Empty Graph 5_URBAN_20_29
-Empty Graph 5_URGENDER_20_29
-Empty Graph 5_WI3_20_29
-Empty Graph 5_WI6_20_29
-Empty Graph 5_HHGENDER_20_29
-Empty Graph 5_HHEDUC_20_29
-Empty Graph 5_ONE_30_39
-Empty Graph 5_GENDER_30_39
-Empty Graph 5_URBAN_30_39
-Empty Graph 5_URGENDER_30_39
-Empty Graph 5_WI3_30_39
-Empty Graph 5_WI6_30_39
-Empty Graph 5_HHGENDER_30_39
-Empty Graph 5_HHEDUC_30_39
-Empty Graph 8_Total
-Empty Graph 8_1
-Empty Graph 8_2
-Useless Database
-/Users/sunny/Documents/UROP/PDS/worldbank/COL_1995.xls
-Useless Contents
-Useless Notifications
-Useful Original Data Report
-Useful Table A5
-Useful Table A5 SE
-Useful Table A5 FREQ
-Useful Table C1
-Useful Table C1 SE
-Useful Table C1 FREQ
-Useful Table C2
-Useful Table C2 SE
-Useful Table C2 FREQ
-Useful Table C3
-Useful Table C3 SE
-Useful Table C3 FREQ
-Useful Table C4
-Useful Table C4 SE
-Useful Table C4 FREQ
-Useful Table C5
-Useful Table C5 SE
-Useful Table C5 FREQ
-Useful Table C6
-Useful Table C6 FREQ
-Useful Table C7
-Useful Table C7 SE
-Useful Table C7 FREQ
-Useful Table E5
-Useful Table E5 SE
-Useful Table E5 FREQ
-Empty Graph 1_ONE
-Empty Graph 1_GENDER
-Empty Graph 1_URBAN
-Empty Graph 1_URGENDER
-Empty Graph 1_WI3
-Empty Graph 1_WI6
-Empty Graph 1_HHGENDER
-Empty Graph 1_HHEDUC
-Empty Graph 5_ONE_20_29
-Empty Graph 5_GENDER_20_29
-Empty Graph 5_URBAN_20_29
-Empty Graph 5_URGENDER_20_29
-Empty Graph 5_WI3_20_29
-Empty Graph 5_WI6_20_29
-Empty Graph 5_HHGENDER_20_29
-Empty Graph 5_HHEDUC_20_29
-Empty Graph 5_ONE_30_39
-Empty Graph 5_GENDER_30_39
-Empty Graph 5_URBAN_30_39
-Empty Graph 5_URGENDER_30_39
-Empty Graph 5_WI3_30_39
-Empty Graph 5_WI6_30_39
-Empty Graph 5_HHGENDER_30_39
-Empty Graph 5_HHEDUC_30_39
-Empty Graph 8_Total
-Empty Graph 8_1
-Empty Graph 8_2
-Useless Database
-/Users/sunny/Documents/UROP/PDS/worldbank/COL_2000.xls
-Useless Contents
-Useless Notifications
-Useful Original Data Report
-Useful Table A1
-Useful Table A1 SE
-Useful Table A1 FREQ
-Useful Table A2
-Useful Table A2 SE
-Useful Table A2 FREQ
-Useful Table A3
-Useful Table A3 SE
-Useful Table A3 FREQ
-Useful Table A4
-Useful Table A4 SE
-Useful Table A4 FREQ
-Useful Table A5
-Useful Table A5 SE
-Useful Table A5 FREQ
-Useful Table A7
-Useful Table A7 SE
-Useful Table A7 FREQ
-Useful Table B1
-Useful Table B1 SE
-Useful Table B1 FREQ
-Useful Table B2
-Useful Table B2 SE
-Useful Table B2 FREQ
-Useful Table B3
-Useful Table B3 SE
-Useful Table B3 FREQ
-Useful Table C1
-Useful Table C1 SE
-Useful Table C1 FREQ
-Useful Table C2
-Useful Table C2 SE
-Useful Table C2 FREQ
-Useful Table C3
-Useful Table C3 SE
-Useful Table C3 FREQ
-Useful Table C4
-Useful Table C4 SE
-Useful Table C4 FREQ
-Useful Table C5
-Useful Table C5 SE
-Useful Table C5 FREQ
-Useful Table C6
-Useful Table C6 FREQ
-Useful Table C7
-Useful Table C7 SE
-Useful Table C7 FREQ
-Useful Table E5
-Useful Table E5 SE
-Useful Table E5 FREQ
-Empty Graph 1_ONE
-Empty Graph 1_GENDER
-Empty Graph 1_URBAN
-Empty Graph 1_URGENDER
-Empty Graph 1_WI3
-Empty Graph 1_WI6
-Empty Graph 1_HHGENDER
-Empty Graph 1_HHEDUC
-Empty Graph 2_ONE
-Empty Graph 2_GENDER
-Empty Graph 2_URBAN
-Empty Graph 2_URGENDER
-Empty Graph 2_WI3
-Empty Graph 2_WI6
-Empty Graph 2_HHGENDER
-Empty Graph 2_HHEDUC
-Empty Graph 3_ONE
-Empty Graph 3_GENDER
-Empty Graph 3_URBAN
-Empty Graph 3_URGENDER
-Empty Graph 3_WI3
-Empty Graph 3_WI6
-Empty Graph 3_HHGENDER
-Empty Graph 3_HHEDUC
-Empty Graph 4_Gender
-Empty Graph 4_UrRur
-Empty Graph 4_UrGender
-Empty Graph 4_RurGender
-Empty Graph 5_ONE_20_29
-Empty Graph 5_GENDER_20_29
-Empty Graph 5_URBAN_20_29
-Empty Graph 5_URGENDER_20_29
-Empty Graph 5_WI3_20_29
-Empty Graph 5_WI6_20_29
-Empty Graph 5_HHGENDER_20_29
-Empty Graph 5_HHEDUC_20_29
-Empty Graph 5_ONE_30_39
-Empty Graph 5_GENDER_30_39
-Empty Graph 5_URBAN_30_39
-Empty Graph 5_URGENDER_30_39
-Empty Graph 5_WI3_30_39
-Empty Graph 5_WI6_30_39
-Empty Graph 5_HHGENDER_30_39
-Empty Graph 5_HHEDUC_30_39
-Empty Graph 6_PRMRY
-Empty Graph 6_SCNDRY
-Empty Graph 8_Total
-Empty Graph 8_1
-Empty Graph 8_2
-Useless Database
-/Users/sunny/Documents/UROP/PDS/worldbank/COL_2005.xls
-Useless Contents
-Useless Notifications
-Useful Original Data Report
-Useful Table A1
-Useful Table A1 SE
-Useful Table A1 FREQ
-Useful Table A2
-Useful Table A2 SE
-Useful Table A2 FREQ
-Useful Table A3
-Useful Table A3 SE
-Useful Table A3 FREQ
-Useful Table A4
-Useful Table A4 SE
-Useful Table A4 FREQ
-Useful Table A5
-Useful Table A5 SE
-Useful Table A5 FREQ
-Useful Table A7
-Useful Table A7 SE
-Useful Table A7 FREQ
-Useful Table B1
-Useful Table B1 SE
-Useful Table B1 FREQ
-Useful Table B2
-Useful Table B2 SE
-Useful Table B2 FREQ
-Useful Table B3
-Useful Table B3 SE
-Useful Table B3 FREQ
-Useful Table C1
-Useful Table C1 SE
-Useful Table C1 FREQ
-Useful Table C2
-Useful Table C2 SE
-Useful Table C2 FREQ
-Useful Table C3
-Useful Table C3 SE
-Useful Table C3 FREQ
-Useful Table C4
-Useful Table C4 SE
-Useful Table C4 FREQ
-Useful Table C5
-Useful Table C5 SE
-Useful Table C5 FREQ
-Useful Table C6
-Useful Table C6 FREQ
-Useful Table C7
-Useful Table C7 SE
-Useful Table C7 FREQ
-Useful Table E5
-Useful Table E5 SE
-Useful Table E5 FREQ
-Empty Graph 1_ONE
-Empty Graph 1_GENDER
-Empty Graph 1_URBAN
-Empty Graph 1_URGENDER
-Empty Graph 1_WI3
-Empty Graph 1_WI6
-Empty Graph 1_HHGENDER
-Empty Graph 1_HHEDUC
-Empty Graph 2_ONE
-Empty Graph 2_GENDER
-Empty Graph 2_URBAN
-Empty Graph 2_URGENDER
-Empty Graph 2_WI3
-Empty Graph 2_WI6
-Empty Graph 2_HHGENDER
-Empty Graph 2_HHEDUC
-Empty Graph 3_ONE
-Empty Graph 3_GENDER
-Empty Graph 3_URBAN
-Empty Graph 3_URGENDER
-Empty Graph 3_WI3
-Empty Graph 3_WI6
-Empty Graph 3_HHGENDER
-Empty Graph 3_HHEDUC
-Empty Graph 4_Gender
-Empty Graph 4_UrRur
-Empty Graph 4_UrGender
-Empty Graph 4_RurGender
-Empty Graph 5_ONE_20_29
-Empty Graph 5_GENDER_20_29
-Empty Graph 5_URBAN_20_29
-Empty Graph 5_URGENDER_20_29
-Empty Graph 5_WI3_20_29
-Empty Graph 5_WI6_20_29
-Empty Graph 5_HHGENDER_20_29
-Empty Graph 5_HHEDUC_20_29
-Empty Graph 5_ONE_30_39
-Empty Graph 5_GENDER_30_39
-Empty Graph 5_URBAN_30_39
-Empty Graph 5_URGENDER_30_39
-Empty Graph 5_WI3_30_39
-Empty Graph 5_WI6_30_39
-Empty Graph 5_HHGENDER_30_39
-Empty Graph 5_HHEDUC_30_39
-Empty Graph 6_PRMRY
-Empty Graph 6_SCNDRY
-Empty Graph 8_Total
-Empty Graph 8_1
-Empty Graph 8_2
-Useless Database
-/Users/sunny/Documents/UROP/PDS/worldbank/COL_POP.xls
-Useful COL_POP
-/Users/sunny/Documents/UROP/PDS/worldbank/COM_1996.xls
-Useless Contents
-Useless Notifications
-Useful Original Data Report
-Useful Table A5
-Useful Table A5 SE
-Useful Table A5 FREQ
-Useful Table C1
-Useful Table C1 SE
-Useful Table C1 FREQ
-Useful Table C2
-Useful Table C2 SE
-Useful Table C2 FREQ
-Useful Table C3
-Useful Table C3 SE
-Useful Table C3 FREQ
-Useful Table C4
-Useful Table C4 SE
-Useful Table C4 FREQ
-Useful Table C5
-Useful Table C5 SE
-Useful Table C5 FREQ
-Useful Table C6
-Useful Table C6 FREQ
-Useful Table C7
-Useful Table C7 SE
-Useful Table C7 FREQ
-Useful Table E5
-Useful Table E5 SE
-Useful Table E5 FREQ
-Empty Graph 1_ONE
-Empty Graph 1_GENDER
-Empty Graph 1_URBAN
-Empty Graph 1_URGENDER
-Empty Graph 1_WI3
-Empty Graph 1_WI6
-Empty Graph 1_HHGENDER
-Empty Graph 1_HHEDUC
-Empty Graph 5_ONE_20_29
-Empty Graph 5_GENDER_20_29
-Empty Graph 5_URBAN_20_29
-Empty Graph 5_URGENDER_20_29
-Empty Graph 5_WI3_20_29
-Empty Graph 5_WI6_20_29
-Empty Graph 5_HHGENDER_20_29
-Empty Graph 5_HHEDUC_20_29
-Empty Graph 5_ONE_30_39
-Empty Graph 5_GENDER_30_39
-Empty Graph 5_URBAN_30_39
-Empty Graph 5_URGENDER_30_39
-Empty Graph 5_WI3_30_39
-Empty Graph 5_WI6_30_39
-Empty Graph 5_HHGENDER_30_39
-Empty Graph 5_HHEDUC_30_39
-Empty Graph 8_Total
-Empty Graph 8_1
-Empty Graph 8_2
-Useless Database
-/Users/sunny/Documents/UROP/PDS/worldbank/COM_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/CPTOTSAXN_Indicator_MetaData_en_EXCEL.xls
-Empty Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/CPV_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/CPV_POP.xls
-Useful CPV_POP
-/Users/sunny/Documents/UROP/PDS/worldbank/CRI_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/CRI_POP.xls
-Useful CRI_POP
-/Users/sunny/Documents/UROP/PDS/worldbank/CSSlist.xls
-Useless Updated
-Empty Sheet3
-Empty Sheet4
-Empty Sheet5
-Empty Sheet6
-/Users/sunny/Documents/UROP/PDS/worldbank/CTF_FY06_allocation_Oct05.external.xls
-Useful First allocation Aug
-Useful Second allocation Sep
-Useless Sheet1
-Useful FY06 Allocation and cash
-Empty Sheet4
-Empty Sheet5
-Empty Sheet6
-/Users/sunny/Documents/UROP/PDS/worldbank/CUB_2006.xls
-Useless Contents
-Useless Notifications
-Useful Original Data Report
-Useful Table A5
-Useful Table A5 SE
-Useful Table A5 FREQ
-Useful Table C1
-Useful Table C1 SE
-Useful Table C1 FREQ
-Useful Table C2
-Useful Table C2 SE
-Useful Table C2 FREQ
-Useful Table C3
-Useful Table C3 SE
-Useful Table C3 FREQ
-Useful Table C4
-Useful Table C4 SE
-Useful Table C4 FREQ
-Useful Table C5
-Useful Table C5 SE
-Useful Table C5 FREQ
-Useful Table C6
-Useful Table C6 FREQ
-Useful Table C7
-Useful Table C7 SE
-Useful Table C7 FREQ
-Empty Graph 1_ONE
-Empty Graph 1_GENDER
-Empty Graph 1_URBAN
-Empty Graph 1_URGENDER
-Empty Graph 5_ONE_20_29
-Empty Graph 5_GENDER_20_29
-Empty Graph 5_URBAN_20_29
-Empty Graph 5_URGENDER_20_29
-Empty Graph 5_ONE_30_39
-Empty Graph 5_GENDER_30_39
-Empty Graph 5_URBAN_30_39
-Empty Graph 5_URGENDER_30_39
-Empty Graph 8_Total
-Empty Graph 8_1
-Empty Graph 8_2
-Useless Database
-/Users/sunny/Documents/UROP/PDS/worldbank/CUB_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/CUB_POP.xls
-Useful CUB_POP
-/Users/sunny/Documents/UROP/PDS/worldbank/CUW_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/CYM_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/CYP_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/CYP_Country_MetaData_fr_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/CZE_Country_MetaData_en_EXCEL.xls
-Useful Sheet1
-Useless Sheet2
-/Users/sunny/Documents/UROP/PDS/worldbank/CZE_POP.xls
-Useful CZE_POP
-/Users/sunny/Documents/UROP/PDS/worldbank/Cameroon_FY04-06.xls
-Useless SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/Cameroon_FY04-07.xls
-Useless SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/Canada_FY04-07.xls
-Useless SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/Cape-Verde_FY04-07.xls
-Useless SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Argentina.xls
-Useless Argentina
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Armenia.xls
-Useless Armenia
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Aruba.xls
-Useless Aruba
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Bahrain.xls
-Useless Bahrain
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Bangladesh.xls
-Useless Bangladesh
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Botswana.xls
-Useless Botswana
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Canada.xls
-Useless Canada
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Cayman_Islands.xls
-Useless Cayman Islands
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Chile.xls
-Useless Chile
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_China.xls
-Useless China
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Croatia.xls
-Useless Croatia
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Denmark.xls
-Useless Denmark
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Egypt.xls
-Useless Egypt
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Estonia.xls
-Useless Estonia
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Gambia_The.xls
-Useless Gambia, The
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Ghana.xls
-Useless Ghana
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Gibraltar.xls
-Useless Gibraltar
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Greece.xls
-Useless Greece
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Guatemala.xls
-Useless Guatemala
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Guernsey.xls
-Useless Guernsey
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Honduras.xls
-Useless Honduras
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Hungary.xls
-Useless Hungary
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Indonesia.xls
-Useless Indonesia
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Ireland.xls
-Useless Ireland
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Italy.xls
-Useless Italy
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Jamaica.xls
-Useless Jamaica
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Japan.xls
-Useless Japan
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Jordan.xls
-Useless Jordan
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Kazakhstan.xls
-Useless Kazakhstan
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Kuwait.xls
-Useless Kuwait
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Kyrgyzstan.xls
-Useless Kyrgyzstan
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Lebanon.xls
-Useless Lebanon
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Liechtenstein.xls
-Useless Liechtenstein
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Lithuania.xls
-Useless Lithuania
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Luxembourg.xls
-Useless Luxembourg
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Malawi.xls
-Useless Malawi
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Malaysia.xls
-Useless Malaysia
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Malta.xls
-Useless Malta
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Mauritius.xls
-Useless Mauritius
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Morocco.xls
-Useless Morocco
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Nepal.xls
-Useless Nepal
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Netherlands.xls
-Useless Netherlands
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Nigeria.xls
-Useless Nigeria
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Oman.xls
-Useless Oman
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Philippines.xls
-Useless Philippines
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Poland.xls
-Useless Poland
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Portugal.xls
-Useless Portugal
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Puerto_Rico.xls
-Useless Puerto Rico
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Qatar.xls
-Useless Qatar
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Romania.xls
-Useless Romania
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Russia.xls
-Useless Russia
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Salvador_El.xls
-Useless Salvador, El
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Saudi_Arabia.xls
-Useless Saudi Arabia
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Singapore.xls
-Useless Singapore
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Solomon_Islands.xls
-Useless Solomon Islands
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_South_Africa.xls
-Useless South Africa
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Sri_Lanka.xls
-Useless Sri Lanka
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_St._Kitts.xls
-Useless St. Kitts
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Sweden.xls
-Useless Sweden
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Switzerland.xls
-Useless Switzerland
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Thailand.xls
-Useless Thailand
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Trinidad_Tobago.xls
-Useless Trinidad & Tobago
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Turkmenistan.xls
-Useless Turkmenistan
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Turks_and_Caicos_Islands.xls
-Useless Turks and Caicos Islands
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Vanuatu.xls
-Useless Vanuatu
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_Vietnam.xls
-Useless Vietnam
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000__entry_into_banking.xls
-Useless 1-entry
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_depositor.xls
-Useless 8-depositor
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_discipline.xls
-Useless 11-discipline
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_disclosure.xls
-Useless 10-disclosure
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2000_liquidity.xls
-Useless 7-liquidity
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_10_accounting.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_11_discipline.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_2_ownership.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_3_capital.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_5_auditing.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_8_depositor_protection.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_9_provisioning.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_Bank_regulation_survey_3-5-04.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_algeria.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_antigua.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_armenia.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_aruba.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_austria.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_bahrain.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_banking_regulation_database.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_belize.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_benin.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_bhutan.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_bosnia.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_botswana.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_bulgaria.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_burundi.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_cameroon.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_canada.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_chad.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_congo.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_costa_rica.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_cote_divoire.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_eq_guinea.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_fiji.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_finland.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_france.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_gabon.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_germany.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_gibraltar.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_greece.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_grenada.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_guernsey.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_honduras.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_iceland.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_india.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_israel.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_kenya.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_kuwait.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_kyrgyzstan.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_lebanon.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_lesotho.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_luxembourg.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_macedonia.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_malaysia.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_mali.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_mauritius.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_mexico.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_moldova.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_montserrat.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_namibia.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_netherlands.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_new_zealand.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_niger.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_norway.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_papua_new_guinea.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_paraguay.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_poland.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_portugal.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_puerto_rico.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_qatar.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_romania.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_russia.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_rwanda.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_saint_kitts.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_saint_lucia.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_saudi_arabia.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_senegal.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_serbia.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_slovakia.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_south_africa.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_south_korea.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_sri_lanka.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_suriname.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_swaziland.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_sweden.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_tajikistan.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_tonga.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_tunisia.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_turkey.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_united_arab.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_united_states.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_uruguay.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_vanuatu.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Caprio_2003_venezuela.xls
-Useless Cleaned 3-5-04
-/Users/sunny/Documents/UROP/PDS/worldbank/Catalogue_eng.xls
-Useless Books in English
-/Users/sunny/Documents/UROP/PDS/worldbank/Catalogue_rus.xls
-Useless Books in Russian
-/Users/sunny/Documents/UROP/PDS/worldbank/Ch3_Annex1_Spreadsheet_for_weights.xls
-Useless explanations
-Useful combined
-Useful reduced
-Useful  complete
-/Users/sunny/Documents/UROP/PDS/worldbank/Ch3_Annex3_Weights_Diagnostic_Module.xls
-Useless WDM
-Useful Regional Data
-Useful Yearly Data
-/Users/sunny/Documents/UROP/PDS/worldbank/Ch8_Annex3xls.xls
-Useful Collection Form
-Useless Occupation Code
-Useless Explanatory Notes
-/Users/sunny/Documents/UROP/PDS/worldbank/Chad.xls
-Useful CMR graph
-/Users/sunny/Documents/UROP/PDS/worldbank/Chap1_Tables.xls
-Useful 1.a
-Useful 1.a.w
-Useful 1.b
-Useful 1.b.w
-Useful 1.c
-Useful 1.d
-Useful 1.e
-Useful 1.f
-Useless 1.g
-/Users/sunny/Documents/UROP/PDS/worldbank/Chap3_Tables.xls
-Useful 3.a
-Useful 3.b
-Useful 3.c.i
-Useful 3.c.ii
-Useful 3.d
-/Users/sunny/Documents/UROP/PDS/worldbank/Chap4_Tables.xls
-Useless 4.a
-Useful 4.b
-Useful 4.b.w
-Useless 4.c
-Useless 4.d.i
-Useless 4.d.i.w
-Useless 4.d.ii
-Useful 4.d.ii.w
-Useful 4.e
-Useful 4.f
-Useless 4.g
-Useful 4.h
-/Users/sunny/Documents/UROP/PDS/worldbank/Chap5_Tables.xls
-Useless 5.a
-Useless 5.b
-Useful 5.c
-Useless 5.d
-Useful 5.e
-Useful 5.e.w
-Useful 5.f
-Useful 5.g
-Useful 5.g.w
-Useful 5.h.i
-Useful 5.h.ii
-/Users/sunny/Documents/UROP/PDS/worldbank/Charities.xls
-Useless agency list
-/Users/sunny/Documents/UROP/PDS/worldbank/Childhood_Illness_and_Mortality.xls
-Useful Infant Mortality Rate
-Useful Under-Five Mortality Rate
-Useful Prevalence of Fever
-Useful Prevalence of Diarrhea
-Useful Prevalence of ARI
-/Users/sunny/Documents/UROP/PDS/worldbank/Childhood_Immunization.xls
-Useful BCG Coverage
-Useful Measles Coverage
-Useful DPT Coverage
-Useful Full Basic Coverage
-Useful No Basic Coverage
-Useless Hepatitis B Coverage
-Useless Yellow Fever Coverage
-/Users/sunny/Documents/UROP/PDS/worldbank/ChileSNA2.xls
-Useful CHLSNA
-/Users/sunny/Documents/UROP/PDS/worldbank/Chile_FY04-07.xls
-Useless SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/China_FY04-05.xls
-Useless SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/China_FY04-06.xls
-Useless SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/China_FY04-07.xls
-Useless SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/China_GCF.xls
-Useless VIEWEDIT
-/Users/sunny/Documents/UROP/PDS/worldbank/ClassSizeAndRatioOfStudentsToTeachingStaff.xls
-Useless Contents
-Useless Table D2.1
-Useless Table D2.2
-Useless Table D2.3
-/Users/sunny/Documents/UROP/PDS/worldbank/ClimateChangeActivitiesinVN20100223.xls
-Useless CC Activities
-Useless Matrix Structure
-Useless Manual for using matrix
-Useless Contacts
-Useless xxxxxxxx
-Useless Recovered_Sheet1
-Useless XL4Test5
-/Users/sunny/Documents/UROP/PDS/worldbank/ClimatechangeactivitiesinVN20110124.xls
-Useless CC Activities
-Useless Matrix Structure
-Useless Manual for using matrix
-Useless Contacts
-Useless xxxxxxxx
-Useless Recovered_Sheet1
-Useless XL4Test5
-/Users/sunny/Documents/UROP/PDS/worldbank/Colombia.xls
-Useful PPNPRCOC
-/Users/sunny/Documents/UROP/PDS/worldbank/Colombia_FY04-07.xls
-Useless SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/Commitments_AFR.xls
-Useful Sheet1
-/Users/sunny/Documents/UROP/PDS/worldbank/Commitments_ECA.xls
-Useful Sheet1
-/Users/sunny/Documents/UROP/PDS/worldbank/Commitments_LAC.xls
-Useful Sheet1
-/Users/sunny/Documents/UROP/PDS/worldbank/Commitments_MENA.xls
-Useful Sheet1
-/Users/sunny/Documents/UROP/PDS/worldbank/Commitments_SAR.xls
-Useful Sheet1
-/Users/sunny/Documents/UROP/PDS/worldbank/CommodityPricesForecast.xls
-Useful CurrentUSD
-Useful ConstantUSD
-Useful Indices
-/Users/sunny/Documents/UROP/PDS/worldbank/Congo-DRC_FY04-05.xls
-Useless SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/Congo-DRC_FY04-07.xls
-Useless SAPBEXqueries
-Useful SAPBEXfilters
-Useless Proc Contract Detail - Supplier
-/Users/sunny/Documents/UROP/PDS/worldbank/CongoRep.xls
-Useful Congo, Rep. of-Raw Data
-Useful Congo, Rep. of-Scenario
-Useful Congo, Rep. of-Simulation Model
-Useful Per Year page by Country
-Useful Congo, Rep. of-Summary
-/Users/sunny/Documents/UROP/PDS/worldbank/Consolidated_list_Modules_1-10.xls
-Useless Albania,Tirana
-Useless B & H, Banja Luka
-Useless B & H, Sarajevo
-Useless Bulgaria, Sofia
-Useless Croatia, Zagreb
-Useless Kosovo, Pristina
-Useless fYR Macedonia, Skopje
-Useless Moldova, Chisinau
-Useless Romania, Bucharest
-Useless Serbia & Montenegro, Belgrade
-Useless Serbia & Montenegro, Podgorica
-Useless Turkey, Ankara
-Useless Turkey, Istanbul
-Useless Ukraine, Kiev
-Useless Institutions
-Useless Institutions grouped together
-/Users/sunny/Documents/UROP/PDS/worldbank/Consolidatedmatrixofbothinternalandexternalgovernancedatasetsandinstruments.xls
-Useless SOURCES
-/Users/sunny/Documents/UROP/PDS/worldbank/Constant_GNIpc_May_2011_WDI.xls
-Useless Sheet1
-Empty Sheet2
-Empty Sheet3
-/Users/sunny/Documents/UROP/PDS/worldbank/Contraceptive_Services.xls
-Useful Contraceptive Prevalence Women
-Useless Contraceptive Prevalence Men
-Useful Source in Public Sector Women 
-Useless Source in Public Sector Men
-Useful Source in Private Sector Women
-Useless Source in Private Sector Men
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/24 Month Sales Forecast.xls
+Junk JaxWorks
+Useful 24 Month Sales Forecast
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/36 Month Sales Forecast.xls
+Junk JaxWorks
+Useful 36 Month Sales Forecast
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/40 column.xls
+Junk JaxWorks
+Useful 40 Column
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/401K Planner.xls
+Junk JaxWorks
+Useful 401K Planner
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/48 Month Sales Forecast.xls
+Junk JaxWorks
+Useful 48 Month Sales Forecast
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/52 Week Sales Record.xls
+Junk JaxWorks
+Useful 52 Week Sales Record
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/5year.xls
+Junk JaxWorks
+Useful 5 Year Projections
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/7 Year  Balloon Loan Amort.xls
+Junk JaxWorks
+Junk 7 Year  Balloon Loan Amort.
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Accounts Payable Aging.xls
+Junk JaxWorks
+Useful Accounts Payable Aging
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Accounts Receivable Aging.xls
+Junk JaxWorks
+Useful Accounts Receivable Aging
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Activity Ratios.xls
+Junk JaxWorks
+Junk Activity Ratios
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Annual Direct Labor Analysis.xls
+Junk JaxWorks
+Useful Annual Direct Labor Analysis
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Approval To Hire Request.xls
+Junk JaxWorks
+Junk Approval To Hire Request
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Auto Expense Report.xls
+Junk JaxWorks
+Useful Auto Expense Report
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Average Selling Price Analysis.xls
+Junk JaxWorks
+Useful Average Selling Price Analysis
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Avertising Expenditures-Media.xls
+Junk JaxWorks
+Useful Avertising Expenditures-Media
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Backorder Control.xls
+Junk JaxWorks
+Junk Backorder Control
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Balance Sheet.xls
+Junk JaxWorks
+Junk Balance Sheet
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Balanced Scorecard.xls
+Junk JaxWorks
+Junk Introduction
+Junk 1 - Process Inputs Checklist
+Junk 2 - Development Timeline
+Junk 3 -Team Formation Checklist
+Junk 4 - Core Team Checklist
+Junk 5 - Establish Goals
+Junk 6 - Themes Checklist
+Junk 7 - Strategic Map
+Junk 8 - Measurement Definition
+Junk 9 - Measurement Summary
+Junk 10 - Lag Lead Comparison
+Junk 11 - Target Checklist
+Junk 12 - Program Attributes
+Junk 13 - Program Selection Grid
+Junk 14 - O - M - T - P Summary
+Junk 15 - Control vs Strategic
+Junk 16 - Generic Model
+Junk 17 - Measurement Basics
+Junk 18 - Implementation Plan
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Basic Invoice.xls
+Junk JaxWorks
+Junk Basic Invoice
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Bill of Ladding.xls
+Junk JaxWorks
+Junk Bill of Ladding
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Break-Even Analysis (2).xls
+Junk JaxWorks
+Useful Break-Even Analysis (2)
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Break-Even Analysis (3).xls
+Junk JaxWorks
+Useful Break-Even
+Junk BE Analysis
+Useful BE Calculations
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Break-Even Analysis.xls
+Junk JaxWorks
+Useful Break-Even Analysis
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Break-Even CIA.xls
+Junk JaxWorks
+Useful Break_Even CIA
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Break-Even Chart.xls
+Junk JaxWorks
+Useful Break-Even Chart
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Break-Even Simple.xls
+Junk JaxWorks
+Useful Break-Even Simple
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Budget Plan.xls
+Junk JaxWorks
+Junk Budget
+Junk Summary
+Junk Adm. Expenses
+Junk Service Expenses
+Junk Income Details
+Junk Selling Expense
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Budget-5 Profit Centers.xls
+Junk JaxWorks
+Useful Budget-5 Profit Centers
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Business Acquisition Worksheet.xls
+Junk JaxWorks
+Useful Business Acquisition Worksheet
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Business Indebtedness.xls
+Junk JaxWorks
+Junk Business Indebtedness
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Business Loan Proceeds.xls
+Junk JaxWorks
+Junk Business Loan Proceeds
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Business Plan Sample.xls
+Junk JaxWorks
+Junk Business Plan Sample
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Business Valuation.xls
+Junk JaxWorks
+Useful Small Business Valuation
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Cash Budget.xls
+Junk JaxWorks
+Useful Cash Budget
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Cash Flow 4 Yrs Quarterly.xls
+Junk JaxWorks
+Useful Cash Flow 4 Yrs Quarterly
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Cash Flow Forecast 12 Months.xls
+Junk JaxWorks
+Useful Cash Flow Forecast 12 Months
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Cash Flow Sensitivity Analysis.xls
+Junk JaxWorks
+Useful Cash Flow Sensitivity Analysis
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Commercial Loan Checklist.xls
+Junk JaxWorks
+Junk Commercial Loan Checklist
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Commission Report.xls
+Junk JaxWorks
+Useful Commission Report
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Company Property Receipt.xls
+Junk JaxWorks
+Junk Company Property Receipt
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Comparative Business Income.xls
+Junk JaxWorks
+Useful Comparative Business Income
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Comparative Contribution Income.xls
+Junk JaxWorks
+Useful Comparative Contribution Income
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Comparative Earnings Analysis.xls
+Junk JaxWorks
+Useful Comparative Earnings Analysis
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Comparative Taxable Income.xls
+Junk JaxWorks
+Useful Comparative Taxable Income
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Corporate Analysis.xls
+Junk JaxWorks
+Useful Data Entry
+Useful Income Statement
+Useful Balance Sheet
+Useful Cash Flow Statement
+Useful Cash Flow Projections
+Junk Data Chart
+Junk Asset Chart
+Junk Income Chart
+Junk Copyright
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Corporate Earnings Analysis.xls
+Junk JaxWorks
+Useful Corporate Earnings Analysis
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Credit Application.xls
+Junk JaxWorks
+Junk Credit Application
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Credit Control List.xls
+Junk JaxWorks
+Junk Credit Control List
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Credit History.xls
+Junk JaxWorks
+Junk Credit History
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Customer Ledger.xls
+Junk JaxWorks
+Junk Customer Ledger
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Daily Production Report.xls
+Junk JaxWorks
+Junk Daily Production Report
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Daily Time Sheet-Services Rendered.xls
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Daily Time Sheet-Services Rendered.xls has error.
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Daily Time Sheet.xls
+Junk JaxWorks
+Junk Daily Time Sheet
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Dashboard.xls
+Junk JaxWorks
+Junk DashBoard
+Useful Data Entry
+Junk Chart 1
+Junk Chart 2
+Junk Chart 3
+Junk Chart 4
+Junk Chart 5
+Junk Chart 6
+Junk Chart 7
+Junk Chart 8
+Junk Chart 9
+Junk Chart 10
+Junk Chart 11
+Junk Chart 12
+Junk Chart 13
+Junk Chart 14
+Junk Chart 15
+Junk Chart 16
+Junk Chart 17
+Junk Chart 18
+Junk Chart 19
+Junk Chart 20
+Junk Chart 21
+Junk Chart 22
+Junk Chart 23
+Junk Chart 24
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Debt Ratios.xls
+Junk JaxWorks
+Junk Debt Ratios
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Direct Advertising Response.xls
+Junk JaxWorks
+Useful Direct Advertising Response
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Direct Marketing Analysis.xls
+Junk JaxWorks
+Junk Direct Marketing Analysis
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Employee Change Record.xls
+Junk JaxWorks
+Junk Employee Change Record
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Employee Orientation.xls
+Junk JaxWorks
+Junk Employee Orientation
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Employee Performance Review.xls
+Junk JaxWorks
+Junk Employee Performance Review
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Employee Self Evaluation.xls
+Junk JaxWorks
+Junk Employee Self Evaluation
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Employee Termination.xls
+Junk JaxWorks
+Junk Employee Termination
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Employee Time Sheet.xls
+Junk JaxWorks
+Useful Employee Time Sheet
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Entrepreneurial Test.xls
+Empty JaxWorks
+Junk Test
+Junk Score
+Junk Reset
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Estimating Start-Up Capital.xls
+Junk JaxWorks
+Useful Estimating Start-Up Capital
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Expense Budget.xls
+Junk JaxWorks
+Useful Expense Budget
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Expense Report.xls
+Junk JaxWorks
+Useful Expense Report
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Financial Calculator.xls
+Junk JaxWorks
+Junk Financial Calculator
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Financial Comparison Analysis.xls
+Junk JaxWorks
+Useful Financial Comparison Analysis
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Financial Forecast Analysis 8 yrs.xls
+Junk JaxWorks
+Useful Data Entry
+Useful Financial Analysis
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Financial Statement Ratios.xls
+Junk JaxWorks
+Useful Financial Statement Ratios
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Financial Toys.xls
+Junk JaxWorks
+Junk TB Per. & YTD Comp.  3-2000
+Junk BS  3-2000
+Junk BS & PY Comp.  3-2000
+Junk CF Per. & YTD Comp. 3-2000
+Junk CF Rolling 12 Per. 3-2000
+Junk IS Per. & YTD Comp 3-2000
+Junk IS Rolling 12 Per 3-2000
+Junk IS Rolling 4 Qtr Q4-FY 2000
+Junk IS Year by Per FY2000
+Junk IS Year by Qtr FY2000
+Junk COSComp Chart 3-2000
+Useful RevExp Chart 3-2000
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Five Year Projections.xls
+Junk JaxWorks
+Useful Five Year Projections
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Fixed Asset Record.xls
+Junk JaxWorks
+Junk Fixed Asset Record
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Flexible Budget.xls
+Junk JaxWorks
+Useful Flexible Budget
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/G&A Expense Budget.xls
+Junk JaxWorks
+Useful G&A Expense Budget
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Headcount Analysis.xls
+Junk JaxWorks
+Junk Read Me First
+Useful Worksheet 1
+Useful Worksheet 2
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Income Statement.xls
+Junk JaxWorks
+Useful Income Statement
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Industry Analysis.xls
+Useful Statistics
+Junk JaxWorks
+Useful Industry Analysis
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Inspection Report.xls
+Junk JaxWorks
+Junk Inspection Report
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Insurance Coverage Report.xls
+Junk JaxWorks
+Useful Insurance Coverage Report
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Job Estimate.xls
+Junk JaxWorks
+Junk Job Estimate
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Liquidity Analysis & Ratios.xls
+Junk JaxWorks
+Junk Liquidity Analysis & Ratios
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Loan Tree.xls
+Junk JaxWorks
+Junk Loan Approval Qualifier
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Manufacturing Overhead Budget.xls
+Junk JaxWorks
+Useful Manufacturing Overhead Budget
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Marketing Analysis.xls
+Junk JaxWorks
+Junk Sheet Index
+Junk Ad & Promo Budget
+Junk Ad Costs Planning
+Junk Ad Promo & Sales Budget
+Junk Ad Spending by Month
+Junk Agency Selection Matrix
+Junk Average-Cost Pricing
+Junk Break-Even
+Junk Code Master List
+Junk Collateral Planning Matrix
+Junk Commission Sales Forecast
+Junk Comparative Sales Performance
+Junk Competitive Analysis
+Junk Competitive Cost History
+Junk Competitive Pricing History
+Junk Contribution Margin Statement
+Junk Cost Classifications
+Junk Direct Mail Analysis
+Junk Estimating Impact
+Junk Income Statement Each Product
+Junk Launch
+Junk Marketing Budget
+Junk Operating Budget
+Junk P&L One Month
+Junk Planning & Control-Department
+Junk Price Change Effect
+Junk Profit by Channel
+Useful Sales Forecast & Analysis
+Junk Sales of Competitors
+Junk Sales Performance by Region
+Junk Sales Promotion Plan & Budget
+Junk Sales Rep Comparative Cost
+Useful Sales Source Analysis
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Marketing Calculators.xls
+Junk JaxWorks
+Junk Marketing Calculators
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Marketing Personnel Expenses.xls
+Junk JaxWorks
+Useful Marketing Personnel Expenses
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Media Budget by Quarter.xls
+Junk JaxWorks
+Useful Media Budget by Quarter
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Media Forecast.xls
+Junk JaxWorks
+Useful Media Forecast
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Merchandise Plan.xls
+Junk JaxWorks
+Useful Merchandise Plan
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Merchandise Return.xls
+Junk JaxWorks
+Junk Merchandise Return
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Monthly Sales Projections.xls
+Junk JaxWorks
+Useful Monthly Sales Projections
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Moving Average Sales Forecast.xls
+Junk JaxWorks
+Useful Moving Average Sales Forecast
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/New Employee Record Chart.xls
+Junk JaxWorks
+Junk New Employee Record Chart
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/New Product Sales Forecast.xls
+Junk JaxWorks
+Junk New Product Sales Forecast
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/One Year Project Process Report.xls
+Junk JaxWorks
+Junk One Year Project Process Report
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Overdue Account File.xls
+Junk JaxWorks
+Junk Overdue Account File
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Parts Inventory.xls
+Junk JaxWorks
+Junk Parts Inventory
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Payback Analysis.xls
+Junk JaxWorks
+Useful Payback Analysis
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Perpetual Inventory Control.xls
+Junk JaxWorks
+Junk Perpetual Inventory Control
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Personal Wealth Analysis.xls
+Junk JaxWorks
+Useful Personal Wealth Analysis
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Personnel Activity Report.xls
+Junk JaxWorks
+Useful Personnel Activity Report
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Present Value Mixed Stream.xls
+Junk JaxWorks
+Useful Present Value Mixed Stream
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Price Estimate For Services.xls
+Junk JaxWorks
+Useful Price Estimate For Services
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Price Line Sales Projections.xls
+Junk JaxWorks
+Useful Price Line Sales Projections
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Pro-Forma Balance Sheet.xls
+Junk JaxWorks
+Useful Pro-Forma Balance Sheet
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Pro-Forma Income Statement.xls
+Junk JaxWorks
+Useful Pro-Forma Income Statement
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Product Sales Goals.xls
+Junk JaxWorks
+Useful Product Sales Goals
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Production Reject Report.xls
+Junk JaxWorks
+Junk Production Reject Report
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Profitability Ratios.xls
+Junk JaxWorks
+Junk Profitability Ratios
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Project Cost Summary.xls
+Junk JaxWorks
+Useful Project Cost Summary
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Puchases Log.xls
+Junk JaxWorks
+Junk Puchases Log
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Purchase Order.xls
+Junk JaxWorks
+Junk Purchase Order
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Quarterly Budget Analysis.xls
+Junk JaxWorks
+Useful Quarterly Budget Analysis
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Quarterly Cash Flow Projection.xls
+Junk JaxWorks
+Useful Quarterly Cash Flow Projection
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Quarterly Marketing Budget.xls
+Junk JaxWorks
+Useful Quarterly Marketing Budget
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Quarterly Sales Record.xls
+Junk JaxWorks
+Useful Quarterly Sales Record
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Quotation Evaluation.xls
+Junk JaxWorks
+Junk Quotation Evaluation
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Quotation Record.xls
+Junk JaxWorks
+Junk Quotation Record
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Ratio Analysis-Detailed.xls
+Junk JaxWorks
+Junk Index
+Junk Instructions
+Empty Ratios Introduction
+Useful Income Statement
+Useful Balance Sheet
+Useful EPS
+Useful GP Margin
+Useful NP Margin
+Junk ROA
+Useful ROE
+Useful Current Ratio
+Useful Quick Ratio
+Useful ACP
+Useful ITO
+Useful Debt Ratio
+Useful Equity Ratio
+Useful TIE
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Ratio Analysis.xls
+Junk JaxWorks
+Useful Ratio Analysis
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Receipt For Goods.xls
+Junk JaxWorks
+Junk Receipt For Goods
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Receiving Report.xls
+Junk JaxWorks
+Junk Receiving Report
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Request For Quotation.xls
+Junk JaxWorks
+Junk Request For Quotation
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Sales Activity Report.xls
+Junk JaxWorks
+Junk Sales Activity Report
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Sales Budget.xls
+Junk JaxWorks
+Junk Sales Budget
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Sales Channel Analysis.xls
+Junk JaxWorks
+Useful Sales Channel Analysis
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Sales Promotion Expenses.xls
+Junk JaxWorks
+Useful Sales Promotion Expenses
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Sales Quotation.xls
+Junk JaxWorks
+Junk Sales Quotation
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Sales Revenue Report.xls
+Junk JaxWorks
+Useful Sales Revenue Report
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Sales Seasonality by Month.xls
+Junk JaxWorks
+Useful Sales Seasonality by Month
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Sales Trend Analysis.xls
+Junk JaxWorks
+Junk Sales Trend Analysis
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Shipping Order.xls
+Junk JaxWorks
+Junk Shipping Order
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Small Business Valuation.xls
+Junk JaxWorks
+Useful Small Business Valuation
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Smoothing Forecast Analysis.xls
+Junk JaxWorks
+Useful Smoothing Forecast
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Startup Budget.xls
+Junk JaxWorks
+Useful Startup Budget
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Startup Capitalization.xls
+Junk JaxWorks
+Useful Startup Capitalization
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Statement of Account.xls
+Junk JaxWorks
+Junk Statement of Account
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Statement of Cash Flows.xls
+Junk JaxWorks
+Junk Statement of Cash Flows
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Stock Balance Record.xls
+Junk JaxWorks
+Junk Stock Balance Record
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Stock Valuator.xls
+Junk JaxWorks
+Junk Stock Valuator
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Store-To-Store Sales.xls
+Junk JaxWorks
+Useful Store-To-Store Sales
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Summary of Key Accounts.xls
+Junk JaxWorks
+Useful Summary of Key Accounts
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Vendor Cost Analysis.xls
+Junk JaxWorks
+Junk Vendor Cost Analysis
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Vendor Evaluation Analysis.xls
+Junk JaxWorks
+Junk Vendor Evaluation Analysis
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Vendor Master File.xls
+Junk JaxWorks
+Junk Vendor Master File
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Wealth Accumulation Analysis.xls
+Junk JaxWorks
+Useful Wealth Accumulation Analysis
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Weekly Cash Flow Projection.xls
+Junk JaxWorks
+Useful Weekly Cash Flow Projection
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Weekly Work Schedule.xls
+Junk JaxWorks
+Junk Weekly Work Schedule
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Yearly Planner.xls
+Junk JaxWorks
+Useful Yearly Planner
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/balloon.xls
+Junk JaxWorks
+Junk 7 Year Baloon Note
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/budget97.xls
+Junk JaxWorks
+Useful Budget97
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/concretelog.xls
+Junk JaxWorks
+Useful CONCRETE BREAKDOWN
+Useful SUMMARY REPORT
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/daily report.xls
+Junk JaxWorks
+Junk DAILY REPORT
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/erad-99-01-tables.xls
+Useful TABLE 1
+Useful TABLE 2
+Useful TABLE 3
+Useful TABLE 4
+Useful TABLE 5
+Junk TABLE 6
+Useful TALBE 7
+Useful TABLE 8
+Useful Appendix. Table1
+Junk Appendix. Table2
+Useful Appendix.Table3
+Useful Appendix. Table 4
+Junk Appendix. Table5
+Junk Appendix. Table6
+Junk Appendix. Table7
+Useful Appendix.Table8
+Useful Appendix. Table9
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/field logs.xls
+Junk JaxWorks
+Junk START HERE
+Junk FIELD PO
+Junk RENTALS
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/fortress.xls
+Useful data1
+Junk data2
+Junk data3
+Junk JaxWorks
+Junk Please Read
+Junk Instructions
+Useful Data Entry
+Useful Budget Forecast Analyzer
+Useful Budget Analysis
+Useful Forecast Budget Analysis
+Useful Product 1
+Useful Product 2
+Useful Product 3
+Useful Product 4
+Useful Product 5
+Useful Product 6
+Useful Sales vs. Budget Report
+Useful Materials
+Useful Labor
+Useful Overhead
+Useful Other Expenses
+Useful Cost of Goods
+Useful Gross Profit
+Useful G&A Operating Expenses
+Useful G&A Payroll Salaries
+Useful Total  G&A Expenses
+Useful Sales Operating Expenses
+Useful Sales Payroll Salaries
+Useful Total Sales Expenses
+Useful Marketing Operating Expenses
+Useful Marketing Payroll Salaries
+Useful Total Marketing Expenses
+Useful R&D Operating Expense
+Useful R&D Payroll Salaries
+Useful Total R&D Expenses
+Useful Total All Operating Expenses
+Useful Earnings Before Income Tax
+Useful Net Income (Loss)
+Junk Copyright
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/freedash.xls
+Junk JaxWorks
+Useful Introduction
+Useful Master Data Entry
+Empty Summary Dashboard
+Useful Cash Flow Statement
+Useful Cash Flow Statement 8 Periods
+Useful Balance Sheet
+Useful Balance Sheet 8 Periods
+Useful BS Summary & What-ifs Charts
+Useful Balance Sheets Charts
+Junk Balance Sheet Projections
+Useful Income Statement
+Useful Income Statement 8 Periods
+Useful Forecast Analysis 8 Years
+Useful Income Summary & What-if Charts
+Useful Income Statement Charts
+Junk Income Projections Charts
+Useful Financial Ratios
+Junk Key Financial Indicators
+Junk Key Financial Ratios Indicators
+Useful Optimal Performance
+Useful Break-Even Analysis 4 Periods
+Useful Bankrupcy Predictions
+Junk Copyright
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/microshots2010.xls
+Useful Make Charts
+Useful Chart Data
+Junk About JaxWorks
+Junk Introduction
+Junk Master Index
+Junk Master Data Entry
+Useful Cash Flow Data Entry
+Junk MicroShots
+Useful Cash Flow 4 Periods
+Useful Cash Flow 8 Periods
+Useful Quick Analysis 4 Periods
+Useful Summary Analysis
+Useful Forecast Analysis
+Useful Financial Summary
+Useful Comp. Income Statement
+Useful Comp. Balance Sheet
+Useful Logit Analysis
+Junk Market Value Explained
+Useful Market Value Analysis
+Useful Payroll Analysis
+Useful Stock Valuation
+Useful Breakdown of Costs
+Junk Z-Score Explained
+Junk Z-Score Analysis (1)
+Junk Z-Score (1) Chart
+Junk Z-Score Analysis (2)
+Junk Z-Score (2) Chart
+Junk Z-Score Analysis (3)
+Junk Z-Score (3) Chart
+Useful Z-Score Analysis
+Useful Return-on-investment analysis
+Useful SB Headcount Analysis
+Useful Corporate Headcount Analysis
+Junk Copyright
+Junk License Agreement
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/neocalc.xls
+Junk JaxWorks
+Junk Start Here
+Useful JaxWorks Break-Even Analysis
+Junk Print Page
+Useful BE Calculations
+Junk Break-Even Analysis Data Entry
+Junk Current BE Chart For Printing
+Junk Projected BE Chart For Printing
+Junk BE Chart Explanation
+Junk Current Pie Chart
+Junk Projected Pie Chart
+Useful Applying Break-Even
+Junk Copyright
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/neoprice.xls
+Junk JaxWorks
+Useful NeoPrice® Pricing Analysis
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/punchlist.xls
+Junk JaxWorks
+Junk Punch List
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/quick.xls
+Junk JaxWorks
+Useful Quick 4 Periods
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/time-progress report.xls
+Junk JaxWorks
+Junk START HERE
+Junk SUPER TIMESHEET
+Junk DOBBS TIMESHEET
+Junk TEMP TIMESHEET
+Junk PROGRESS REPORT
+Junk DATA
