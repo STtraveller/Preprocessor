@@ -28,7 +28,7 @@ totalSearch = len(filenames)
 searchCount = 0
 
 
-# clean up/ creaste the output text file
+# clean up / create the output text file
 
 result = open('result.txt', 'w+', encoding='utf-8')
 result.close()
@@ -101,4 +101,4 @@ for filename in filenames:
 
 # A fun progress bar
 
-    print('Progress: %.2f' % (searchCount / totalSearch * 100) + '%')
+    print('Progress: %.2f' % (searchCount / totalSearch * 100) + '%   ({}/{})'.format(searchCount, totalSearch))
