@@ -50,7 +50,21 @@ for filename in filenames:
         for sheet in workbook.sheet_names:
 
             data = pd.read_excel(filename, sheet, header = None)
+            rows = pd.isnull(data).all(1)
+            cluster = []
+            start = rows[rows == False].index[0]
+            temp = rows[rows == False].index[0]
+            for row in rows[rows == False].index[]:
+                if row <= temp + 1:
+                    temp = row
+                else:
+                    cluster.append([start, temp])
+                    start = row
+                    temp = row
 
+            print(sheet)
+            print(cluster + '\n')
+            '''
             stringCount = 0
             numberCount = 0
             zeroCount = 0
@@ -91,7 +105,7 @@ for filename in filenames:
                 line = 'Useful ' + sheet + '\n'
             result.write(line)
         result.close()
-
+        '''
 # Error handling
 
     except:
