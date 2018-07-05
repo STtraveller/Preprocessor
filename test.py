@@ -14,11 +14,12 @@ from distutils.util import strtobool
 
 extensions = ['*.xls','*.xlsx','*.xlsm']
 filenames = []
-folder = input('(Example) /Users/sunny/Documents/UROP/\nSearch Directory:\n')
-if folder[-1] != '/':
-     folder = folder + '/'
-#folder = './sample spreadsheets/'
-recur = input('Search directory recursively? (True/False))\n')
+#folder = input('(Example) /Users/sunny/Documents/UROP/\nSearch Directory:\n')
+#if folder[-1] != '/':
+#     folder = folder + '/'
+folder = './sample spreadsheets/Jaxworks/Jaxworks/Jaxworks/'
+#recur = input('Search directory recursively? (True/False))\n')
+recur = 'True'
 if bool(strtobool(recur)):
     folder = folder + '**/'
 for extension in extensions:
@@ -50,20 +51,21 @@ for filename in filenames:
         for sheet in workbook.sheet_names:
 
             data = pd.read_excel(filename, sheet, header = None)
-            rows = pd.isnull(data).all(1)
+            # 0 for column, 1 for row
+            rows = pd.isnull(data).all(0)
             cluster = []
             start = rows[rows == False].index[0]
             temp = rows[rows == False].index[0]
-            for row in rows[rows == False].index[]:
+            for row in rows[rows == False].index:
                 if row <= temp + 1:
                     temp = row
                 else:
                     cluster.append([start, temp])
                     start = row
                     temp = row
-
+            cluster.append([start, temp])
             print(sheet)
-            print(cluster + '\n')
+            print(cluster)
             '''
             stringCount = 0
             numberCount = 0
@@ -106,6 +108,7 @@ for filename in filenames:
             result.write(line)
         result.close()
         '''
+        print()
 # Error handling
 
     except:
@@ -115,4 +118,4 @@ for filename in filenames:
 
 # A fun progress bar
 
-    print('Progress: %.2f' % (searchCount / totalSearch * 100) + '%   ({}/{})'.format(searchCount, totalSearch))
+    print('Progress: %.2f' % (searchCount / totalSearch * 100) + '%   ({}/{})\n'.format(searchCount, totalSearch))
