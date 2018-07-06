@@ -77,7 +77,7 @@ for filename in filenames:
                     temp = column
             columnCluster.append([start, temp])
             print(sheet)
-            if len(rowCluster) > len(columnCluster):
+            if len(rowCluster) > len(columnCluster) and len(columnCluster) != 1:
                 print('By Column: ', columnCluster)
             else:
                 print('By Row: ', rowCluster)
