@@ -52,20 +52,35 @@ for filename in filenames:
 
             data = pd.read_excel(filename, sheet, header = None)
             # 0 for column, 1 for row
-            rows = pd.isnull(data).all(0)
-            cluster = []
+            rows = pd.isnull(data).all(1)
+            columns = pd.isnull(data).all(0)
+            rowCluster = []
+            columnCluster = []
             start = rows[rows == False].index[0]
             temp = rows[rows == False].index[0]
             for row in rows[rows == False].index:
                 if row <= temp + 1:
                     temp = row
                 else:
-                    cluster.append([start, temp])
+                    rowCluster.append([start, temp])
                     start = row
                     temp = row
-            cluster.append([start, temp])
+            rowCluster.append([start, temp])
+            start = columns[columns == False].index[0]
+            temp = columns[columns == False].index[0]
+            for column in columns[columns == False].index:
+                if column <= temp + 1:
+                    temp = column
+                else:
+                    columnCluster.append([start, temp])
+                    start = column
+                    temp = column
+            columnCluster.append([start, temp])
             print(sheet)
-            print(cluster)
+            if len(rowCluster) > len(columnCluster):
+                print('By Column: ', columnCluster)
+            else:
+                print('By Row: ', rowCluster)
             '''
             stringCount = 0
             numberCount = 0
