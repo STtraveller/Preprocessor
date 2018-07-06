@@ -79,8 +79,10 @@ for filename in filenames:
             print(sheet)
             if len(rowCluster) > len(columnCluster) and len(columnCluster) != 1:
                 print('By Column: ', columnCluster)
-            else:
+            elif len(rowCluster) != 1:
                 print('By Row: ', rowCluster)
+            else:
+                print('This sheet seems to have one table only')
             '''
             stringCount = 0
             numberCount = 0
