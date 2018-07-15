@@ -83,6 +83,7 @@ for filename in filenames:
                 print('By Row: ', rowCluster)
             else:
                 print('This sheet seems to have one table only')
+            
             '''
             stringCount = 0
             numberCount = 0
@@ -125,6 +126,7 @@ for filename in filenames:
             result.write(line)
         result.close()
         '''
+
         print()
 # Error handling
 
