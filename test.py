@@ -10,6 +10,7 @@ import glob
 import random
 import os
 from distutils.util import strtobool
+from shutil import copy2
 
 
 # get the file list to be searched
@@ -39,7 +40,21 @@ def getTestList():
         things.write(item + '\n')
     things.close()
 
-    
+
+def copyFileToFolder(filelist):
+    for file in filelist:
+        copy2(file,'./test objects')
+
+def readList(filename):
+    file = open(filename, 'r')
+    filelist = file.readlines()
+    file.close()
+    filelist = [item[:-1] for item in filelist]
+    return filelist
+
+def iamlazy():
+    copyFileToFolder(readList('things.txt'))
+
 def main():
 
     filenames = getFiles('/Volumes/SSD/SpreadsheetCorpus', 100)
