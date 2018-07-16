@@ -1,746 +1,212 @@
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/24 Month Sales Forecast.xls
-Junk JaxWorks
-Useful 24 Month Sales Forecast
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/36 Month Sales Forecast.xls
-Junk JaxWorks
-Useful 36 Month Sales Forecast
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/40 column.xls
-Junk JaxWorks
-Useful 40 Column
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/401K Planner.xls
-Junk JaxWorks
-Useful 401K Planner
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/48 Month Sales Forecast.xls
-Junk JaxWorks
-Useful 48 Month Sales Forecast
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/52 Week Sales Record.xls
-Junk JaxWorks
-Useful 52 Week Sales Record
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/5year.xls
-Junk JaxWorks
-Useful 5 Year Projections
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/7 Year  Balloon Loan Amort.xls
-Junk JaxWorks
-Junk 7 Year  Balloon Loan Amort.
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Accounts Payable Aging.xls
-Junk JaxWorks
-Useful Accounts Payable Aging
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Accounts Receivable Aging.xls
-Junk JaxWorks
-Useful Accounts Receivable Aging
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Activity Ratios.xls
-Junk JaxWorks
-Junk Activity Ratios
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Annual Direct Labor Analysis.xls
-Junk JaxWorks
-Useful Annual Direct Labor Analysis
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Approval To Hire Request.xls
-Junk JaxWorks
-Junk Approval To Hire Request
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Auto Expense Report.xls
-Junk JaxWorks
-Useful Auto Expense Report
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Average Selling Price Analysis.xls
-Junk JaxWorks
+./test objects/01sumdat_NO2.xls
+Junk NO2
+./test objects/020cd58e-de1b-447d-890e-a89e20deaf9f.xls
+./test objects/020cd58e-de1b-447d-890e-a89e20deaf9f.xls has error.
+./test objects/063f3da1-97fc-484d-ab3c-346b8c4e70ae.xls
+Junk Junior Women
+./test objects/190e7880-38d1-4389-8b8e-8cab33c1ed94.xls
+Junk Sheet1
+./test objects/1c3f56f7-8b9a-4e00-82dd-38742babadcf.xls
+Junk Metadata - Indicators
+./test objects/20030114144840!Superi#A7DEA_General Rev 3 .xls
+Useful General Rev 3 
+./test objects/20889ab9-e837-4d23-897b-25809bdacf71.xls
+Junk Sheet1
+./test objects/2513a866-d0af-4b19-b036-7b016a96e6f5.xls
+Junk Metadata - Indicators
+./test objects/26e05f78-53cc-436e-9677-af8579301695.xls
+Useful Kloeckner  CO SE NA
+./test objects/613d4d5b-84f7-41b6-97b3-1aaab9def13b.xls
+./test objects/613d4d5b-84f7-41b6-97b3-1aaab9def13b.xls has error.
+./test objects/621a8a1f-c9ba-44f2-8c77-4ff9a50f0597.xls
+Junk Elite Women
+./test objects/68a0a023-5408-4227-a4f2-557665b59512.xls
+Junk analytica 2012
+./test objects/6d79bd25-3561-4c5e-94c7-e695ccf731c7.xls
+Junk 50-54 Female AG
+./test objects/7d97910c-afb1-485d-85a3-11ad5a507809.xls
+Junk 75-79 Male AG Sprint
+./test objects/8f823b0e-38d2-449a-8623-e05ce414d0f9.xls
+./test objects/8f823b0e-38d2-449a-8623-e05ce414d0f9.xls has error.
+./test objects/AR06-LD010.xls
+Useful South Asia
+./test objects/AR06-LD020.xls
+Useful Cumulative Lending
+./test objects/Annexe_20IV_2Cycle_20FNUD_20Budget_20de_20Projet_UN_20EXE_FR.xls
+Junk UNDEF Project Budget
+./test objects/Average Selling Price Analysis.xls
 Useful Average Selling Price Analysis
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Avertising Expenditures-Media.xls
-Junk JaxWorks
-Useful Avertising Expenditures-Media
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Backorder Control.xls
-Junk JaxWorks
-Junk Backorder Control
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Balance Sheet.xls
-Junk JaxWorks
+./test objects/Balance Sheet.xls
 Junk Balance Sheet
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Balanced Scorecard.xls
-Junk JaxWorks
-Junk Introduction
-Junk 1 - Process Inputs Checklist
-Junk 2 - Development Timeline
-Junk 3 -Team Formation Checklist
-Junk 4 - Core Team Checklist
-Junk 5 - Establish Goals
-Junk 6 - Themes Checklist
-Junk 7 - Strategic Map
-Junk 8 - Measurement Definition
-Junk 9 - Measurement Summary
-Junk 10 - Lag Lead Comparison
-Junk 11 - Target Checklist
-Junk 12 - Program Attributes
-Junk 13 - Program Selection Grid
-Junk 14 - O - M - T - P Summary
-Junk 15 - Control vs Strategic
-Junk 16 - Generic Model
-Junk 17 - Measurement Basics
-Junk 18 - Implementation Plan
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Basic Invoice.xls
-Junk JaxWorks
-Junk Basic Invoice
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Bill of Ladding.xls
-Junk JaxWorks
-Junk Bill of Ladding
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Break-Even Analysis (2).xls
-Junk JaxWorks
-Useful Break-Even Analysis (2)
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Break-Even Analysis (3).xls
-Junk JaxWorks
-Useful Break-Even
-Junk BE Analysis
-Useful BE Calculations
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Break-Even Analysis.xls
-Junk JaxWorks
-Useful Break-Even Analysis
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Break-Even CIA.xls
-Junk JaxWorks
+./test objects/Break-Even CIA.xls
 Useful Break_Even CIA
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Break-Even Chart.xls
-Junk JaxWorks
-Useful Break-Even Chart
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Break-Even Simple.xls
-Junk JaxWorks
-Useful Break-Even Simple
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Budget Plan.xls
-Junk JaxWorks
-Junk Budget
-Junk Summary
-Junk Adm. Expenses
-Junk Service Expenses
-Junk Income Details
-Junk Selling Expense
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Budget-5 Profit Centers.xls
-Junk JaxWorks
-Useful Budget-5 Profit Centers
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Business Acquisition Worksheet.xls
-Junk JaxWorks
-Useful Business Acquisition Worksheet
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Business Indebtedness.xls
-Junk JaxWorks
-Junk Business Indebtedness
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Business Loan Proceeds.xls
-Junk JaxWorks
-Junk Business Loan Proceeds
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Business Plan Sample.xls
-Junk JaxWorks
-Junk Business Plan Sample
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Business Valuation.xls
-Junk JaxWorks
-Useful Small Business Valuation
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Cash Budget.xls
-Junk JaxWorks
-Useful Cash Budget
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Cash Flow 4 Yrs Quarterly.xls
-Junk JaxWorks
-Useful Cash Flow 4 Yrs Quarterly
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Cash Flow Forecast 12 Months.xls
-Junk JaxWorks
-Useful Cash Flow Forecast 12 Months
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Cash Flow Sensitivity Analysis.xls
-Junk JaxWorks
+./test objects/CSC%20101%20Computer%#A7FA0.xls
+Useful Grades CSC 101
+./test objects/Cash Flow Sensitivity Analysis.xls
 Useful Cash Flow Sensitivity Analysis
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Commercial Loan Checklist.xls
-Junk JaxWorks
-Junk Commercial Loan Checklist
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Commission Report.xls
-Junk JaxWorks
-Useful Commission Report
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Company Property Receipt.xls
-Junk JaxWorks
+./test objects/Company Property Receipt.xls
 Junk Company Property Receipt
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Comparative Business Income.xls
-Junk JaxWorks
-Useful Comparative Business Income
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Comparative Contribution Income.xls
-Junk JaxWorks
-Useful Comparative Contribution Income
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Comparative Earnings Analysis.xls
-Junk JaxWorks
-Useful Comparative Earnings Analysis
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Comparative Taxable Income.xls
-Junk JaxWorks
-Useful Comparative Taxable Income
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Corporate Analysis.xls
-Junk JaxWorks
-Useful Data Entry
-Useful Income Statement
-Useful Balance Sheet
-Useful Cash Flow Statement
-Useful Cash Flow Projections
-Junk Data Chart
-Junk Asset Chart
-Junk Income Chart
-Junk Copyright
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Corporate Earnings Analysis.xls
-Junk JaxWorks
-Useful Corporate Earnings Analysis
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Credit Application.xls
-Junk JaxWorks
-Junk Credit Application
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Credit Control List.xls
-Junk JaxWorks
-Junk Credit Control List
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Credit History.xls
-Junk JaxWorks
+./test objects/Credit History.xls
 Junk Credit History
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Customer Ledger.xls
-Junk JaxWorks
-Junk Customer Ledger
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Daily Production Report.xls
-Junk JaxWorks
-Junk Daily Production Report
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Daily Time Sheet-Services Rendered.xls
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Daily Time Sheet-Services Rendered.xls has error.
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Daily Time Sheet.xls
-Junk JaxWorks
-Junk Daily Time Sheet
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Dashboard.xls
-Junk JaxWorks
-Junk DashBoard
-Useful Data Entry
-Junk Chart 1
-Junk Chart 2
-Junk Chart 3
-Junk Chart 4
-Junk Chart 5
-Junk Chart 6
-Junk Chart 7
-Junk Chart 8
-Junk Chart 9
-Junk Chart 10
-Junk Chart 11
-Junk Chart 12
-Junk Chart 13
-Junk Chart 14
-Junk Chart 15
-Junk Chart 16
-Junk Chart 17
-Junk Chart 18
-Junk Chart 19
-Junk Chart 20
-Junk Chart 21
-Junk Chart 22
-Junk Chart 23
-Junk Chart 24
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Debt Ratios.xls
-Junk JaxWorks
-Junk Debt Ratios
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Direct Advertising Response.xls
-Junk JaxWorks
-Useful Direct Advertising Response
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Direct Marketing Analysis.xls
-Junk JaxWorks
-Junk Direct Marketing Analysis
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Employee Change Record.xls
-Junk JaxWorks
-Junk Employee Change Record
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Employee Orientation.xls
-Junk JaxWorks
-Junk Employee Orientation
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Employee Performance Review.xls
-Junk JaxWorks
+./test objects/DDAA_HW_C-5.4.xls
+Junk C-5.4
+./test objects/DJSI_World_Review_200#A8121.xls
+Junk Adds
+./test objects/EN.ATM.CO2E.PC_Indicator_MetaData_en_EXCEL.xls
+Junk Sheet2
+./test objects/Employee Performance Review.xls
 Junk Employee Performance Review
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Employee Self Evaluation.xls
-Junk JaxWorks
-Junk Employee Self Evaluation
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Employee Termination.xls
-Junk JaxWorks
-Junk Employee Termination
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Employee Time Sheet.xls
-Junk JaxWorks
-Useful Employee Time Sheet
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Entrepreneurial Test.xls
-Empty JaxWorks
-Junk Test
-Junk Score
-Junk Reset
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Estimating Start-Up Capital.xls
-Junk JaxWorks
-Useful Estimating Start-Up Capital
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Expense Budget.xls
-Junk JaxWorks
-Useful Expense Budget
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Expense Report.xls
-Junk JaxWorks
-Useful Expense Report
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Financial Calculator.xls
-Junk JaxWorks
-Junk Financial Calculator
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Financial Comparison Analysis.xls
-Junk JaxWorks
-Useful Financial Comparison Analysis
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Financial Forecast Analysis 8 yrs.xls
-Junk JaxWorks
-Useful Data Entry
-Useful Financial Analysis
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Financial Statement Ratios.xls
-Junk JaxWorks
-Useful Financial Statement Ratios
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Financial Toys.xls
-Junk JaxWorks
-Junk TB Per. & YTD Comp.  3-2000
-Junk BS  3-2000
-Junk BS & PY Comp.  3-2000
-Junk CF Per. & YTD Comp. 3-2000
-Junk CF Rolling 12 Per. 3-2000
-Junk IS Per. & YTD Comp 3-2000
-Junk IS Rolling 12 Per 3-2000
-Junk IS Rolling 4 Qtr Q4-FY 2000
-Junk IS Year by Per FY2000
-Junk IS Year by Qtr FY2000
-Junk COSComp Chart 3-2000
-Useful RevExp Chart 3-2000
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Five Year Projections.xls
-Junk JaxWorks
-Useful Five Year Projections
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Fixed Asset Record.xls
-Junk JaxWorks
-Junk Fixed Asset Record
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Flexible Budget.xls
-Junk JaxWorks
-Useful Flexible Budget
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/G&A Expense Budget.xls
-Junk JaxWorks
+./test objects/FAS%20To%20Oracle%20O#A8C0F.xls
+Junk ALL
+./test objects/FinRep2000-01%20AGM2003.xls
+Useful FinResRep 01-00-99
+./test objects/FinStmtEx.xls
+Junk Sheet5
+./test objects/Fleetinventsample.xls
+Empty Sheet3
+./test objects/G&A Expense Budget.xls
 Useful G&A Expense Budget
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Headcount Analysis.xls
-Junk JaxWorks
-Junk Read Me First
-Useful Worksheet 1
-Useful Worksheet 2
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Income Statement.xls
-Junk JaxWorks
-Useful Income Statement
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Industry Analysis.xls
-Useful Statistics
-Junk JaxWorks
-Useful Industry Analysis
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Inspection Report.xls
-Junk JaxWorks
+./test objects/GHGLULUCFTimeSeries.xls
+Junk GHG
+./test objects/Homework%20Data%20Ent#A9327.xls
+Empty Sheet3
+./test objects/IE.ICT.TOTL.GD.ZS_Indicator_MetaData_en_EXCEL.xls
+Junk Sheet2
+./test objects/Inspection Report.xls
 Junk Inspection Report
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Insurance Coverage Report.xls
-Junk JaxWorks
-Useful Insurance Coverage Report
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Job Estimate.xls
-Junk JaxWorks
-Junk Job Estimate
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Liquidity Analysis & Ratios.xls
-Junk JaxWorks
-Junk Liquidity Analysis & Ratios
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Loan Tree.xls
-Junk JaxWorks
+./test objects/Loan Tree.xls
 Junk Loan Approval Qualifier
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Manufacturing Overhead Budget.xls
-Junk JaxWorks
-Useful Manufacturing Overhead Budget
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Marketing Analysis.xls
-Junk JaxWorks
-Junk Sheet Index
-Junk Ad & Promo Budget
-Junk Ad Costs Planning
-Junk Ad Promo & Sales Budget
-Junk Ad Spending by Month
-Junk Agency Selection Matrix
-Junk Average-Cost Pricing
-Junk Break-Even
-Junk Code Master List
-Junk Collateral Planning Matrix
-Junk Commission Sales Forecast
-Junk Comparative Sales Performance
-Junk Competitive Analysis
-Junk Competitive Cost History
-Junk Competitive Pricing History
-Junk Contribution Margin Statement
-Junk Cost Classifications
-Junk Direct Mail Analysis
-Junk Estimating Impact
-Junk Income Statement Each Product
-Junk Launch
-Junk Marketing Budget
-Junk Operating Budget
-Junk P&L One Month
-Junk Planning & Control-Department
-Junk Price Change Effect
-Junk Profit by Channel
-Useful Sales Forecast & Analysis
-Junk Sales of Competitors
-Junk Sales Performance by Region
-Junk Sales Promotion Plan & Budget
-Junk Sales Rep Comparative Cost
-Useful Sales Source Analysis
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Marketing Calculators.xls
-Junk JaxWorks
-Junk Marketing Calculators
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Marketing Personnel Expenses.xls
-Junk JaxWorks
-Useful Marketing Personnel Expenses
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Media Budget by Quarter.xls
-Junk JaxWorks
-Useful Media Budget by Quarter
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Media Forecast.xls
-Junk JaxWorks
-Useful Media Forecast
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Merchandise Plan.xls
-Junk JaxWorks
-Useful Merchandise Plan
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Merchandise Return.xls
-Junk JaxWorks
-Junk Merchandise Return
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Monthly Sales Projections.xls
-Junk JaxWorks
-Useful Monthly Sales Projections
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Moving Average Sales Forecast.xls
-Junk JaxWorks
-Useful Moving Average Sales Forecast
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/New Employee Record Chart.xls
-Junk JaxWorks
-Junk New Employee Record Chart
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/New Product Sales Forecast.xls
-Junk JaxWorks
-Junk New Product Sales Forecast
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/One Year Project Process Report.xls
-Junk JaxWorks
-Junk One Year Project Process Report
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Overdue Account File.xls
-Junk JaxWorks
-Junk Overdue Account File
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Parts Inventory.xls
-Junk JaxWorks
-Junk Parts Inventory
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Payback Analysis.xls
-Junk JaxWorks
-Useful Payback Analysis
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Perpetual Inventory Control.xls
-Junk JaxWorks
-Junk Perpetual Inventory Control
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Personal Wealth Analysis.xls
-Junk JaxWorks
-Useful Personal Wealth Analysis
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Personnel Activity Report.xls
-Junk JaxWorks
-Useful Personnel Activity Report
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Present Value Mixed Stream.xls
-Junk JaxWorks
-Useful Present Value Mixed Stream
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Price Estimate For Services.xls
-Junk JaxWorks
-Useful Price Estimate For Services
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Price Line Sales Projections.xls
-Junk JaxWorks
-Useful Price Line Sales Projections
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Pro-Forma Balance Sheet.xls
-Junk JaxWorks
-Useful Pro-Forma Balance Sheet
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Pro-Forma Income Statement.xls
-Junk JaxWorks
-Useful Pro-Forma Income Statement
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Product Sales Goals.xls
-Junk JaxWorks
-Useful Product Sales Goals
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Production Reject Report.xls
-Junk JaxWorks
-Junk Production Reject Report
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Profitability Ratios.xls
-Junk JaxWorks
-Junk Profitability Ratios
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Project Cost Summary.xls
-Junk JaxWorks
-Useful Project Cost Summary
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Puchases Log.xls
-Junk JaxWorks
-Junk Puchases Log
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Purchase Order.xls
-Junk JaxWorks
-Junk Purchase Order
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Quarterly Budget Analysis.xls
-Junk JaxWorks
-Useful Quarterly Budget Analysis
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Quarterly Cash Flow Projection.xls
-Junk JaxWorks
-Useful Quarterly Cash Flow Projection
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Quarterly Marketing Budget.xls
-Junk JaxWorks
-Useful Quarterly Marketing Budget
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Quarterly Sales Record.xls
-Junk JaxWorks
+./test objects/NAM_Country_MetaData_en_EXCEL.xls
+Junk Sheet2
+./test objects/NE.CON.PETC.KN_Indicator_MetaData_en_EXCEL.xls
+Junk Sheet2
+./test objects/NYSE.xlsx
+Empty Sheet3
+./test objects/Peru-EEA_D_Manufactura_2006.xls
+Empty Wcap01
+./test objects/Pete310GradeMAB.xls
+Empty Graph_exams
+./test objects/Philippines_admin_ARMM.xls
+Junk Philippines_admin_Region1
+./test objects/Pnk_0610.xls
+Useful Pink Sheet
+./test objects/Quarterly Sales Record.xls
 Useful Quarterly Sales Record
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Quotation Evaluation.xls
-Junk JaxWorks
-Junk Quotation Evaluation
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Quotation Record.xls
-Junk JaxWorks
-Junk Quotation Record
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Ratio Analysis-Detailed.xls
-Junk JaxWorks
-Junk Index
-Junk Instructions
-Empty Ratios Introduction
-Useful Income Statement
-Useful Balance Sheet
-Useful EPS
-Useful GP Margin
-Useful NP Margin
-Junk ROA
-Useful ROE
-Useful Current Ratio
-Useful Quick Ratio
-Useful ACP
-Useful ITO
-Useful Debt Ratio
-Useful Equity Ratio
-Useful TIE
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Ratio Analysis.xls
-Junk JaxWorks
-Useful Ratio Analysis
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Receipt For Goods.xls
-Junk JaxWorks
-Junk Receipt For Goods
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Receiving Report.xls
-Junk JaxWorks
-Junk Receiving Report
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Request For Quotation.xls
-Junk JaxWorks
+./test objects/Request For Quotation.xls
 Junk Request For Quotation
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Sales Activity Report.xls
-Junk JaxWorks
-Junk Sales Activity Report
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Sales Budget.xls
-Junk JaxWorks
-Junk Sales Budget
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Sales Channel Analysis.xls
-Junk JaxWorks
+./test objects/SH.DYN.CHLD.MA_Indicator_MetaData_en_EXCEL.xls
+Junk Sheet2
+./test objects/Sales Channel Analysis.xls
 Useful Sales Channel Analysis
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Sales Promotion Expenses.xls
-Junk JaxWorks
-Useful Sales Promotion Expenses
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Sales Quotation.xls
-Junk JaxWorks
-Junk Sales Quotation
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Sales Revenue Report.xls
-Junk JaxWorks
-Useful Sales Revenue Report
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Sales Seasonality by Month.xls
-Junk JaxWorks
-Useful Sales Seasonality by Month
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Sales Trend Analysis.xls
-Junk JaxWorks
-Junk Sales Trend Analysis
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Shipping Order.xls
-Junk JaxWorks
-Junk Shipping Order
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Small Business Valuation.xls
-Junk JaxWorks
-Useful Small Business Valuation
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Smoothing Forecast Analysis.xls
-Junk JaxWorks
-Useful Smoothing Forecast
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Startup Budget.xls
-Junk JaxWorks
-Useful Startup Budget
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Startup Capitalization.xls
-Junk JaxWorks
-Useful Startup Capitalization
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Statement of Account.xls
-Junk JaxWorks
-Junk Statement of Account
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Statement of Cash Flows.xls
-Junk JaxWorks
+./test objects/SectionJ01b_T&M Type.xls
+Junk T&M Type
+./test objects/SectionJ01b_Total LOE.xls
+Useful Total LOE
+./test objects/Software_inventory_sheet.xls
+Empty Sheet3
+./test objects/Statement of Cash Flows.xls
 Junk Statement of Cash Flows
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Stock Balance Record.xls
-Junk JaxWorks
-Junk Stock Balance Record
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Stock Valuator.xls
-Junk JaxWorks
-Junk Stock Valuator
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Store-To-Store Sales.xls
-Junk JaxWorks
-Useful Store-To-Store Sales
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Summary of Key Accounts.xls
-Junk JaxWorks
-Useful Summary of Key Accounts
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Vendor Cost Analysis.xls
-Junk JaxWorks
-Junk Vendor Cost Analysis
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Vendor Evaluation Analysis.xls
-Junk JaxWorks
-Junk Vendor Evaluation Analysis
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Vendor Master File.xls
-Junk JaxWorks
-Junk Vendor Master File
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Wealth Accumulation Analysis.xls
-Junk JaxWorks
-Useful Wealth Accumulation Analysis
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Weekly Cash Flow Projection.xls
-Junk JaxWorks
-Useful Weekly Cash Flow Projection
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Weekly Work Schedule.xls
-Junk JaxWorks
-Junk Weekly Work Schedule
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Yearly Planner.xls
-Junk JaxWorks
-Useful Yearly Planner
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/balloon.xls
-Junk JaxWorks
-Junk 7 Year Baloon Note
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/budget97.xls
-Junk JaxWorks
-Useful Budget97
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/concretelog.xls
-Junk JaxWorks
-Useful CONCRETE BREAKDOWN
-Useful SUMMARY REPORT
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/daily report.xls
-Junk JaxWorks
-Junk DAILY REPORT
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/erad-99-01-tables.xls
-Useful TABLE 1
-Useful TABLE 2
-Useful TABLE 3
-Useful TABLE 4
-Useful TABLE 5
-Junk TABLE 6
-Useful TALBE 7
-Useful TABLE 8
-Useful Appendix. Table1
-Junk Appendix. Table2
-Useful Appendix.Table3
-Useful Appendix. Table 4
-Junk Appendix. Table5
-Junk Appendix. Table6
-Junk Appendix. Table7
-Useful Appendix.Table8
-Useful Appendix. Table9
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/field logs.xls
-Junk JaxWorks
-Junk START HERE
-Junk FIELD PO
-Junk RENTALS
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/fortress.xls
-Useful data1
-Junk data2
-Junk data3
-Junk JaxWorks
-Junk Please Read
-Junk Instructions
-Useful Data Entry
-Useful Budget Forecast Analyzer
-Useful Budget Analysis
-Useful Forecast Budget Analysis
-Useful Product 1
-Useful Product 2
-Useful Product 3
-Useful Product 4
-Useful Product 5
-Useful Product 6
-Useful Sales vs. Budget Report
-Useful Materials
-Useful Labor
-Useful Overhead
-Useful Other Expenses
-Useful Cost of Goods
-Useful Gross Profit
-Useful G&A Operating Expenses
-Useful G&A Payroll Salaries
-Useful Total  G&A Expenses
-Useful Sales Operating Expenses
-Useful Sales Payroll Salaries
-Useful Total Sales Expenses
-Useful Marketing Operating Expenses
-Useful Marketing Payroll Salaries
-Useful Total Marketing Expenses
-Useful R&D Operating Expense
-Useful R&D Payroll Salaries
-Useful Total R&D Expenses
-Useful Total All Operating Expenses
-Useful Earnings Before Income Tax
-Useful Net Income (Loss)
-Junk Copyright
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/freedash.xls
-Junk JaxWorks
-Useful Introduction
-Useful Master Data Entry
-Empty Summary Dashboard
-Useful Cash Flow Statement
-Useful Cash Flow Statement 8 Periods
-Useful Balance Sheet
-Useful Balance Sheet 8 Periods
-Useful BS Summary & What-ifs Charts
-Useful Balance Sheets Charts
-Junk Balance Sheet Projections
-Useful Income Statement
-Useful Income Statement 8 Periods
-Useful Forecast Analysis 8 Years
-Useful Income Summary & What-if Charts
-Useful Income Statement Charts
-Junk Income Projections Charts
-Useful Financial Ratios
-Junk Key Financial Indicators
-Junk Key Financial Ratios Indicators
-Useful Optimal Performance
-Useful Break-Even Analysis 4 Periods
-Useful Bankrupcy Predictions
-Junk Copyright
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/microshots2010.xls
-Useful Make Charts
+./test objects/T4.Remittance_Estimates_using_Migrant_Stocks_Host_Country_Incomes_and_Sending_Country_Incomes_2010.xls
+Junk bilatRemit_C
+./test objects/V3_table1.xls
+Junk tables (2)
+./test objects/WebGrading.xls
+Empty Sheet3
+./test objects/adaptivepath_contenti#A7C29.xls
+Junk inventory sample
+./test objects/benjamin_rogers__1084__E2 Investor List.xlsx
+Junk Pittsburgh
+./test objects/benjamin_rogers__1091__E2 Investor List.xlsx
+Junk Pittsburgh
+./test objects/budget.xls
+Junk Support communities which need
+./test objects/c274438e-2b33-4e0c-b8c5-c43cb5865e09.xls
+Junk Metadata - Indicators
+./test objects/chris_germany__1883__nymx.xlsx
+Useful 2001 JT
+./test objects/craig_dean__4445__Bike to Beach '01.xlsx
+Empty Sheet3
+./test objects/daren_farmer__5218__BMSPT051.xlsx
+Useful BMSPT066
+./test objects/daren_farmer__5420__hpl0818.xlsx
+Empty Sheet3
+./test objects/daren_farmer__5910__leak.xlsx
+Useful VOLUME
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx
+Useful burlington
+./test objects/diana_scholtes__8556__West Power Cash 01162002.xlsx
+Junk Contact List
+./test objects/draft_sf3profile.xls
+Useful DP-4
+./test objects/e1d6bc12-7d87-405c-b458-cc728ffb4f7c.xls
+Junk Sheet1
+./test objects/eecs1.generic_grade_sheet.xls
+Junk Lab Scores
+./test objects/elizabeth_sager__9543__EAST SUMMARY TOP COUNTERPARTIES ALL REGIONS.xlsx
+Useful OFF-PEAK
+./test objects/fastfacts03_feeder.xls
+Useful feeder
+./test objects/fastfacts03_personnel.xls
+Useful personnel
+./test objects/fin_accounts_WIAL.xls
+Useful WIAL
+./test objects/financial-notes_note 3-5.xls
+Useful note 3-5
+./test objects/fletcher_sturm__10953__1130optsheet.xlsx
+Junk sheet 1
+./test objects/g12.xls
+Useful G12
+./test objects/harry_arora__12164__ce vol-May.xlsx
 Useful Chart Data
-Junk About JaxWorks
-Junk Introduction
-Junk Master Index
-Junk Master Data Entry
-Useful Cash Flow Data Entry
-Junk MicroShots
-Useful Cash Flow 4 Periods
-Useful Cash Flow 8 Periods
-Useful Quick Analysis 4 Periods
-Useful Summary Analysis
-Useful Forecast Analysis
-Useful Financial Summary
-Useful Comp. Income Statement
-Useful Comp. Balance Sheet
-Useful Logit Analysis
-Junk Market Value Explained
-Useful Market Value Analysis
-Useful Payroll Analysis
-Useful Stock Valuation
-Useful Breakdown of Costs
-Junk Z-Score Explained
-Junk Z-Score Analysis (1)
-Junk Z-Score (1) Chart
-Junk Z-Score Analysis (2)
-Junk Z-Score (2) Chart
-Junk Z-Score Analysis (3)
-Junk Z-Score (3) Chart
-Useful Z-Score Analysis
-Useful Return-on-investment analysis
-Useful SB Headcount Analysis
-Useful Corporate Headcount Analysis
+./test objects/inc_exp_Income.xls
+Junk Income
+./test objects/jane_tholt__13155__Staff No. 01.xlsx
+Junk FERC FR Cap Rel 9-19-01 
+./test objects/joe_parks__15054__BGM 0618 ngpl.xlsx
+Junk mtd
+./test objects/john_griffith__16153__1_25_02GO.xlsx
+Empty Sheet3
+./test objects/john_zufferli__16705__Sisson Casion Deal Calculation.xlsx
+Junk Calc. (july 26)
+./test objects/jonathan_mckay__17476__Quotes21.xlsx
+Junk jonathan_mckay__17476__Quotes21
+./test objects/kam_keiser__17838__West.xlsx
+Useful Basis&Index
+./test objects/kate_symes__18887__Palo.xlsx
+Useful DJ Palo Verde Electricity Index
+./test objects/lindy_donoho__21973__Valuationprojects.xlsx
+Empty Sheet3
+./test objects/lspreport_02feb04.xls
+Junk Codes
+./test objects/mark_taylor__24983__Friday Week 2.xlsx
+Empty Sheet3
+./test objects/michelle_lokay__26777__010524al.xlsx
+Junk LetterSizeRegionLoc 
+./test objects/monika_causholli__28291__October Flash Report.xlsx
+Useful .xls)September Template
+./test objects/municipal_waste_treatment_citylevel.xls
+Useful R6_MWtreatment
+./test objects/neocalc.xls
 Junk Copyright
-Junk License Agreement
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/neocalc.xls
-Junk JaxWorks
-Junk Start Here
-Useful JaxWorks Break-Even Analysis
-Junk Print Page
-Useful BE Calculations
-Junk Break-Even Analysis Data Entry
-Junk Current BE Chart For Printing
-Junk Projected BE Chart For Printing
-Junk BE Chart Explanation
-Junk Current Pie Chart
-Junk Projected Pie Chart
-Useful Applying Break-Even
-Junk Copyright
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/neoprice.xls
-Junk JaxWorks
-Useful NeoPrice® Pricing Analysis
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/punchlist.xls
-Junk JaxWorks
-Junk Punch List
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/quick.xls
-Junk JaxWorks
-Useful Quick 4 Periods
-/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/time-progress report.xls
-Junk JaxWorks
-Junk START HERE
-Junk SUPER TIMESHEET
-Junk DOBBS TIMESHEET
-Junk TEMP TIMESHEET
-Junk PROGRESS REPORT
-Junk DATA
+./test objects/p36_Sheet1.xls
+Useful Sheet1
+./test objects/phillip_platter__31420__New SC checklist.xlsx
+Empty Sheet3
+./test objects/ribimv001_Static RoI calc '02.xls
+Useful Static RoI calc '02
+./test objects/rick_buy__32669__Log as of 12 dec 00.xlsx
+Junk Bridgeline
+./test objects/robin_rodrigue__33215__IMCan_Gas_Bench.xlsx
+Junk GRMS Detail
+./test objects/sara_shackleton__36424__TBVITFund ISDA.xlsx
+Junk Instructions
+./test objects/sara_shackleton__36443__050800pgas.xlsx
+Empty Sheet3
+./test objects/scott_neal__37937__Stgbkrpt.xlsx
+Useful Sheet1
+./test objects/tables_Table 1.xls
+Useful Table 1
+./test objects/tracy_geaccone__40618__1stQTRForePipes.xlsx
+Junk Tab 1
+./test objects/yef00_General State Financial Aid.xls
+Useful General State Financial Aid

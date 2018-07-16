@@ -9,8 +9,8 @@ import math
 import glob
 import random
 import os
+import shutil
 from distutils.util import strtobool
-from shutil import copy2
 
 
 # get the file list to be searched
@@ -34,16 +34,22 @@ def getFiles(scope, number):
     return filenames
 
 
-def getTestList():
-    things = open('things.txt', 'w+')
-    for item in getFiles('/Volumes/SSD/SpreadsheetCorpus', 15):
+def getTestList(filename, searchingDir, number):
+    things = open(filename, 'w+')
+    for item in getFiles(searchingDir, number):
         things.write(item + '\n')
     things.close()
 
 
 def copyFileToFolder(filelist):
-    for file in filelist:
-        copy2(file,'./test objects')
+    try:
+        shutil.rmtree('./test objects')
+    except FileNotFoundError:
+        pass
+    finally:
+        os.mkdir('test objects')
+        for file in filelist:
+            shutil.copy2(file,'./test objects')
 
 def readList(filename):
     file = open(filename, 'r')
@@ -55,12 +61,20 @@ def readList(filename):
 def iamlazy():
     copyFileToFolder(readList('things.txt'))
 
+def lazyMain():
+    getTestList('things.txt', '/Volumes/SSD/SpreadsheetCorpus', 15)
+    iamlazy()
+    main()
+
 def main():
 
-    filenames = getFiles('/Volumes/SSD/SpreadsheetCorpus', 100)
+    filenames = []
+    testObjectDirectory = './test objects/'
+    for file in os.listdir(testObjectDirectory):
+        filenames.append(testObjectDirectory + file)
+    filenames.sort()
     totalSearch = len(filenames)
     searchCount = 0
-
 
     # clean up / create the output text file
 
