@@ -1,0 +1,107 @@
+/Volumes/SSD/SpreadsheetCorpus/EUSES-Spreadsheet-Corpus/EUSES-Spreadsheet-Corpus/financial/processed/DJSI_World_Review_200#A8121.xls
+/Volumes/SSD/SpreadsheetCorpus/EUSES-Spreadsheet-Corpus/EUSES-Spreadsheet-Corpus/financial/processed/FinRep2000-01%20AGM2003.xls
+/Volumes/SSD/SpreadsheetCorpus/EUSES-Spreadsheet-Corpus/EUSES-Spreadsheet-Corpus/grades/processed/CSC%20101%20Computer%#A7FA0.xls
+/Volumes/SSD/SpreadsheetCorpus/EUSES-Spreadsheet-Corpus/EUSES-Spreadsheet-Corpus/grades/processed/Pete310GradeMAB.xls
+/Volumes/SSD/SpreadsheetCorpus/EUSES-Spreadsheet-Corpus/EUSES-Spreadsheet-Corpus/grades/processed/WebGrading.xls
+/Volumes/SSD/SpreadsheetCorpus/EUSES-Spreadsheet-Corpus/EUSES-Spreadsheet-Corpus/grades/processed/draft_sf3profile.xls
+/Volumes/SSD/SpreadsheetCorpus/EUSES-Spreadsheet-Corpus/EUSES-Spreadsheet-Corpus/homework/duplicates/eecs1.generic_grade_sheet.xls
+/Volumes/SSD/SpreadsheetCorpus/EUSES-Spreadsheet-Corpus/EUSES-Spreadsheet-Corpus/homework/processed/Homework%20Data%20Ent#A9327.xls
+/Volumes/SSD/SpreadsheetCorpus/EUSES-Spreadsheet-Corpus/EUSES-Spreadsheet-Corpus/homework/processed/budget.xls
+/Volumes/SSD/SpreadsheetCorpus/EUSES-Spreadsheet-Corpus/EUSES-Spreadsheet-Corpus/inventory/duplicates/FinStmtEx.xls
+/Volumes/SSD/SpreadsheetCorpus/EUSES-Spreadsheet-Corpus/EUSES-Spreadsheet-Corpus/inventory/processed/FAS%20To%20Oracle%20O#A8C0F.xls
+/Volumes/SSD/SpreadsheetCorpus/EUSES-Spreadsheet-Corpus/EUSES-Spreadsheet-Corpus/inventory/processed/Fleetinventsample.xls
+/Volumes/SSD/SpreadsheetCorpus/EUSES-Spreadsheet-Corpus/EUSES-Spreadsheet-Corpus/inventory/processed/Software_inventory_sheet.xls
+/Volumes/SSD/SpreadsheetCorpus/EUSES-Spreadsheet-Corpus/EUSES-Spreadsheet-Corpus/inventory/processed/adaptivepath_contenti#A7C29.xls
+/Volumes/SSD/SpreadsheetCorpus/EUSES-Spreadsheet-Corpus/EUSES-Spreadsheet-Corpus/inventory/processed/g12.xls
+/Volumes/SSD/SpreadsheetCorpus/Enron corpus by Hermans/spreadsheets/benjamin_rogers__1091__E2 Investor List.xlsx
+/Volumes/SSD/SpreadsheetCorpus/Enron corpus by Hermans/spreadsheets/chris_germany__1883__nymx.xlsx
+/Volumes/SSD/SpreadsheetCorpus/Enron corpus by Hermans/spreadsheets/craig_dean__4445__Bike to Beach '01.xlsx
+/Volumes/SSD/SpreadsheetCorpus/Enron corpus by Hermans/spreadsheets/daren_farmer__5910__leak.xlsx
+/Volumes/SSD/SpreadsheetCorpus/Enron corpus by Hermans/spreadsheets/darrell_schoolcraft__7334__imball0203.xlsx
+/Volumes/SSD/SpreadsheetCorpus/Enron corpus by Hermans/spreadsheets/diana_scholtes__8556__West Power Cash 01162002.xlsx
+/Volumes/SSD/SpreadsheetCorpus/Enron corpus by Hermans/spreadsheets/elizabeth_sager__9543__EAST SUMMARY TOP COUNTERPARTIES ALL REGIONS.xlsx
+/Volumes/SSD/SpreadsheetCorpus/Enron corpus by Hermans/spreadsheets/fletcher_sturm__10953__1130optsheet.xlsx
+/Volumes/SSD/SpreadsheetCorpus/Enron corpus by Hermans/spreadsheets/jane_tholt__13155__Staff No. 01.xlsx
+/Volumes/SSD/SpreadsheetCorpus/Enron corpus by Hermans/spreadsheets/john_griffith__16153__1_25_02GO.xlsx
+/Volumes/SSD/SpreadsheetCorpus/Enron corpus by Hermans/spreadsheets/kate_symes__18887__Palo.xlsx
+/Volumes/SSD/SpreadsheetCorpus/Enron corpus by Hermans/spreadsheets/mark_taylor__24983__Friday Week 2.xlsx
+/Volumes/SSD/SpreadsheetCorpus/Enron corpus by Hermans/spreadsheets/michelle_lokay__26777__010524al.xlsx
+/Volumes/SSD/SpreadsheetCorpus/Enron corpus by Hermans/spreadsheets/robin_rodrigue__33215__IMCan_Gas_Bench.xlsx
+/Volumes/SSD/SpreadsheetCorpus/Enron corpus by Hermans/spreadsheets/sara_shackleton__36443__050800pgas.xlsx
+/Volumes/SSD/SpreadsheetCorpus/Financial Corpus/Financial Corpus/Annual Report-1/Annual Report-1/NYSE.xlsx
+/Volumes/SSD/SpreadsheetCorpus/Financial Corpus/Financial Corpus/Annual Report-2/Annual Report-2/NYSE.xlsx
+/Volumes/SSD/SpreadsheetCorpus/Fuse/Fuse/fuse-binaries-dec2014.zip/020cd58e-de1b-447d-890e-a89e20deaf9f.xls
+/Volumes/SSD/SpreadsheetCorpus/Fuse/Fuse/fuse-binaries-dec2014.zip/063f3da1-97fc-484d-ab3c-346b8c4e70ae.xls
+/Volumes/SSD/SpreadsheetCorpus/Fuse/Fuse/fuse-binaries-dec2014.zip/190e7880-38d1-4389-8b8e-8cab33c1ed94.xls
+/Volumes/SSD/SpreadsheetCorpus/Fuse/Fuse/fuse-binaries-dec2014.zip/1c3f56f7-8b9a-4e00-82dd-38742babadcf.xls
+/Volumes/SSD/SpreadsheetCorpus/Fuse/Fuse/fuse-binaries-dec2014.zip/20889ab9-e837-4d23-897b-25809bdacf71.xls
+/Volumes/SSD/SpreadsheetCorpus/Fuse/Fuse/fuse-binaries-dec2014.zip/2513a866-d0af-4b19-b036-7b016a96e6f5.xls
+/Volumes/SSD/SpreadsheetCorpus/Fuse/Fuse/fuse-binaries-dec2014.zip/26e05f78-53cc-436e-9677-af8579301695.xls
+/Volumes/SSD/SpreadsheetCorpus/Fuse/Fuse/fuse-binaries-dec2014.zip/613d4d5b-84f7-41b6-97b3-1aaab9def13b.xls
+/Volumes/SSD/SpreadsheetCorpus/Fuse/Fuse/fuse-binaries-dec2014.zip/621a8a1f-c9ba-44f2-8c77-4ff9a50f0597.xls
+/Volumes/SSD/SpreadsheetCorpus/Fuse/Fuse/fuse-binaries-dec2014.zip/68a0a023-5408-4227-a4f2-557665b59512.xls
+/Volumes/SSD/SpreadsheetCorpus/Fuse/Fuse/fuse-binaries-dec2014.zip/6d79bd25-3561-4c5e-94c7-e695ccf731c7.xls
+/Volumes/SSD/SpreadsheetCorpus/Fuse/Fuse/fuse-binaries-dec2014.zip/7d97910c-afb1-485d-85a3-11ad5a507809.xls
+/Volumes/SSD/SpreadsheetCorpus/Fuse/Fuse/fuse-binaries-dec2014.zip/8f823b0e-38d2-449a-8623-e05ce414d0f9.xls
+/Volumes/SSD/SpreadsheetCorpus/Fuse/Fuse/fuse-binaries-dec2014.zip/c274438e-2b33-4e0c-b8c5-c43cb5865e09.xls
+/Volumes/SSD/SpreadsheetCorpus/Fuse/Fuse/fuse-binaries-dec2014.zip/e1d6bc12-7d87-405c-b458-cc728ffb4f7c.xls
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Average Selling Price Analysis.xls
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Balance Sheet.xls
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Break-Even CIA.xls
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Cash Flow Sensitivity Analysis.xls
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Company Property Receipt.xls
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Credit History.xls
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Employee Performance Review.xls
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/G&A Expense Budget.xls
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Inspection Report.xls
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Loan Tree.xls
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Quarterly Sales Record.xls
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Request For Quotation.xls
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Sales Channel Analysis.xls
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/Statement of Cash Flows.xls
+/Volumes/SSD/SpreadsheetCorpus/Jaxworks/Jaxworks/Jaxworks/neocalc.xls
+/Volumes/SSD/SpreadsheetCorpus/PDS/PDS/un/Annexe_20IV_2Cycle_20FNUD_20Budget_20de_20Projet_UN_20EXE_FR.xls
+/Volumes/SSD/SpreadsheetCorpus/PDS/PDS/un/GHGLULUCFTimeSeries.xls
+/Volumes/SSD/SpreadsheetCorpus/PDS/PDS/un/Peru-EEA_D_Manufactura_2006.xls
+/Volumes/SSD/SpreadsheetCorpus/PDS/PDS/un/Philippines_admin_ARMM.xls
+/Volumes/SSD/SpreadsheetCorpus/PDS/PDS/un/V3_table1.xls
+/Volumes/SSD/SpreadsheetCorpus/PDS/PDS/un/municipal_waste_treatment_citylevel.xls
+/Volumes/SSD/SpreadsheetCorpus/PDS/PDS/worldbank/AR06-LD010.xls
+/Volumes/SSD/SpreadsheetCorpus/PDS/PDS/worldbank/AR06-LD020.xls
+/Volumes/SSD/SpreadsheetCorpus/PDS/PDS/worldbank/EN.ATM.CO2E.PC_Indicator_MetaData_en_EXCEL.xls
+/Volumes/SSD/SpreadsheetCorpus/PDS/PDS/worldbank/IE.ICT.TOTL.GD.ZS_Indicator_MetaData_en_EXCEL.xls
+/Volumes/SSD/SpreadsheetCorpus/PDS/PDS/worldbank/NAM_Country_MetaData_en_EXCEL.xls
+/Volumes/SSD/SpreadsheetCorpus/PDS/PDS/worldbank/NE.CON.PETC.KN_Indicator_MetaData_en_EXCEL.xls
+/Volumes/SSD/SpreadsheetCorpus/PDS/PDS/worldbank/Pnk_0610.xls
+/Volumes/SSD/SpreadsheetCorpus/PDS/PDS/worldbank/SH.DYN.CHLD.MA_Indicator_MetaData_en_EXCEL.xls
+/Volumes/SSD/SpreadsheetCorpus/PDS/PDS/worldbank/T4.Remittance_Estimates_using_Migrant_Stocks_Host_Country_Incomes_and_Sending_Country_Incomes_2010.xls
+/Volumes/SSD/SpreadsheetCorpus/Tools/CC2s full/CC2s full/Inputs/Default marked worksheets (smelly cells & clusters)/01sumdat_NO2.xls
+/Volumes/SSD/SpreadsheetCorpus/Tools/CC2s full/CC2s full/Inputs/Default marked worksheets (smelly cells & clusters)/20030114144840!Superi#A7DEA_General Rev 3 .xls
+/Volumes/SSD/SpreadsheetCorpus/Tools/CC2s full/CC2s full/Inputs/Default marked worksheets (smelly cells & clusters)/SectionJ01b_Total LOE.xls
+/Volumes/SSD/SpreadsheetCorpus/Tools/CC2s full/CC2s full/Inputs/Default marked worksheets (smelly cells & clusters)/p36_Sheet1.xls
+/Volumes/SSD/SpreadsheetCorpus/Tools/CC2s full/CC2s full/Inputs/Default marked worksheets (smelly cells & clusters)/ribimv001_Static RoI calc '02.xls
+/Volumes/SSD/SpreadsheetCorpus/Tools/CC2s full/CC2s full/Inputs/Default marked worksheets (smelly cells & clusters)/tables_Table 1.xls
+/Volumes/SSD/SpreadsheetCorpus/Tools/CC2s release/CC2s release/Inputs/Default marked worksheets (smelly cells & clusters)/DDAA_HW_C-5.4.xls
+/Volumes/SSD/SpreadsheetCorpus/Tools/CC2s release/CC2s release/Inputs/Default marked worksheets (smelly cells & clusters)/SectionJ01b_T&M Type.xls
+/Volumes/SSD/SpreadsheetCorpus/Tools/CC2s release/CC2s release/Inputs/Default marked worksheets (smelly cells & clusters)/fastfacts03_feeder.xls
+/Volumes/SSD/SpreadsheetCorpus/Tools/CC2s release/CC2s release/Inputs/Default marked worksheets (smelly cells & clusters)/fastfacts03_personnel.xls
+/Volumes/SSD/SpreadsheetCorpus/Tools/CC2s release/CC2s release/Inputs/Default marked worksheets (smelly cells & clusters)/fin_accounts_WIAL.xls
+/Volumes/SSD/SpreadsheetCorpus/Tools/CC2s release/CC2s release/Inputs/Default marked worksheets (smelly cells & clusters)/financial-notes_note 3-5.xls
+/Volumes/SSD/SpreadsheetCorpus/Tools/CC2s release/CC2s release/Inputs/Default marked worksheets (smelly cells & clusters)/inc_exp_Income.xls
+/Volumes/SSD/SpreadsheetCorpus/Tools/CC2s release/CC2s release/Inputs/Default marked worksheets (smelly cells & clusters)/yef00_General State Financial Aid.xls
+/Volumes/SSD/SpreadsheetCorpus/Tools/CC2s release/CC2s release/Inputs/Default original spreadsheets/lspreport_02feb04.xls
+/Volumes/SSD/SpreadsheetCorpus/spreadsheet Enron dataset excluding emails/spreadsheet Enron dataset excluding emails/benjamin_rogers__1084__E2 Investor List.xlsx
+/Volumes/SSD/SpreadsheetCorpus/spreadsheet Enron dataset excluding emails/spreadsheet Enron dataset excluding emails/daren_farmer__5218__BMSPT051.xlsx
+/Volumes/SSD/SpreadsheetCorpus/spreadsheet Enron dataset excluding emails/spreadsheet Enron dataset excluding emails/daren_farmer__5420__hpl0818.xlsx
+/Volumes/SSD/SpreadsheetCorpus/spreadsheet Enron dataset excluding emails/spreadsheet Enron dataset excluding emails/harry_arora__12164__ce vol-May.xlsx
+/Volumes/SSD/SpreadsheetCorpus/spreadsheet Enron dataset excluding emails/spreadsheet Enron dataset excluding emails/joe_parks__15054__BGM 0618 ngpl.xlsx
+/Volumes/SSD/SpreadsheetCorpus/spreadsheet Enron dataset excluding emails/spreadsheet Enron dataset excluding emails/john_zufferli__16705__Sisson Casion Deal Calculation.xlsx
+/Volumes/SSD/SpreadsheetCorpus/spreadsheet Enron dataset excluding emails/spreadsheet Enron dataset excluding emails/jonathan_mckay__17476__Quotes21.xlsx
+/Volumes/SSD/SpreadsheetCorpus/spreadsheet Enron dataset excluding emails/spreadsheet Enron dataset excluding emails/kam_keiser__17838__West.xlsx
+/Volumes/SSD/SpreadsheetCorpus/spreadsheet Enron dataset excluding emails/spreadsheet Enron dataset excluding emails/lindy_donoho__21973__Valuationprojects.xlsx
+/Volumes/SSD/SpreadsheetCorpus/spreadsheet Enron dataset excluding emails/spreadsheet Enron dataset excluding emails/monika_causholli__28291__October Flash Report.xlsx
+/Volumes/SSD/SpreadsheetCorpus/spreadsheet Enron dataset excluding emails/spreadsheet Enron dataset excluding emails/phillip_platter__31420__New SC checklist.xlsx
+/Volumes/SSD/SpreadsheetCorpus/spreadsheet Enron dataset excluding emails/spreadsheet Enron dataset excluding emails/rick_buy__32669__Log as of 12 dec 00.xlsx
+/Volumes/SSD/SpreadsheetCorpus/spreadsheet Enron dataset excluding emails/spreadsheet Enron dataset excluding emails/sara_shackleton__36424__TBVITFund ISDA.xlsx
+/Volumes/SSD/SpreadsheetCorpus/spreadsheet Enron dataset excluding emails/spreadsheet Enron dataset excluding emails/scott_neal__37937__Stgbkrpt.xlsx
+/Volumes/SSD/SpreadsheetCorpus/spreadsheet Enron dataset excluding emails/spreadsheet Enron dataset excluding emails/tracy_geaccone__40618__1stQTRForePipes.xlsx

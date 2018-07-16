@@ -7,98 +7,116 @@ import pandas as pd
 import numpy as np
 import math
 import glob
+import random
+import os
 from distutils.util import strtobool
 
 
 # get the file list to be searched
 
-extensions = ['*.xls','*.xlsx','*.xlsm']
-filenames = []
-folder = input('(Example) /Users/sunny/Documents/UROP/\nSearch Directory:\n')
-if folder[-1] != '/':
-     folder = folder + '/'
-#folder = './sample spreadsheets/'
-recur = input('Search directory recursively? (True/False))\n')
-if bool(strtobool(recur)):
-    folder = folder + '**/'
-for extension in extensions:
-    filenames.extend(glob.iglob(folder + extension, recursive = bool(strtobool(recur))))
-filenames.sort()
-totalSearch = len(filenames)
-searchCount = 0
+def getFiles(scope, number):
+    extensions = ['*.xls','*.xlsx','*.xlsm']
+    filenames = []
+    if scope[-1] != '/':
+        scope = scope + '/'
+    for file in os.listdir(scope):
+        if os.path.isdir(scope + file):
+            folder = scope + file + '/**/'
+            temp = []
+            for extension in extensions:
+                temp.extend(glob.iglob(folder + extension, recursive = True))
+            if len(temp) < number:
+                filenames.extend(random.sample(temp, len(temp)))
+            else:
+                filenames.extend(random.sample(temp, number))
+    filenames.sort()
+    return filenames
 
 
-# clean up / create the output text file
+def getTestList():
+    things = open('things.txt', 'w+')
+    for item in getFiles('/Volumes/SSD/SpreadsheetCorpus', 15):
+        things.write(item + '\n')
+    things.close()
 
-result = open('result.txt', 'w+', encoding='utf-8')
-result.close()
+    
+def main():
+
+    filenames = getFiles('/Volumes/SSD/SpreadsheetCorpus', 100)
+    totalSearch = len(filenames)
+    searchCount = 0
 
 
-# start reading files
+    # clean up / create the output text file
 
-for filename in filenames:
+    result = open('result.txt', 'w+', encoding='utf-8')
+    result.close()
 
-    result = open('result.txt', 'a+', encoding='utf-8')
-    result.write(filename + '\n')
-    print(filename)
-    searchCount += 1
+    # start reading files
 
-# main algorithm
+    for filename in filenames:
 
-    try:
-        workbook = pd.ExcelFile(filename)
-        for sheet in workbook.sheet_names:
+        result = open('result.txt', 'a+', encoding='utf-8')
+        result.write(filename + '\n')
+        print(filename)
+        searchCount += 1
 
-            data = pd.read_excel(filename, sheet, header = None)
+    # main algorithm
 
-            stringCount = 0
-            numberCount = 0
-            zeroCount = 0
-            count = 0
+        try:
+            workbook = pd.ExcelFile(filename)
+            for sheet in workbook.sheet_names:
 
-            for column in data:
+                data = pd.read_excel(filename, sheet, header = None)
 
-                if count >= 100:
-                    break
+                stringCount = 0
+                numberCount = 0
+                zeroCount = 0
+                count = 0
 
-                columnSearch = 0
+                for column in data:
 
-                for item in data[column]:
-
-                    if count >= 100 or columnSearch >= 10:
+                    if count >= 100:
                         break
-                    elif type(item) == str:
-                        stringCount += 1
-                        count += 1
-                        columnSearch += 1
-                    elif type(item) == float or type(item) == int:
-                        if not math.isnan(item):
+
+                    columnSearch = 0
+
+                    for item in data[column]:
+
+                        if count >= 100 or columnSearch >= 10:
+                            break
+                        elif type(item) == str:
+                            stringCount += 1
+                            count += 1
+                            columnSearch += 1
+                        elif type(item) == float or type(item) == int:
+                            if not math.isnan(item):
+                                numberCount += 1
+                                count += 1
+                                columnSearch += 1
+                                if item == 0:
+                                    zeroCount += 1
+                        else:
                             numberCount += 1
                             count += 1
                             columnSearch += 1
-                            if item == 0:
-                                zeroCount += 1
-                    else:
-                        numberCount += 1
-                        count += 1
-                        columnSearch += 1
 
-            if count == 0:
-                line = 'Empty ' + sheet + '\n'
-            elif stringCount >= numberCount or zeroCount >= numberCount / 2:
-                line = 'Junk ' + sheet + '\n'
-            else:
-                line = 'Useful ' + sheet + '\n'
+                if count == 0:
+                    line = 'Empty ' + sheet + '\n'
+                elif stringCount >= numberCount or zeroCount >= numberCount / 2:
+                    line = 'Junk ' + sheet + '\n'
+                else:
+                    line = 'Useful ' + sheet + '\n'
             result.write(line)
-        result.close()
+            result.close()
 
 # Error handling
 
-    except:
-        print(filename + " has error.\n")
-        result.write(filename + " has error.\n")
-        result.close()
+        except:
+            print(filename + " has error.\n")
+            result.write(filename + " has error.\n")
+            result.close()
 
 # A fun progress bar
 
-    print('Progress: %.2f' % (searchCount / totalSearch * 100) + '%   ({}/{})'.format(searchCount, totalSearch))
+        print('Progress: %.2f' % (searchCount / totalSearch * 100) + '%   ({}/{})'.format(searchCount, totalSearch))
