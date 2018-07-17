@@ -26,7 +26,9 @@ def getFiles(scope, number):
             temp = []
             for extension in extensions:
                 temp.extend(glob.iglob(folder + extension, recursive = True))
-            if len(temp) < number:
+            if number <= 0:
+                filenames.extend(temp)
+            elif len(temp) < number:
                 filenames.extend(random.sample(temp, len(temp)))
             else:
                 filenames.extend(random.sample(temp, number))
