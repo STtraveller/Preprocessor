@@ -52,17 +52,17 @@ def copyFileToFolder(filelist):
             shutil.copy2(file,'./test objects')
 
 def readList(filename):
-    file = open(filename, 'r')
+    file = open(filename, 'r', encoding='utf-8')
     filelist = file.readlines()
     file.close()
     filelist = [item[:-1] for item in filelist]
     return filelist
 
 def iamlazy():
-    copyFileToFolder(readList('things.txt'))
+    copyFileToFolder(readList('things.csv'))
 
 def lazyMain():
-    getTestList('things.txt', '/Volumes/SSD/SpreadsheetCorpus', 15)
+    getTestList('things.csv', '/Volumes/SSD/SpreadsheetCorpus', 15)
     iamlazy()
     main()
 
@@ -78,15 +78,15 @@ def main():
 
     # clean up / create the output text file
 
-    result = open('result.txt', 'w+', encoding='utf-8')
+    result = open('result.csv', 'w+', encoding='utf-8')
+    result.write('full path, filename, sheet, processed result, checked result' + '\n')
     result.close()
 
     # start reading files
 
     for filename in filenames:
 
-        result = open('result.txt', 'a+', encoding='utf-8')
-        result.write(filename + '\n')
+        result = open('result.csv', 'a+', encoding='utf-8')
         print(filename)
         searchCount += 1
 
@@ -94,6 +94,8 @@ def main():
 
         try:
             workbook = pd.ExcelFile(filename)
+            path, file = os.path.split(filename)
+            comma = ', '
             for sheet in workbook.sheet_names:
 
                 data = pd.read_excel(filename, sheet, header = None)
@@ -131,12 +133,12 @@ def main():
                             columnSearch += 1
 
                 if count == 0:
-                    line = 'Empty ' + sheet + '\n'
+                    line = comma.join([filename, file, sheet, 'Empty\n'])
                 elif stringCount >= numberCount or zeroCount >= numberCount / 2:
-                    line = 'Junk ' + sheet + '\n'
+                    line = comma.join([filename, file, sheet, 'Junk\n'])
                 else:
-                    line = 'Useful ' + sheet + '\n'
-            result.write(line)
+                    line = comma.join([filename, file, sheet, 'Useful\n'])
+                result.write(line)
             result.close()
 
 # Error handling
@@ -144,7 +146,7 @@ def main():
         except:
             print(filename + " has error.\n")
             result.write(filename + " has error.\n")
-            result.close()
+        result.close()
 
 # A fun progress bar
 

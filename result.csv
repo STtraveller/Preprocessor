@@ -1,0 +1,302 @@
+full path, filename, sheet, processed result, checked result
+./test objects/01sumdat_NO2.xls, 01sumdat_NO2.xls, NO2, Junk
+./test objects/020cd58e-de1b-447d-890e-a89e20deaf9f.xls has error.
+./test objects/063f3da1-97fc-484d-ab3c-346b8c4e70ae.xls, 063f3da1-97fc-484d-ab3c-346b8c4e70ae.xls, Junior Women, Junk
+./test objects/190e7880-38d1-4389-8b8e-8cab33c1ed94.xls, 190e7880-38d1-4389-8b8e-8cab33c1ed94.xls, Sheet1, Junk
+./test objects/1c3f56f7-8b9a-4e00-82dd-38742babadcf.xls, 1c3f56f7-8b9a-4e00-82dd-38742babadcf.xls, Data, Useful
+./test objects/1c3f56f7-8b9a-4e00-82dd-38742babadcf.xls, 1c3f56f7-8b9a-4e00-82dd-38742babadcf.xls, Metadata - Countries, Junk
+./test objects/1c3f56f7-8b9a-4e00-82dd-38742babadcf.xls, 1c3f56f7-8b9a-4e00-82dd-38742babadcf.xls, Metadata - Indicators, Junk
+./test objects/20030114144840!Superi#A7DEA_General Rev 3 .xls, 20030114144840!Superi#A7DEA_General Rev 3 .xls, General Rev 3 , Useful
+./test objects/20889ab9-e837-4d23-897b-25809bdacf71.xls, 20889ab9-e837-4d23-897b-25809bdacf71.xls, Sheet1, Junk
+./test objects/2513a866-d0af-4b19-b036-7b016a96e6f5.xls, 2513a866-d0af-4b19-b036-7b016a96e6f5.xls, Data, Useful
+./test objects/2513a866-d0af-4b19-b036-7b016a96e6f5.xls, 2513a866-d0af-4b19-b036-7b016a96e6f5.xls, Metadata - Countries, Junk
+./test objects/2513a866-d0af-4b19-b036-7b016a96e6f5.xls, 2513a866-d0af-4b19-b036-7b016a96e6f5.xls, Metadata - Indicators, Junk
+./test objects/26e05f78-53cc-436e-9677-af8579301695.xls, 26e05f78-53cc-436e-9677-af8579301695.xls, Kloeckner  CO SE NA, Useful
+./test objects/613d4d5b-84f7-41b6-97b3-1aaab9def13b.xls has error.
+./test objects/621a8a1f-c9ba-44f2-8c77-4ff9a50f0597.xls, 621a8a1f-c9ba-44f2-8c77-4ff9a50f0597.xls, Elite Women, Junk
+./test objects/68a0a023-5408-4227-a4f2-557665b59512.xls, 68a0a023-5408-4227-a4f2-557665b59512.xls, analytica 2012, Junk
+./test objects/6d79bd25-3561-4c5e-94c7-e695ccf731c7.xls, 6d79bd25-3561-4c5e-94c7-e695ccf731c7.xls, 50-54 Female AG, Junk
+./test objects/7d97910c-afb1-485d-85a3-11ad5a507809.xls, 7d97910c-afb1-485d-85a3-11ad5a507809.xls, 75-79 Male AG Sprint, Junk
+./test objects/8f823b0e-38d2-449a-8623-e05ce414d0f9.xls has error.
+./test objects/AR06-LD010.xls, AR06-LD010.xls, South Asia, Useful
+./test objects/AR06-LD020.xls, AR06-LD020.xls, Cumulative Lending, Useful
+./test objects/Annexe_20IV_2Cycle_20FNUD_20Budget_20de_20Projet_UN_20EXE_FR.xls, Annexe_20IV_2Cycle_20FNUD_20Budget_20de_20Projet_UN_20EXE_FR.xls, UNDEF Project Budget, Junk
+./test objects/Average Selling Price Analysis.xls, Average Selling Price Analysis.xls, JaxWorks, Junk
+./test objects/Average Selling Price Analysis.xls, Average Selling Price Analysis.xls, Average Selling Price Analysis, Useful
+./test objects/Balance Sheet.xls, Balance Sheet.xls, JaxWorks, Junk
+./test objects/Balance Sheet.xls, Balance Sheet.xls, Balance Sheet, Junk
+./test objects/Break-Even CIA.xls, Break-Even CIA.xls, JaxWorks, Junk
+./test objects/Break-Even CIA.xls, Break-Even CIA.xls, Break_Even CIA, Useful
+./test objects/CSC%20101%20Computer%#A7FA0.xls, CSC%20101%20Computer%#A7FA0.xls, Grades CIS677-104, Junk
+./test objects/CSC%20101%20Computer%#A7FA0.xls, CSC%20101%20Computer%#A7FA0.xls, Attendance, Useful
+./test objects/CSC%20101%20Computer%#A7FA0.xls, CSC%20101%20Computer%#A7FA0.xls, Grades CSC 101, Useful
+./test objects/Cash Flow Sensitivity Analysis.xls, Cash Flow Sensitivity Analysis.xls, JaxWorks, Junk
+./test objects/Cash Flow Sensitivity Analysis.xls, Cash Flow Sensitivity Analysis.xls, Cash Flow Sensitivity Analysis, Useful
+./test objects/Company Property Receipt.xls, Company Property Receipt.xls, JaxWorks, Junk
+./test objects/Company Property Receipt.xls, Company Property Receipt.xls, Company Property Receipt, Junk
+./test objects/Credit History.xls, Credit History.xls, JaxWorks, Junk
+./test objects/Credit History.xls, Credit History.xls, Credit History, Junk
+./test objects/DDAA_HW_C-5.4.xls, DDAA_HW_C-5.4.xls, C-5.4, Junk
+./test objects/DJSI_World_Review_200#A8121.xls, DJSI_World_Review_200#A8121.xls, Adds, Junk
+./test objects/EN.ATM.CO2E.PC_Indicator_MetaData_en_EXCEL.xls, EN.ATM.CO2E.PC_Indicator_MetaData_en_EXCEL.xls, Sheet1, Useful
+./test objects/EN.ATM.CO2E.PC_Indicator_MetaData_en_EXCEL.xls, EN.ATM.CO2E.PC_Indicator_MetaData_en_EXCEL.xls, Sheet2, Junk
+./test objects/Employee Performance Review.xls, Employee Performance Review.xls, JaxWorks, Junk
+./test objects/Employee Performance Review.xls, Employee Performance Review.xls, Employee Performance Review, Junk
+./test objects/FAS%20To%20Oracle%20O#A8C0F.xls, FAS%20To%20Oracle%20O#A8C0F.xls, ALL, Junk
+./test objects/FinRep2000-01%20AGM2003.xls, FinRep2000-01%20AGM2003.xls, BalRep 01-00-99, Useful
+./test objects/FinRep2000-01%20AGM2003.xls, FinRep2000-01%20AGM2003.xls, FinResRep 01-00-99, Useful
+./test objects/FinStmtEx.xls, FinStmtEx.xls, IS, Useful
+./test objects/FinStmtEx.xls, FinStmtEx.xls, BS, Useful
+./test objects/FinStmtEx.xls, FinStmtEx.xls, Ratios, Useful
+./test objects/FinStmtEx.xls, FinStmtEx.xls, CF, Useful
+./test objects/FinStmtEx.xls, FinStmtEx.xls, Sheet5, Junk
+./test objects/Fleetinventsample.xls, Fleetinventsample.xls, Sheet1, Junk
+./test objects/Fleetinventsample.xls, Fleetinventsample.xls, Sheet2, Empty
+./test objects/Fleetinventsample.xls, Fleetinventsample.xls, Sheet3, Empty
+./test objects/G&A Expense Budget.xls, G&A Expense Budget.xls, JaxWorks, Junk
+./test objects/G&A Expense Budget.xls, G&A Expense Budget.xls, G&A Expense Budget, Useful
+./test objects/GHGLULUCFTimeSeries.xls, GHGLULUCFTimeSeries.xls, GHG, Junk
+./test objects/Homework%20Data%20Ent#A9327.xls, Homework%20Data%20Ent#A9327.xls, Sheet1, Junk
+./test objects/Homework%20Data%20Ent#A9327.xls, Homework%20Data%20Ent#A9327.xls, Sheet2, Empty
+./test objects/Homework%20Data%20Ent#A9327.xls, Homework%20Data%20Ent#A9327.xls, Sheet3, Empty
+./test objects/IE.ICT.TOTL.GD.ZS_Indicator_MetaData_en_EXCEL.xls, IE.ICT.TOTL.GD.ZS_Indicator_MetaData_en_EXCEL.xls, Sheet1, Useful
+./test objects/IE.ICT.TOTL.GD.ZS_Indicator_MetaData_en_EXCEL.xls, IE.ICT.TOTL.GD.ZS_Indicator_MetaData_en_EXCEL.xls, Sheet2, Junk
+./test objects/Inspection Report.xls, Inspection Report.xls, JaxWorks, Junk
+./test objects/Inspection Report.xls, Inspection Report.xls, Inspection Report, Junk
+./test objects/Loan Tree.xls, Loan Tree.xls, JaxWorks, Junk
+./test objects/Loan Tree.xls, Loan Tree.xls, Loan Approval Qualifier, Junk
+./test objects/NAM_Country_MetaData_en_EXCEL.xls, NAM_Country_MetaData_en_EXCEL.xls, Sheet1, Useful
+./test objects/NAM_Country_MetaData_en_EXCEL.xls, NAM_Country_MetaData_en_EXCEL.xls, Sheet2, Junk
+./test objects/NE.CON.PETC.KN_Indicator_MetaData_en_EXCEL.xls, NE.CON.PETC.KN_Indicator_MetaData_en_EXCEL.xls, Sheet1, Useful
+./test objects/NE.CON.PETC.KN_Indicator_MetaData_en_EXCEL.xls, NE.CON.PETC.KN_Indicator_MetaData_en_EXCEL.xls, Sheet2, Junk
+./test objects/NYSE.xlsx, NYSE.xlsx, Sheet1, Junk
+./test objects/NYSE.xlsx, NYSE.xlsx, Sheet3, Empty
+./test objects/Peru-EEA_D_Manufactura_2006.xls, Peru-EEA_D_Manufactura_2006.xls, MenuP, Empty
+./test objects/Peru-EEA_D_Manufactura_2006.xls, Peru-EEA_D_Manufactura_2006.xls, Legal, Junk
+./test objects/Peru-EEA_D_Manufactura_2006.xls, Peru-EEA_D_Manufactura_2006.xls, Instue, Junk
+./test objects/Peru-EEA_D_Manufactura_2006.xls, Peru-EEA_D_Manufactura_2006.xls, Ayuda, Junk
+./test objects/Peru-EEA_D_Manufactura_2006.xls, Peru-EEA_D_Manufactura_2006.xls, Cedulas, Junk
+./test objects/Peru-EEA_D_Manufactura_2006.xls, Peru-EEA_D_Manufactura_2006.xls, Cap01, Junk
+./test objects/Peru-EEA_D_Manufactura_2006.xls, Peru-EEA_D_Manufactura_2006.xls, Cap02, Junk
+./test objects/Peru-EEA_D_Manufactura_2006.xls, Peru-EEA_D_Manufactura_2006.xls, WCap13, Junk
+./test objects/Peru-EEA_D_Manufactura_2006.xls, Peru-EEA_D_Manufactura_2006.xls, Wanexo2, Junk
+./test objects/Peru-EEA_D_Manufactura_2006.xls, Peru-EEA_D_Manufactura_2006.xls, WCap14, Junk
+./test objects/Peru-EEA_D_Manufactura_2006.xls, Peru-EEA_D_Manufactura_2006.xls, Cap03, Junk
+./test objects/Peru-EEA_D_Manufactura_2006.xls, Peru-EEA_D_Manufactura_2006.xls, OBS, Junk
+./test objects/Peru-EEA_D_Manufactura_2006.xls, Peru-EEA_D_Manufactura_2006.xls, Valida, Junk
+./test objects/Peru-EEA_D_Manufactura_2006.xls, Peru-EEA_D_Manufactura_2006.xls, Anexo, Junk
+./test objects/Peru-EEA_D_Manufactura_2006.xls, Peru-EEA_D_Manufactura_2006.xls, Anexo2, Junk
+./test objects/Peru-EEA_D_Manufactura_2006.xls, Peru-EEA_D_Manufactura_2006.xls, TabUbica, Junk
+./test objects/Peru-EEA_D_Manufactura_2006.xls, Peru-EEA_D_Manufactura_2006.xls, TabCiiu, Junk
+./test objects/Peru-EEA_D_Manufactura_2006.xls, Peru-EEA_D_Manufactura_2006.xls, TabOrgJ, Useful
+./test objects/Peru-EEA_D_Manufactura_2006.xls, Peru-EEA_D_Manufactura_2006.xls, Wcap02, Empty
+./test objects/Peru-EEA_D_Manufactura_2006.xls, Peru-EEA_D_Manufactura_2006.xls, Wcap03, Empty
+./test objects/Peru-EEA_D_Manufactura_2006.xls, Peru-EEA_D_Manufactura_2006.xls, WCap04, Empty
+./test objects/Peru-EEA_D_Manufactura_2006.xls, Peru-EEA_D_Manufactura_2006.xls, Wcap01, Empty
+./test objects/Pete310GradeMAB.xls, Pete310GradeMAB.xls, Exam#1, Junk
+./test objects/Pete310GradeMAB.xls, Pete310GradeMAB.xls, Exam#2 , Useful
+./test objects/Pete310GradeMAB.xls, Pete310GradeMAB.xls, Exam#3, Empty
+./test objects/Pete310GradeMAB.xls, Pete310GradeMAB.xls, 503, Junk
+./test objects/Pete310GradeMAB.xls, Pete310GradeMAB.xls, 504, Junk
+./test objects/Pete310GradeMAB.xls, Pete310GradeMAB.xls, Graph_exams, Empty
+./test objects/Philippines_admin_ARMM.xls, Philippines_admin_ARMM.xls, Philippines_admin_Region1, Junk
+./test objects/Pnk_0610.xls, Pnk_0610.xls, Pink Sheet, Useful
+./test objects/Quarterly Sales Record.xls, Quarterly Sales Record.xls, JaxWorks, Junk
+./test objects/Quarterly Sales Record.xls, Quarterly Sales Record.xls, Quarterly Sales Record, Useful
+./test objects/Request For Quotation.xls, Request For Quotation.xls, JaxWorks, Junk
+./test objects/Request For Quotation.xls, Request For Quotation.xls, Request For Quotation, Junk
+./test objects/SH.DYN.CHLD.MA_Indicator_MetaData_en_EXCEL.xls, SH.DYN.CHLD.MA_Indicator_MetaData_en_EXCEL.xls, Sheet1, Useful
+./test objects/SH.DYN.CHLD.MA_Indicator_MetaData_en_EXCEL.xls, SH.DYN.CHLD.MA_Indicator_MetaData_en_EXCEL.xls, Sheet2, Junk
+./test objects/Sales Channel Analysis.xls, Sales Channel Analysis.xls, JaxWorks, Junk
+./test objects/Sales Channel Analysis.xls, Sales Channel Analysis.xls, Sales Channel Analysis, Useful
+./test objects/SectionJ01b_T&M Type.xls, SectionJ01b_T&M Type.xls, T&M Type, Junk
+./test objects/SectionJ01b_Total LOE.xls, SectionJ01b_Total LOE.xls, Total LOE, Useful
+./test objects/Software_inventory_sheet.xls, Software_inventory_sheet.xls, Sheet1, Junk
+./test objects/Software_inventory_sheet.xls, Software_inventory_sheet.xls, Sheet2, Empty
+./test objects/Software_inventory_sheet.xls, Software_inventory_sheet.xls, Sheet3, Empty
+./test objects/Statement of Cash Flows.xls, Statement of Cash Flows.xls, JaxWorks, Junk
+./test objects/Statement of Cash Flows.xls, Statement of Cash Flows.xls, Statement of Cash Flows, Junk
+./test objects/T4.Remittance_Estimates_using_Migrant_Stocks_Host_Country_Incomes_and_Sending_Country_Incomes_2010.xls, T4.Remittance_Estimates_using_Migrant_Stocks_Host_Country_Incomes_and_Sending_Country_Incomes_2010.xls, bilatRemit_C, Junk
+./test objects/V3_table1.xls, V3_table1.xls, tables (2), Junk
+./test objects/WebGrading.xls, WebGrading.xls, Sheet1, Useful
+./test objects/WebGrading.xls, WebGrading.xls, Sheet2, Empty
+./test objects/WebGrading.xls, WebGrading.xls, Sheet3, Empty
+./test objects/adaptivepath_contenti#A7C29.xls, adaptivepath_contenti#A7C29.xls, inventory sample, Junk
+./test objects/benjamin_rogers__1084__E2 Investor List.xlsx, benjamin_rogers__1084__E2 Investor List.xlsx, 2000 Peakers, Junk
+./test objects/benjamin_rogers__1084__E2 Investor List.xlsx, benjamin_rogers__1084__E2 Investor List.xlsx, Moore, Junk
+./test objects/benjamin_rogers__1084__E2 Investor List.xlsx, benjamin_rogers__1084__E2 Investor List.xlsx, Coyote Springs, Junk
+./test objects/benjamin_rogers__1084__E2 Investor List.xlsx, benjamin_rogers__1084__E2 Investor List.xlsx, Pittsburgh, Junk
+./test objects/benjamin_rogers__1091__E2 Investor List.xlsx, benjamin_rogers__1091__E2 Investor List.xlsx, 2000 Peakers, Junk
+./test objects/benjamin_rogers__1091__E2 Investor List.xlsx, benjamin_rogers__1091__E2 Investor List.xlsx, Moore, Junk
+./test objects/benjamin_rogers__1091__E2 Investor List.xlsx, benjamin_rogers__1091__E2 Investor List.xlsx, Coyote Springs, Junk
+./test objects/benjamin_rogers__1091__E2 Investor List.xlsx, benjamin_rogers__1091__E2 Investor List.xlsx, Pittsburgh, Junk
+./test objects/budget.xls, budget.xls, Home, Empty
+./test objects/budget.xls, budget.xls, Raising achievements in schools, Junk
+./test objects/budget.xls, budget.xls, Improve childrens services, Junk
+./test objects/budget.xls, budget.xls, Help young people, Junk
+./test objects/budget.xls, budget.xls, Support local business, Junk
+./test objects/budget.xls, budget.xls, Easy access to our services, Junk
+./test objects/budget.xls, budget.xls, Encourage use of public transpo, Junk
+./test objects/budget.xls, budget.xls, Reduce the number of lives lo, Junk
+./test objects/budget.xls, budget.xls, Encourage recycle, Junk
+./test objects/budget.xls, budget.xls, Help more older people, Junk
+./test objects/budget.xls, budget.xls, Maintain our roads, Junk
+./test objects/budget.xls, budget.xls, Support communities which need, Junk
+./test objects/c274438e-2b33-4e0c-b8c5-c43cb5865e09.xls, c274438e-2b33-4e0c-b8c5-c43cb5865e09.xls, Data, Useful
+./test objects/c274438e-2b33-4e0c-b8c5-c43cb5865e09.xls, c274438e-2b33-4e0c-b8c5-c43cb5865e09.xls, Metadata - Countries, Junk
+./test objects/c274438e-2b33-4e0c-b8c5-c43cb5865e09.xls, c274438e-2b33-4e0c-b8c5-c43cb5865e09.xls, Metadata - Indicators, Junk
+./test objects/chris_germany__1883__nymx.xlsx, chris_germany__1883__nymx.xlsx, 2000, Useful
+./test objects/chris_germany__1883__nymx.xlsx, chris_germany__1883__nymx.xlsx, 2001 CG, Useful
+./test objects/chris_germany__1883__nymx.xlsx, chris_germany__1883__nymx.xlsx, 2001 JT, Useful
+./test objects/craig_dean__4445__Bike to Beach '01.xlsx, craig_dean__4445__Bike to Beach '01.xlsx, Sheet1, Useful
+./test objects/craig_dean__4445__Bike to Beach '01.xlsx, craig_dean__4445__Bike to Beach '01.xlsx, Sheet2, Empty
+./test objects/craig_dean__4445__Bike to Beach '01.xlsx, craig_dean__4445__Bike to Beach '01.xlsx, Sheet3, Empty
+./test objects/daren_farmer__5218__BMSPT051.xlsx, daren_farmer__5218__BMSPT051.xlsx, BMSPT066, Useful
+./test objects/daren_farmer__5420__hpl0818.xlsx, daren_farmer__5420__hpl0818.xlsx, Sheet1, Junk
+./test objects/daren_farmer__5420__hpl0818.xlsx, daren_farmer__5420__hpl0818.xlsx, Sheet2, Empty
+./test objects/daren_farmer__5420__hpl0818.xlsx, daren_farmer__5420__hpl0818.xlsx, Sheet3, Empty
+./test objects/daren_farmer__5910__leak.xlsx, daren_farmer__5910__leak.xlsx, PRESS, Useful
+./test objects/daren_farmer__5910__leak.xlsx, daren_farmer__5910__leak.xlsx, AREA, Useful
+./test objects/daren_farmer__5910__leak.xlsx, daren_farmer__5910__leak.xlsx, VOLUME, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, monthly, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, by type_area, Junk
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, summary, Junk
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, williams, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, Lonestar, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, PG&E, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, SoCal, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, PGETX, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, El Paso, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, Red C, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, Amoco, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, Oasis, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, Agave, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, Conoco, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, NW, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, transcol, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, Duke, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, DEFS, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, mewborne, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, Amoco Abo, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, NNG, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, PNM, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, NGPL, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, Mojave, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, EOG, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, KN_Westar, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, Continental, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, CIG, Junk
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, Calpine, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, EPFS, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, SidR, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, NS Steel, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, Citizens-Griffith, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, Citizens, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, PEPL, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, MiVida_Rich, Junk
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, WTGmktg, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, WTG inc, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, Dominion, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, Devon, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, crosstex, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, Amarillo, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, SWGasTrans, Useful
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, Stratland, Junk
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, Plains, Junk
+./test objects/darrell_schoolcraft__7334__imball0203.xlsx, darrell_schoolcraft__7334__imball0203.xlsx, burlington, Useful
+./test objects/diana_scholtes__8556__West Power Cash 01162002.xlsx, diana_scholtes__8556__West Power Cash 01162002.xlsx, 5 Day, Junk
+./test objects/diana_scholtes__8556__West Power Cash 01162002.xlsx, diana_scholtes__8556__West Power Cash 01162002.xlsx,  Approval Requests, Junk
+./test objects/diana_scholtes__8556__West Power Cash 01162002.xlsx, diana_scholtes__8556__West Power Cash 01162002.xlsx, PDX Trading, Useful
+./test objects/diana_scholtes__8556__West Power Cash 01162002.xlsx, diana_scholtes__8556__West Power Cash 01162002.xlsx, Contact List, Junk
+./test objects/draft_sf3profile.xls, draft_sf3profile.xls, DP-1, Useful
+./test objects/draft_sf3profile.xls, draft_sf3profile.xls, DP-2, Junk
+./test objects/draft_sf3profile.xls, draft_sf3profile.xls, DP-3, Useful
+./test objects/draft_sf3profile.xls, draft_sf3profile.xls, DP-4, Useful
+./test objects/e1d6bc12-7d87-405c-b458-cc728ffb4f7c.xls, e1d6bc12-7d87-405c-b458-cc728ffb4f7c.xls, Sheet1, Junk
+./test objects/eecs1.generic_grade_sheet.xls, eecs1.generic_grade_sheet.xls, Setup, Junk
+./test objects/eecs1.generic_grade_sheet.xls, eecs1.generic_grade_sheet.xls, Grades, Junk
+./test objects/eecs1.generic_grade_sheet.xls, eecs1.generic_grade_sheet.xls, Calc, Junk
+./test objects/eecs1.generic_grade_sheet.xls, eecs1.generic_grade_sheet.xls, Lab Scores, Junk
+./test objects/elizabeth_sager__9543__EAST SUMMARY TOP COUNTERPARTIES ALL REGIONS.xlsx, elizabeth_sager__9543__EAST SUMMARY TOP COUNTERPARTIES ALL REGIONS.xlsx, PEAK + OFF PEAK, Useful
+./test objects/elizabeth_sager__9543__EAST SUMMARY TOP COUNTERPARTIES ALL REGIONS.xlsx, elizabeth_sager__9543__EAST SUMMARY TOP COUNTERPARTIES ALL REGIONS.xlsx, PEAK, Useful
+./test objects/elizabeth_sager__9543__EAST SUMMARY TOP COUNTERPARTIES ALL REGIONS.xlsx, elizabeth_sager__9543__EAST SUMMARY TOP COUNTERPARTIES ALL REGIONS.xlsx, OFF-PEAK, Useful
+./test objects/fastfacts03_feeder.xls, fastfacts03_feeder.xls, feeder, Useful
+./test objects/fastfacts03_personnel.xls, fastfacts03_personnel.xls, personnel, Useful
+./test objects/fin_accounts_WIAL.xls, fin_accounts_WIAL.xls, WIAL, Useful
+./test objects/financial-notes_note 3-5.xls, financial-notes_note 3-5.xls, note 3-5, Useful
+./test objects/fletcher_sturm__10953__1130optsheet.xlsx, fletcher_sturm__10953__1130optsheet.xlsx, sheet 1, Junk
+./test objects/g12.xls, g12.xls, G12, Useful
+./test objects/harry_arora__12164__ce vol-May.xlsx, harry_arora__12164__ce vol-May.xlsx, vol data, Useful
+./test objects/harry_arora__12164__ce vol-May.xlsx, harry_arora__12164__ce vol-May.xlsx, Chart Data, Useful
+./test objects/inc_exp_Income.xls, inc_exp_Income.xls, Income, Junk
+./test objects/jane_tholt__13155__Staff No. 01.xlsx, jane_tholt__13155__Staff No. 01.xlsx, FERC FR Cap Rel 9-19-01 , Junk
+./test objects/joe_parks__15054__BGM 0618 ngpl.xlsx, joe_parks__15054__BGM 0618 ngpl.xlsx, daily, Junk
+./test objects/joe_parks__15054__BGM 0618 ngpl.xlsx, joe_parks__15054__BGM 0618 ngpl.xlsx, mtd, Junk
+./test objects/john_griffith__16153__1_25_02GO.xlsx, john_griffith__16153__1_25_02GO.xlsx, Sheet1, Useful
+./test objects/john_griffith__16153__1_25_02GO.xlsx, john_griffith__16153__1_25_02GO.xlsx, Sheet2, Empty
+./test objects/john_griffith__16153__1_25_02GO.xlsx, john_griffith__16153__1_25_02GO.xlsx, Sheet3, Empty
+./test objects/john_zufferli__16705__Sisson Casion Deal Calculation.xlsx, john_zufferli__16705__Sisson Casion Deal Calculation.xlsx, Calc. (july 26), Junk
+./test objects/jonathan_mckay__17476__Quotes21.xlsx, jonathan_mckay__17476__Quotes21.xlsx, jonathan_mckay__17476__Quotes21, Junk
+./test objects/kam_keiser__17838__West.xlsx, kam_keiser__17838__West.xlsx, Physical, Useful
+./test objects/kam_keiser__17838__West.xlsx, kam_keiser__17838__West.xlsx, Gas Daily, Useful
+./test objects/kam_keiser__17838__West.xlsx, kam_keiser__17838__West.xlsx, Basis&Index, Useful
+./test objects/kate_symes__18887__Palo.xlsx, kate_symes__18887__Palo.xlsx, DJ Palo Verde Electricity Index, Useful
+./test objects/lindy_donoho__21973__Valuationprojects.xlsx, lindy_donoho__21973__Valuationprojects.xlsx, Sheet1, Useful
+./test objects/lindy_donoho__21973__Valuationprojects.xlsx, lindy_donoho__21973__Valuationprojects.xlsx, Sheet2, Empty
+./test objects/lindy_donoho__21973__Valuationprojects.xlsx, lindy_donoho__21973__Valuationprojects.xlsx, Sheet3, Empty
+./test objects/lspreport_02feb04.xls, lspreport_02feb04.xls, Summary, Useful
+./test objects/lspreport_02feb04.xls, lspreport_02feb04.xls, Crime, Junk
+./test objects/lspreport_02feb04.xls, lspreport_02feb04.xls, Comm Devt, Junk
+./test objects/lspreport_02feb04.xls, lspreport_02feb04.xls, ETE, Junk
+./test objects/lspreport_02feb04.xls, lspreport_02feb04.xls, Envt, Junk
+./test objects/lspreport_02feb04.xls, lspreport_02feb04.xls, Health, Junk
+./test objects/lspreport_02feb04.xls, lspreport_02feb04.xls, cross panel, Useful
+./test objects/lspreport_02feb04.xls, lspreport_02feb04.xls, Road Safety, Junk
+./test objects/lspreport_02feb04.xls, lspreport_02feb04.xls, Codes, Junk
+./test objects/mark_taylor__24983__Friday Week 2.xlsx, mark_taylor__24983__Friday Week 2.xlsx, Sheet1, Useful
+./test objects/mark_taylor__24983__Friday Week 2.xlsx, mark_taylor__24983__Friday Week 2.xlsx, Sheet2, Empty
+./test objects/mark_taylor__24983__Friday Week 2.xlsx, mark_taylor__24983__Friday Week 2.xlsx, Sheet3, Empty
+./test objects/michelle_lokay__26777__010524al.xlsx, michelle_lokay__26777__010524al.xlsx, LegalSizeRegionLoc, Junk
+./test objects/michelle_lokay__26777__010524al.xlsx, michelle_lokay__26777__010524al.xlsx, LetterSizeRegionLoc , Junk
+./test objects/monika_causholli__28291__October Flash Report.xlsx, monika_causholli__28291__October Flash Report.xlsx, October, Junk
+./test objects/monika_causholli__28291__October Flash Report.xlsx, monika_causholli__28291__October Flash Report.xlsx, .xls)September Template, Useful
+./test objects/municipal_waste_treatment_citylevel.xls, municipal_waste_treatment_citylevel.xls, R6_MWtreatment, Useful
+./test objects/neocalc.xls, neocalc.xls, JaxWorks, Junk
+./test objects/neocalc.xls, neocalc.xls, Start Here, Junk
+./test objects/neocalc.xls, neocalc.xls, JaxWorks Break-Even Analysis, Useful
+./test objects/neocalc.xls, neocalc.xls, Print Page, Junk
+./test objects/neocalc.xls, neocalc.xls, BE Calculations, Useful
+./test objects/neocalc.xls, neocalc.xls, Break-Even Analysis Data Entry, Junk
+./test objects/neocalc.xls, neocalc.xls, Current BE Chart For Printing, Junk
+./test objects/neocalc.xls, neocalc.xls, Projected BE Chart For Printing, Junk
+./test objects/neocalc.xls, neocalc.xls, BE Chart Explanation, Junk
+./test objects/neocalc.xls, neocalc.xls, Current Pie Chart, Junk
+./test objects/neocalc.xls, neocalc.xls, Projected Pie Chart, Junk
+./test objects/neocalc.xls, neocalc.xls, Applying Break-Even, Useful
+./test objects/neocalc.xls, neocalc.xls, Copyright, Junk
+./test objects/p36_Sheet1.xls, p36_Sheet1.xls, Sheet1, Useful
+./test objects/phillip_platter__31420__New SC checklist.xlsx, phillip_platter__31420__New SC checklist.xlsx, Sheet1, Junk
+./test objects/phillip_platter__31420__New SC checklist.xlsx, phillip_platter__31420__New SC checklist.xlsx, Sheet2, Junk
+./test objects/phillip_platter__31420__New SC checklist.xlsx, phillip_platter__31420__New SC checklist.xlsx, Sheet3, Empty
+./test objects/ribimv001_Static RoI calc '02.xls, ribimv001_Static RoI calc '02.xls, Static RoI calc '02, Useful
+./test objects/rick_buy__32669__Log as of 12 dec 00.xlsx, rick_buy__32669__Log as of 12 dec 00.xlsx, Sun Dec 10 to 17, Junk
+./test objects/rick_buy__32669__Log as of 12 dec 00.xlsx, rick_buy__32669__Log as of 12 dec 00.xlsx, Sum Nov 29 to Dec 3, Empty
+./test objects/rick_buy__32669__Log as of 12 dec 00.xlsx, rick_buy__32669__Log as of 12 dec 00.xlsx, Sum Nov 22 to 28, Junk
+./test objects/rick_buy__32669__Log as of 12 dec 00.xlsx, rick_buy__32669__Log as of 12 dec 00.xlsx, Sum Nov 15 to 21, Junk
+./test objects/rick_buy__32669__Log as of 12 dec 00.xlsx, rick_buy__32669__Log as of 12 dec 00.xlsx, Sum Nov 8 to 14, Useful
+./test objects/rick_buy__32669__Log as of 12 dec 00.xlsx, rick_buy__32669__Log as of 12 dec 00.xlsx, Sum Nov 1 to 7, Junk
+./test objects/rick_buy__32669__Log as of 12 dec 00.xlsx, rick_buy__32669__Log as of 12 dec 00.xlsx, Daily log - date, Junk
+./test objects/rick_buy__32669__Log as of 12 dec 00.xlsx, rick_buy__32669__Log as of 12 dec 00.xlsx, Bridgeline, Junk
+./test objects/robin_rodrigue__33215__IMCan_Gas_Bench.xlsx, robin_rodrigue__33215__IMCan_Gas_Bench.xlsx, As Queried from GRMS, Junk
+./test objects/robin_rodrigue__33215__IMCan_Gas_Bench.xlsx, robin_rodrigue__33215__IMCan_Gas_Bench.xlsx, GRMS Detail, Junk
+./test objects/sara_shackleton__36424__TBVITFund ISDA.xlsx, sara_shackleton__36424__TBVITFund ISDA.xlsx, ANEWSWP2, Junk
+./test objects/sara_shackleton__36424__TBVITFund ISDA.xlsx, sara_shackleton__36424__TBVITFund ISDA.xlsx, Baby Credit Form  , Junk
+./test objects/sara_shackleton__36424__TBVITFund ISDA.xlsx, sara_shackleton__36424__TBVITFund ISDA.xlsx, Momma Credit Form , Junk
+./test objects/sara_shackleton__36424__TBVITFund ISDA.xlsx, sara_shackleton__36424__TBVITFund ISDA.xlsx, Instructions, Junk
+./test objects/sara_shackleton__36443__050800pgas.xlsx, sara_shackleton__36443__050800pgas.xlsx, Sheet1, Junk
+./test objects/sara_shackleton__36443__050800pgas.xlsx, sara_shackleton__36443__050800pgas.xlsx, Sheet2, Empty
+./test objects/sara_shackleton__36443__050800pgas.xlsx, sara_shackleton__36443__050800pgas.xlsx, Sheet3, Empty
+./test objects/scott_neal__37937__Stgbkrpt.xlsx, scott_neal__37937__Stgbkrpt.xlsx, Sheet1, Useful
+./test objects/tables_Table 1.xls, tables_Table 1.xls, Table 1, Useful
+./test objects/tracy_geaccone__40618__1stQTRForePipes.xlsx, tracy_geaccone__40618__1stQTRForePipes.xlsx, Tab 1, Junk
+./test objects/yef00_General State Financial Aid.xls, yef00_General State Financial Aid.xls, General State Financial Aid, Useful
